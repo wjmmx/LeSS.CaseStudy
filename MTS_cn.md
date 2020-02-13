@@ -12,28 +12,28 @@ owner: illia-pavlichenko
 
 当我查看成文的案例时，我发现它就是一段走向学习型组织的旅程，一段人们不断地探索如何进行变革，以及为什么要变革的旅程。 因此，请将本案例当做一个故事来阅读、欣赏，看一群勇敢的人是如何展开永无止境的学习旅程的。
 
-## Before the Journey
+## 踏上旅程前
 
-### МТS Acquires LiteBox
+### МТS收购LiteBox
 
-In 2017, the biggest Russian telecommunicating company MTS purchased controlling stock of LiteBox which ran the business of cloud-based software for retail automation: the depot-handling system, purchasing management, analytics report, etc.
+在2017年，俄罗斯最大的电信公司MTS对LiteBox公司的股票进行了控制权收购，后者的经营业务为基于云的零售自动化：包括仓库处理系统，采购管理，分析报告等。
 
 <figure>
   <img src="/img/case-studies/mts-kassa/mts-kassa-product.jpg" alt="MTS Kassa Product">
 </figure>
 
-LiteBox became a part of the huge MTS corporation (70,000 employees) but kept almost complete autonomy in managing their own business. By the time of the LeSS implementation, the company was staffed with 200+ people and functioned as a separate business unit.
+从此，LiteBox成为庞大的MTS公司（拥有70,000名员工）的一部分，但它在管理自己的业务方面几乎保持完全的自主权。 到LeSS实施时，LiteBox已拥有200多名员工，并作为一个独立的业务部门运作。
 
-### Business Opportunity and Sense Of Urgency
+### 商业机会和紧迫感
 
-MTS management turned to me for help. At the end of 2017, we had our first negotiations. LiteBox management was expecting a huge wave (or let’s say a tsunami) of clients from July 1 2018. The user base was going to increase about a hundred times. In December 2017, the number of customers in LiteBox rose above 6000, and it was expected to be over 100,000 by the fall of 2018. LiteBox management wanted to make product development adaptive and easily scalable. After several face-to-face meetings with senior  managers we agreed to start with some phone interviews and then proceed with a deeper and structured company audit.
+MTS管理层向我寻求帮助。 2017年底，我们进行了首次协商。 原因是LiteBox管理层预计从2018年7月1日开始将掀起一股巨大的客户增长潮（或者说是海啸），用户群将增加大约100倍。 2017年12月，LiteBox的客户数量是6000多，而到2018年秋季预计将超过10万。LiteBox管理层希望产品开发具有适应性，并容易做到规模化扩展。 在与高层管理者们进行了数次面对面会谈之后，我们同意先从一些电话访谈开始，然后进行更深入和结构化的公司审计。
 
-### Studying the Organizational Design
+### 原有的组织结构
 
-The organizational design looked quite predictable and was based on traditional management approaches. The company was divided into functions or silos (finance, procurement, sales, IT, marketing, HR). Each one was managed by its own set of managers that were incentivized by their own KPIs.
+组织架构跟想象的一样，基于传统的管理理念设计的。 公司由各个职能部门或者说筒仓组成（财务，采购，销售，IT，市场营销，人力资源）。 每个职能部门都有自己的一些经理们，这些经理们也都有自己的一些KPI。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/original-organization.png" alt="Original Organizational Structure">
+  <img src="/img/case-studies/mts-kassa/original-organization.png" alt="原有的组织结构">
 </figure>
 
 ### IT-department Structure
