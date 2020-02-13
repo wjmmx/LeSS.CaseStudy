@@ -83,30 +83,29 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 
 **差劲的需求管理。** 不存在单一的需求来源。 团队抱怨着优先级冲突，因为如此多的利益相关者能够给他们派活儿：业务分析师，CTO，呼叫中心，市场部门，等等等等。没有确定的流程为需求排序。当前的需求管理系统在员工的眼中就是“垃圾”。
 
-### Studying the Whole Company
+### 研究整个公司
 
-After a series of telephone interviews and couple of days spent in LiteBox office, I presented my observations to the top managers and then rushed to the headquarters for an in-depth assessment of the whole company. We held a two days workshop with company senior management and employees focusing on company structure, values, flow of value etc. Our goal was to create an action plan and set the next steps. Some of the tools we used during the workshop were:
+经过一系列电话访谈并在LiteBox办公室工作了几天之后，我对高层管理者们介绍了自己的观察结果，然后赶往总部对整个公司进行了深入评估。我们与公司高级管理层和员工举行了为期两天的工作坊，重点讨论公司的组织结构，价值观，价值流等。我们的目标是制定下一步计划和行动方案。 我们在工作坊上使用的一些工具是：
 
-* **Scott-morton diagram.** This demonstrated the connection between key company building elements: strategy, processes, people and structure.
-* **Weighted SWOT-analysis.** It was created in mixed groups. All the factors were weighed on-scale of importance from 1 to 5.
-* **Value-stream Mapping.** This technique gave us insights into the amount of waste in the product development flow (from customer request to the value delivering). Usually it started from the first call to the customer support and finished with the new release.
+* **Scott-Morton图。** 这展示了关键的公司要素之间的联系：战略，流程，人员和结构。
+* **加权SWOT分析。** 它是在混合组中创建的。所有相关因素都使用从1到5的标准对其重要性做了权衡。
+* **价值流图。** 这项技术使我们可以获得对产品开发流（从收到客户请求到相应的价值交付）中浪费的洞察。通常，它是从客户支持收到的客户首次致电开始，结束于相应的新版本发布。
 
-**Assessment results.** The detailed company assessment proved my first conclusions regarding component teams and their dysfunctions. The value-stream mapping also showed that average cycle time for feature from start to finish was 6-7 weeks. I liked the fact that managers had some ‘Aha!’ moments during the workshop:
+**评估结果。** 细致的公司评估证明了我对组件团队及其功能障碍的最初论断。 价值流图还显示了一个特性从开始到结束的平均周期时间为6-7周。 我喜欢工作坊时管理人员的那些“啊哈！”时刻：
 
-* They agreed there was too much hierarchy for such a middle-sized company.
-* Understanding that individual KPI and bonuses locally optimized some departments in the company (sales and marketing) and opposed one function against another.
-* Everybody in the room agreed that the company did not have a solid vision and no strategic plan.
+* 他们都同意，对于这样一个中型公司而言，层次结构太多了。
+* 了解到个人的KPI和奖金在公司只是在公司的某些部门（销售和市场）做了局部优化，并将导致两个职能部门相对立。
+* 会议室中的每个人都同意公司没有明确的愿景和战略计划。
 
-**Suggestions.** No wonder that after the audit my suggestions were:
-
-* Several Scrum trainings in IT product group to educate everyone.
-* Scrum training for the CxO people.
-* Strategy planning workshop to create the company vision and strategy for the upcoming 1-2 years.
-* Simplify the organizational structure gradually and move away from functional organization to team-based one.
-* Kick off the pilot feature-team and if it succeeds go on with LeSS.
+**建议。** 不足为奇，在评估之后我给出的建议是：
+* 在IT产品组中举办Scrum培训。
+* 针对CxO人员的Scrum培训。
+* 战略规划工作坊，以明确公司愿景并制定接下来1到2年的公司战略。
+* 简化组织结构，从职能型组织逐步转变为基于团队的组织。
+* 启动特性团队作为试点，如果成功，导入LeSS。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/company-assessment.png" alt="Company Assessment">
+  <img src="/img/case-studies/mts-kassa/company-assessment.png" alt="公司评估">
 </figure>
 
 ## Journey Start - LeSS Adoption Preparation
@@ -803,3 +802,4 @@ I want to thank the senior managers of the company Sergei Muzykantov and Roman A
 
 Also, I want to thank Sergey Gospodchikov. He was the first LeSS Scrum Master in Russia. His devotion to Scrum's values, perseverance and extraordinary persistence were a huge contribution to overall success.
 
+经过一系列电话访谈并在LiteBox办公室工作了几天之后，我对高层管理者们介绍了自己的观察结果，然后赶往总部对整个公司进行了深入评估。我们与公司高级管理层和员工举行了为期两天的工作坊，重点讨论公司的组织结构，价值观，价值流等。我们的目标是制定下一步计划和行动方案。 我们在工作坊用的一些工具是：
