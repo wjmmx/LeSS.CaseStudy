@@ -118,9 +118,9 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 * 便宜且容易的适应性（“轻盈优雅地转身”）。
 * 学习。
 
-### Learning Basic Scrum
+### 学习基础的Scrum
 
-We invited senior management, some of the developers and all functional department managers (marketing, sales, compliance etc.) to attend a 2-day Professional Scrum Foundations (PSF) training. That helped them understand the values and principles that single-team Scrum is based on. There are guides in LeSS to help implement this framework in the organization (*Guide: Getting Started*). And the first step in that guide is: *educate everyone*. Now I realize that I did not properly educate everyone from the start and thus did not follow the guide. That caused problems with volunteering and support of the adoption quite soon.
+我们邀请了高层管理者，一些开发人员以及所有职能部门的经理（市场，销售，合规等）参加为期2天的专业Scrum基础（PSF，Professional Scrum Foundations）培训。 这个培训帮助他们了解了作为单团队Scrum基石的价值观和原则。LeSS中提供了一些指南，以帮助在组织中实施该框架（ *入门指南* ）。 该指南的第一步是：*教育所有人*。 现在，我意识到我从一开始就没有严格地遵循该指南，做到教育所有人。 这很快就导致了导入时志愿和支持方面的问题。
 
 ### Aligning Management With Change Story
 
