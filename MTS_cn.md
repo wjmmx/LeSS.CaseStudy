@@ -108,15 +108,15 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
   <img src="/img/case-studies/mts-kassa/company-assessment.png" alt="公司评估">
 </figure>
 
-## Journey Start - LeSS Adoption Preparation
+## 旅程开始 - LeSS导入准备
 
-### Why LeSS Adoptions Require Structure Changes
+### 为什么导入LeSS需要更改组织结构
 
-An effective LeSS adoption (also an effective adoption of single-team Scrum) usually means organizational *structure* changes (*Guide: Three Adoption Principles*). The reason is that most of the organizational structures are optimised for individual outputs and have lots of local optimisations in their design. LeSS descales organizational complexity that comes from the old structures, and introduces new simpler structures. LeSS optimising goals are the following, and these usually require structure change to support them:
+有效的LeSS导入（有效的单团队Scrum导入也是同样）通常意味着*组织结构*发生变化（ *指南：三个LeSS导入原则* ）。 原因是大多数组织结构的设计是针对个体产出进行优化的，当中包含了许多的局部优化。 LeSS降低了原有结构带来的组织复杂性，并引入了新的更简单的结构。 LeSS的优化目标如下，而这些目标通常需要更改组织结构以支持它们：
 
-* Deliver highest customer value first.
-* Cheap & easy adaptiveness (“turn on a dime for a dime”).
-* Learning.
+* 交付最高的客户价值优先。
+* 便宜且容易的适应性（“轻盈优雅地转身”）。
+* 学习。
 
 ### Learning Basic Scrum
 
