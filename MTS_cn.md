@@ -19,7 +19,7 @@ owner: illia-pavlichenko
 在2017年，俄罗斯最大的电信公司MTS对LiteBox公司的股票进行了控制权收购，后者的经营业务为基于云的零售自动化：包括仓库处理系统，采购管理，分析报告等。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/mts-kassa-product.jpg" alt="MTS Kassa Product">
+  <img src="/img/case-studies/mts-kassa/mts-kassa-product.jpg" alt="MTS Kassa产品">
 </figure>
 
 从此，LiteBox成为庞大的MTS公司（拥有70,000名员工）的一部分，但它在管理自己的业务方面几乎保持完全的自主权。 到LeSS实施时，LiteBox已拥有200多名员工，并作为一个独立的业务部门运作。
@@ -36,36 +36,36 @@ MTS管理层向我寻求帮助。 2017年底，我们进行了首次协商。 �
   <img src="/img/case-studies/mts-kassa/original-organization.png" alt="原有的组织结构">
 </figure>
 
-### IT-department Structure
+### IT部门结构
 
-Despite the final goal transforming the whole company, we started interviewing people from IT at first. They were developing a core product and major value proposition. And this is what I found out.
+尽管最终目标是对整个公司进行变革，但我们还是先从对IT部门的人员访谈开始。他们正在开发核心产品和主要价值主张。下面是我的一些发现。
 
-**Development in Component Teams.**
+**开发以组件团队进行。**
 
-30+ developers were working on the product organized in so called “project” teams. Each “project” was organized around architecture component, technology or function. Thus, they had 7 “projects”: old backend, new backend, android, windows, testing, analytics, and an API team.
+30多个开发人员通过“项目”团队组织起来进行产品开发。 每个“项目”都是围绕着架构组件，技术或职能组织的。 因此，他们有7个“项目”：旧后端，新后端，android，windows，测试，分析和API团队。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/old-feature-flow.png" alt="Old Feature Flow">
+  <img src="/img/case-studies/mts-kassa/old-feature-flow.png" alt="旧的特性开发流">
 </figure>
 
-Technological stack consisted of several programming languages and relevant frameworks: Javascript, Android, Python, SQL, Java.
+技术栈由几种编程语言和相关框架组成：Javascript, Android, Python, SQL, Java.
 
-**Coordinating roles and hierarchy**
+**协调角色及层级**
 
-As none of the “projects” was able to create usable increment and produce something valuable for the customer, there was a need in several coordination roles and hierarchy in functions:
+由于这些“项目”都无法创造可用的产品增量从而为客户创造有价值，因此需要几个协调角色和职能层级结构：
 
-* Head of analytics department.
-* Head of testing department.
-* Chief architect.
-* Backend tech leader.
-* Android development tech leader.
-* Windows development tech leader.
-* Release engineer.
+* 分析部门主管。
+* 测试部门负责人。
+* 首席架构师。
+* 后端技术负责人。
+* Android开发技术负责人。
+* Windows开发技术负责人。
+* 发布工程师。
 
-They were a completely traditional org that had adopted scrum terminology; in short, a completely fake agile/scrum no-change. After interviews, I spent two days in the LiteBox office practicing [Go See](/less/management/go-see.html). Besides having mechanical or [*copy-paste* Scrum](https://agilix.nl/blog/481-the-problems-of-scaling-scrum) approach, I immediately noticed two more things:
+他们是一个使用了一些Scrum术语的传统组织。 简而言之，就是骨子里根本没变的伪敏捷组织。 访谈后，我在LiteBox办公室里花了两天时间进行[Go See](/less/management/go-see.html)。除了生搬硬套或[*copy-paste* Scrum](https://agilix.nl/blog/481-the-problems-of-scaling-scrum) 方法外，我立即注意到另外两件事：
 
-* Each project aimed for maximum utilization, obviously that was the ultimate goal for everyone.
-* IT development suffered heavily from a huge number of bugs/incidents coming from production.
+* 每个项目都旨在最大程度地提高资源使用率，而且显然这是每个人的终极目标。
+* IT开发饱受来自生产环境的大量缺陷或者事故的折磨。
 
 ### My Observations and Conclusions
 
