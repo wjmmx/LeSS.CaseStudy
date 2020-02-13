@@ -67,21 +67,21 @@ MTS管理层向我寻求帮助。 2017年底，我们进行了首次协商。 �
 * 每个项目都旨在最大程度地提高资源使用率，而且显然这是每个人的终极目标。
 * IT开发饱受来自生产环境的大量缺陷或者事故的折磨。
 
-### My Observations and Conclusions
+### 我的观察和结论
 
-LiteBox had the hierarchic and functional organizational design with all associated and well-known problems.
+LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的所有众所周知的问题。
 
-**Dependencies.** Due to organizational structure, none of the component teams was able to deliver any feature to the customer. All component teams had dependencies that caused unnecessary planning and coordination roles.
+**依赖关系。** 由于组织结构的原因，所有组件团队都无法独立向客户交付任何功能。 所有组件团队都具有依赖性，从而导致不必要的计划和协调角色。
 
-**Handoffs and waterfall-like style.** There were numerous handoffs between the components (“projects”) that caused big queues and delayed customer feedback. The average cycle time for a feature from start to finish was 6-7 weeks.
+**交接和瀑布式。** 组件（“项目”）之间存在大量交接。这导致了严重的排队现象，客户反馈也因此延迟。一个功能从开始到完成的平均周期时间为6-7周。
 
-**Single function specialists.** Organizational structure encouraged a single function roles like business analyst, tester or developer, which made the organization fragile and vulnerable to the market changes. The current organizational structure has been optimized for busyness (“utilization”) of people, rather than for flexibility and fast value delivery.
+**单职能专家。** 组织结构鼓励像业务分析师，测试人员或开发人员这样的单一职能角色，这使组织变得脆弱并且容易受到市场变化的影响。 当前的组织结构是针对人员的忙碌程度（“资源使用率”）进行优化的，而不是针对灵活性和快速的价值交付进行优化。
 
-**Narrow focus.** Teams didn’t see the whole product, just its parts. Developers were focused on their individual busyness, not on the system effectiveness and fast value delivery. Quoting from one of the interviews, "There is no feeling all teams are working together for a common goal." Developers didn’t fully understand the value and purpose of the features they developed, since they only did component parts.
+**狭窄的视野。** 团队看到的不是整个产品，而只是产品的一部分。开发人员专注于他们个人的忙碌，而不是系统效率和快速的价值交付。在一个访谈中，有成员这么说：“没有感觉到所有团队都为共同的目标而共同努力。”开发人员并没有完全理解他们开发的功能的价值和目的，因为他们只是工作在组件部分。i
 
-**Lack of transparency.** Business people suffered from reduced transparency. They didn’t really know what the real progress of the development group was. Many things were worked on (large WIP) at once. The work was scattered all over the teams. Everyone was working hard and locally doing their best, but the development group was not effective at all.
+**缺乏透明度。** 业务人员饱受低透明度的困扰。 他们不知道开发工作的真正进展到底是什么。很多事情是在并行处理的（很大的在制品数量）。工作散落在各个团队中。每个人都工作得很辛苦，在各自的局部里尽着自己最大的努力，但是作为开发小组整体却没有成效。
 
-**Poor requirements management.** There was no single source of requirements. Teams complained about conflicting priorities because so many stakeholders were able to push work on them: business analysts, CTO, call-center, marketing department, etc. There was no established process of ordering requirements. The current requirement management system, in the opinion of employees, was "garbage".
+**差劲的需求管理。** 不存在单一的需求来源。 团队抱怨着优先级冲突，因为如此多的利益相关者能够给他们派活儿：业务分析师，CTO，呼叫中心，市场部门，等等等等。没有确定的流程为需求排序。当前的需求管理系统在员工的眼中就是“垃圾”。
 
 ### Studying the Whole Company
 
