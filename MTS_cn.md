@@ -212,18 +212,18 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
 
 回顾过去，我们花了将近两个月的时间来准备LeSS结构的导入。
 
-### Learning LeSS Framework
+### 学习LeSS框架
 
-As everyone had already attended Scrum Basics training, I thought that a one-day [Certified LeSS Basics (CLB) training](https://less.works/courses/less-basics.html) followed by a few lean coffee events would be enough to get the people buy-in. I was wrong. Now I'm sure that it is better to spend *several* days studying LeSS before you introduce the new organizational structure. People really need to understand the principles behind LeSS. You need at least several days to show how lean thinking, queueing theory and system thinking underpin LeSS rules (*Guide:Three Adoption Principles*).
+因为每个人都已经参加了Scrum基础培训，所以我认为为期一天的[LeSS Basics认证培训](https://less.works/courses/less-basics.html)（CLB），然后再进行通过几次精益咖啡聚会，就足以使人们接受LeSS。但是，我错了。现在，我认为在引入新的组织结构之前最好花几天时间学习LeSS。 人们确实很需要了解LeSS背后的那些原则。您至少需要几天的时间，才能证明精益思想，排队理论和系统思考是LeSS规则的基础（ 指南：三种导入原则 ）。
 
-Old habits and tendency towards local individual optimization appeared immediately in the first Sprint. I would definitely spend some time with developers doing system modeling and creating a few causal-loop diagrams (CLD). There is a big difference between people renting and owning the process. Also some of the topics could be covered more thoroughly during 3-day training.
+旧习惯和针对个体的局部优化在第一个Sprint很快就出现。 我绝对会花一些时间与开发人员一起进行系统建模，绘制因果关系图（CLD）。 人们在使用他人制定的流程和自己拥有的流程之间存在着巨大的差异。 在为期3天的培训中，也可以更全面地介绍一些相关主题。
 
-Coordination seemed to be the hottest topic. People didn’t believe that it was possible to manage coordination using simple guides (*Guide: Just Talk, Guide: Communicate in code, Guide: Communities, Guide: Open Space*) because of a strong culture of narrow specialists and coordination roles that have been there for a long time. At the beginning of the training, developers filled three flipcharts with coordination questions. I asked them to create a simple table with two columns–"What to coordinate" and "Coordination Techniques". After we covered all LeSS coordination practices, I asked the participants to fill in the right column with appropriate coordination practices.
+协调似乎是最热门的话题。因为领域狭窄的专家文化和协调角色在公司里存在很长时间了，人们不相信遵循这些简单的指南（ *指南：Just Talk，指南：用代码交流，指南：社区，指南：开放空间* ）能够来管理协调。在培训开始时，跟协调相关的问题，开发人员写满了三张大白纸。于是，我请他们创建一张简单的表格，该表格只有两列：“要协调的内容”和“协调技术”。 在介绍了所有LeSS协调实践活动之后，我请参会人员在正确的栏中填入合适的协调实践活动。
 
-The workshop gave people an overview of LeSS, and most of the participants questions were closed. Nevertheless I felt it was only a shallow introduction. I wish I insisted on more deep dive into LeSS principles with system diagramming that could potentially result in more buy-in and better understanding of system thinking, queueing theory and lean thinking.
+工作坊向参与者概要介绍了LeSS，大多数人的问题都能得到解答。 但是，我认为这个介绍还是太简短。 我希望当时我能坚持通过系统图例帮助他们更深入地了解LeSS原则，这可能会带来更多的认同以及对系统思考，排队理论和精益思想的更好理解。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/certified-less-basics.png" alt="Certified LeSS Basics">
+  <img src="/img/case-studies/mts-kassa/certified-less-basics.png" alt="LeSS Basics认证培训">
 </figure>
 
 ### Try...Lean Coffee Events
