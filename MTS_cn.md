@@ -118,31 +118,31 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 * 便宜且容易的适应性（“轻盈优雅地转身”）。
 * 学习。
 
-### 学习基础的Scrum
+### 学习Scrum基础
 
 我们邀请了高层管理者，一些开发人员以及所有职能部门的经理（市场，销售，合规等）参加为期2天的专业Scrum基础（PSF，Professional Scrum Foundations）培训。 这个培训帮助他们了解了作为单团队Scrum基石的价值观和原则。LeSS中提供了一些指南，以帮助在组织中实施该框架（ *入门指南* ）。 该指南的第一步是：*教育所有人*。 现在，我意识到我从一开始就没有严格地遵循该指南，做到教育所有人。 这很快就导致了导入时志愿和支持方面的问题。
 
-### Aligning Management With Change Story
+### 管理层共同讲述的变革故事
 
-After training we brought together senior management again, to create a change story. It was a message for everyone in the company explaining why the company strives for changes. Luckily, we obtained support from the company owners at the very beginning. But that was not enough. We were looking for the help and support from the whole senior management group. Why? Large-scale adoption of Scrum and agile principles is not isolated to the development group. It bumps into product management, budgeting, launch, and marketing, sales and HR policies. As the company was organized by functional silos, any senior functional manager could potentially undermine the big change.
+培训之后，我们再次将高层管理者们召集起来，共同创造一个变革故事。 这个故事是讲述给公司中每个人的，解释公司为什么要努力变革。幸运的是，我们从一开始就获得了公司负责人的支持。 但这还不够。 我们一直在寻求整个高层管理团队的帮助和支持。 为什么？ Scrum和敏捷原则的大规模导入并不局限于开发团队。 它涉及产品管理，预算，发布，营销，销售和人力资源策略。 由于公司是由职能筒仓组成的，因此任何一个筒仓的高层管理都有可能对这一重大变革产生负面影响。
 
-So then there was a change story workshop. As an outcome, we had two artifacts. The first was a matrix with filled Risks/Opportunities/Problems/Urgency. Managers aligned their views and why they needed Scrum.
+因此，这里我们设计了一个变革故事工作坊。 工作坊有两个产出。 第一个是一个矩阵，风险/机会/问题/紧急事件的信息分别归类在四个象限中。在填充矩阵的过程中，管理者们统一了他们的观点以及他们需要Scrum的原因。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/risks-opportunities-problems-urgency.png" alt="Risks Opportunities Problems Urgency">
+  <img src="/img/case-studies/mts-kassa/risks-opportunities-problems-urgency.png" alt="风险 机会 问题 紧急事件">
 </figure>
 
-The second artifact was a change story. It is a helpful tool from [lean change management](http://leanchange.org/) movement. It looks like a short and compelling message for the rest of company with key points highlighted:
+第二个产出是一个变革故事。它是[精益变革管理](http://leanchange.org/)中的一个有用的工具。 对于其他公司而言，似乎这只是一条简短而引人注目的信息，强调了以下要点：
 
-* Why we need the changes right now.
-* What we are going to do.
+* 为什么现在需要变革。
+* 我们即将要做的事情。
 
-> “Before we were agile and small. We liked it because we were autonomous, all information was transparent. Then one day we grew and became bigger and received investment from MTS. This influenced our thinking and increased the amount of work to do. That’s why we need changes in structures and processes in order to become more effective, eliminate errors and improve the product quality. We need support in mentoring and coaching to achieve agility.”
+“之前我们小且敏捷。那时我们是自治的，所有信息都是透明的。我们喜欢那时的我们。然后有一天，我们成长起来，规模变得更大，并且获得了MTS的投资。 这影响了我们的思考方式并且工作量也相应的增加。 这就是我们需要对结构和流程进行变革的原因。它会帮助我们变得更加有效，清除错误并提高产品质量。在实现敏捷变革的过程中，我们需要指导和教练方面的支持。”
 
-We made sure every employee received a digital version of the change story after the workshop.
+工作坊结束后，我们确保每个员工都能收到这个变革故事的数字版本。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/change-story.png" alt="Change Story">
+  <img src="/img/case-studies/mts-kassa/change-story.png" alt="变革故事">
 </figure>
 
 ### Learning Scrum With Pilot
