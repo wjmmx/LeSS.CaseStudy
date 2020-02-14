@@ -149,25 +149,25 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 
 根据LeSS规则，较小的LeSS实施必须“一次全部”完成。 这就意味着周五每个人都还在具有传统组织结构的公司中工作，然后在周一，产品开发的组织设计就翻转为一个崭新的组织结构。 尽管这个方法具有众多优点，但我还是无法“兜售”出该方案。尽管如此，他们还是同意成立一个特性团队作为试点，如果成功的话，随后将进行完全的LeSS导入。
 
-### Pilot Team Results
+### 试点团队结果
 
-* In the first Sprint, the pilot feature team was able to release a new feature that unexpectedly was added to the Product Backlog after the customer interview during the kick-off. An unmet need was quickly revealed and the feature was released in a week.
-* The end users participated in the Sprint Reviews and regularly gave their feedback–both qualitative and quantitative. We discovered that customer satisfaction had never been measured in the company before.
-* In a few Sprints, the team dynamics changed a lot. They were starting to learn and were gradually turning into multi-functional developers. For example, an experienced windows developer during the Retrospective said that he was going to start writing Android code in a few months.
-* The team members thinking and behavior changed. They started working in pairs and often swarmed. They grasped the idea that if everyone works on their own thing individually, they were unlikely to help each other and, in the long term, learn from each other.
-* The team was able to implement multiple features in three different channels at once.
-* The Product Owner received a more transparent development process. And he said he liked the team working like a black box that selects PBIs and gives completed features at the end with no need for extra coordination, control, etc.
-* The Team directly interacted with the market. They didn't need any additional roles for coordination and they were independent.
-* The average cycle time for the feature development was reduced 2-3 times in contrast to the component teams development.
+* 在第一个Sprint中，试点特性团队能够发布一个启动过程中做客户访谈时发现并被添加到产品待办列表中的新功能。该功能是一个未满足的需求，被很快发现后在一周内发布。
+* 用户参加Sprint评审会议，因而能够定期地提供反馈，有定性的也有定量的反馈。我们发现公司以前从未度量过客户满意度。
+* 在一些Sprint中，团队动力发生了很大变化。 他们开始学习，以逐渐成为多栈开发人员。 例如，在一次回顾会议中，一位经验丰富的Windows开发人员表示，他将在接下来的几个月内开始编写Android代码。
+* 团队成员的思想和行为发生了变化。 他们开始结对工作，并且经常集中力量一起解决问题。 他们掌握了这样一个想法：如果每个人都单独处理自己的事情，那么他们就不太可能互相帮助，从而从长远来看不太可能互相学习。
+*该团队能够同时工作在三个管道中，从而进行多个特性的开发。
+* 开发过程对产品负责人更加透明。 产品负责人说，他喜欢团队选择PBI后不需要额外的协调和控制等就能交付完整特性的，这种像黑盒子一样的工作方式。
+* 团队直接与市场互动。 他们不需要任何其他角色来进行协调。他们是独立的。
+* 与组件团队相比，特性开发的平均周期时间减少了2-3倍。
 
-I noticed that some of the component team members started visiting the Sprint Reviews. They were interested in what the pilot team was doing.
+我注意到一些组件团队成员开始参加Sprint评审会议。 他们对试点团队的工作很感兴趣。
 
-We uncovered a few negative or difficult consequences of the pilot:
+我们也发现了这次试点产生的一些负面结果或者困难：
 
-* The Product Owner was under high pressure. He had to work simultaneously with the pilot feature team and other component teams. He managed 2 Product Backlogs - one сustomer-centric for the pilot, another filled with technical-task PBIs for the component teams.
-* Feature team was operating in an environment that was different from the component teams. The Product Owner protected the pilot from the interruptions within a Sprint, for example production bugs and requests from technical support. Thus, some people said the feature team could not be considered a convincing experiment for them.
-*There was a tension between the feature team and business analyst group. Developers started to communicate directly with the customers. The business analysts viewed the feature team concept as the threat for their job positions.
-* Feature team could not independently release functionality to the market. There was still a role of the release engineer in a product group who did final system testing and made a “go for release” decision for a big batch of functionality. So, the cycle time for feature development indeed decreased a lot but the high level lead time was about the same. Features were done but had to stay in a long queue to be released.
+* 产品负责人承受着巨大的压力。 他必须与试点特性团队和其他组件团队同时工作。 他管理了2个产品待办列表：一个为了以客户为中心的试点项目，另一个是为组件团队提供技术性工作任务。
+* 特性团队在与组件团队不同的环境中运作。产品负责人有意保护试点团队在Sprint中不被干扰，比如生产环境缺陷和技术支持要求。因此，有些人说特性团队试点不能被认为是有说服力的实验。
+* 特性团队和业务分析师小组之间存在紧张关系。开发人员开始直接与客户沟通。业务分析师将特性团队开发模式视为对其工作岗位的威胁。
+* 特性团队无法独立向市场发布功能。产品组中的发布工程师仍然扮演着他们的角色，他们对一个包含很多特性的批量实施最后的系统测试，并做出“可以发布”的决定。 因此，功能开发的周期时间虽然确实减少了很多，但再高一层的周期时间却差不多。特性即便已经完成，却仍须排长队才能发布。
 
 ### Company Strategy Workshop
 
