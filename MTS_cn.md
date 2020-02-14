@@ -191,9 +191,9 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
   <img src="/img/case-studies/mts-kassa/strategy-workshop.png" alt="战略工作坊">
 </figure>
 
-### Next Steps In LeSS Adoption
+###  LeSS导入的后续步骤
 
-In the summer of 2017 I visited Craig Larman’s LeSS class in Milano. One of his memorable recommendations was "think like a politician, not like an engineer". Although the Product Owner pushed me to implement LeSS ASAP, Craig’s advice helped me to hold off with adoption. After the initial success of the pilot feature team, I observed that the level of trust from management was raised. And so we got full management support by that time. Great! But on the other hand, I realized that many developers from the component teams were still sceptical about LeSS. We wanted to educate them in order to get volunteers rather than *prisoners of the change* (*Guide: Three Adoption Principles*).
+2017年夏天，我旁听了Craig Larman在米兰的LeSS课程。 他的一个建议“像政治家一样思考，而不是像工程师一样” 让人记忆深刻。尽管产品负责人要求我尽快实施LeSS，但Craig的建议帮助我推迟了导入。在特性团队试点取得初步成功之后，我观察到管理层的信任度有所提高。 因此，到那时我们已经获得了全面的管理支持。 很棒！ 但是另一方面，我意识到组件团队的许多开发人员仍然对LeSS持怀疑态度。 我们想对他们进行教育，以便让他们成为变革的志愿者而不是囚徒 （ *指南：三项导入原则* ）。
 
 ### Transformational Backlog
 
