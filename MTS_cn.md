@@ -145,9 +145,9 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
   <img src="/img/case-studies/mts-kassa/change-story.png" alt="变革故事">
 </figure>
 
-### Learning Scrum With Pilot
+### 通过试点团队学习Scrum
 
-According to the LeSS rules, smaller LeSS implementations must be done “all-at-once”. It means that on Friday everyone works in a company with a traditional organizational structure and then on Monday a product group organizational design is flipped to the new one. Despite all the advantages of this approach, I was not able to "sell" the flip. Nevertheless, they agreed to launch a pilot feature team and later if it succeeds go on with the full LeSS adoption.
+根据LeSS规则，较小的LeSS实施必须“一次全部”完成。 这就意味着周五每个人都还在具有传统组织结构的公司中工作，然后在周一，产品开发的组织设计就翻转为一个崭新的组织结构。 尽管这个方法具有众多优点，但我还是无法“兜售”出该方案。尽管如此，他们还是同意成立一个特性团队作为试点，如果成功的话，随后将进行完全的LeSS导入。
 
 ### Pilot Team Results
 
