@@ -169,26 +169,26 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 * 特性团队和业务分析师小组之间存在紧张关系。开发人员开始直接与客户沟通。业务分析师将特性团队开发模式视为对其工作岗位的威胁。
 * 特性团队无法独立向市场发布功能。产品组中的发布工程师仍然扮演着他们的角色，他们对一个包含很多特性的批量实施最后的系统测试，并做出“可以发布”的决定。 因此，功能开发的周期时间虽然确实减少了很多，但再高一层的周期时间却差不多。特性即便已经完成，却仍须排长队才能发布。
 
-### Company Strategy Workshop
+### 公司战略工作坊
 
-The LeSS adoption was a part of the bigger initiative for the transformation of the whole company. One of the recommendations after a company assessment was to conduct a strategic session. The 3-days MTS Kassa strategy session was divided into two parts. The first two days were spent creating a vision of an organization and the new business strategy. During the third day the roadmap for the upcoming months was created.
+LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的建议之一是进行战略会议。为期3天的MTS Kassa战略会议分为两个部分。 前两天用于建立组织愿景和新的业务战略。 第三天则用于创建接下来几个月的路线图。
 
-**Vision story.** The punch line of the second day was creating a company vision. There were two activities: First, use a timeline to reveal the company's history with the most significant events and an industrial map creation (trends, players, industries, future market needs) and second, form the participants into small groups in which they created their version of a company vision story. We asked groups to imagine the company’s success in 2 years, “Imagine 2 years has passed and the MTC Kassa story is posted on the cover of a business magazine. What pictures/photos/quotes would be there? What would this article be about? What’s the title? What would be the main progress for the company?”
+**视觉故事。** 第二天的重点是建立公司愿景。 包含两个活动：首先，使用时间表来显示公司历史中的重要事件并创建产业地图（趋势，参与者，行业，未来市场需求）；其次，将参与者划分为小组，由他们来创建各自版本的公司愿景故事。 我们请各个小组想象公司在2年内能够达到的成功，“想象2年过去了，MTC Kassa的故事被刊登在商业杂志的封面上。那里会有什么样的画面/照片/引述？这篇文章是关于什么的？标题是什么？公司的主要进展是什么？”
 
-After the cover-story visioning exercise, we started crafting a short vision statement. We wanted to reach a consensus among all the participants (nearly 30 people). We spent several hours on it but it was well worth it because participants said they were really inspired by the vision created, which was:
+进行封面故事的愿景练习后，我们开始编写简短的愿景声明。 我们希望在所有参与者（将近30人）中达成共识。 我们花了几个小时在上面，但这时值得的。因为参与者说，他们切实受到了共创的愿景的激励，这个愿景是：
 
-*Every russian entrepreneur has chosen our ecosystem of B2B services as an assistant for their business.*
+*每个俄罗斯企业家都选择我们的B2B生态系统服务作为其业务的助手。*
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/vision-statement.png" alt="Vision Statement">
+  <img src="/img/case-studies/mts-kassa/vision-statement.png" alt="愿景声明">
 </figure>
 
-**Outcomes.** One of the most important results of the strategic session was the concept of the **adaptive organization** that emerged among the senior managers. They agreed that the current organizational design was optimized for keeping people busy. That’s not consistent with adaptiveness, so therefore a key new organizational design decision was to adopt LeSS.
+**结果。** 战略会议的最重要成果之一是高层管理者中涌现了适应性组织的概念。 他们一致认为，当前的组织设计是将让人们忙碌作为优化目标的。 这与适应性的目标不一致，因此，组织设计的一项新的关键决定就是导入LeSS。
 
-We banded people together around the quite bright and inspiring vision and then created a company roadmap. And that also turned out to be a great input for creating a Product Backlog.
+我们将人们召集在一起，围绕着明亮且鼓舞人心的愿景，制定了公司路线图。 事实证明，这对于创建产品待办列表也是一个很好的输入。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/strategy-workshop.png" alt="Strategy Workshop">
+  <img src="/img/case-studies/mts-kassa/strategy-workshop.png" alt="战略工作坊">
 </figure>
 
 ### Next Steps In LeSS Adoption
