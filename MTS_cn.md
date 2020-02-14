@@ -195,22 +195,22 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
 
 2017年夏天，我旁听了Craig Larman在米兰的LeSS课程。 他的一个建议“像政治家一样思考，而不是像工程师一样” 让人记忆深刻。尽管产品负责人要求我尽快实施LeSS，但Craig的建议帮助我推迟了导入。在特性团队试点取得初步成功之后，我观察到管理层的信任度有所提高。 因此，到那时我们已经获得了全面的管理支持。 很棒！ 但是另一方面，我意识到组件团队的许多开发人员仍然对LeSS持怀疑态度。 我们想对他们进行教育，以便让他们成为变革的志愿者而不是囚徒 （ *指南：三项导入原则* ）。
 
-### Transformational Backlog
+### 转型待办列表
 
-The Product Owner, a few volunteers from the product group, the Scrum Master from the pilot, and I formed the initial transformational group. Here are some of the items:
+产品负责人，来自产品小组的一些志愿者，试点团队的Scrum Master，还有我组成了最初的转型小组。 以下是一些转型待办事项：
 
-* Conduct Certified LeSS Basics (CLB) training.
-* Conduct several lean coffee workshops to answer FAQ about LeSS.
-* Create initial Product Backlog.
-* Create *HitMap*.
-* Facilitate team self-design workshop
-* Create perfection goal.
-* Teams select Scrum Masters.
-* Create Definition of Done (DoD).
-* Start communities and find component mentors.
-* Conduct Initial PBR.
+* 进行LeSS基础认证（CLB）培训。
+* 举办多个精益咖啡工作坊，回答LeSS相关的常见问题。
+* 创建初始的产品待办列表。
+* 创建HitMap 。
+* 引导团队自设计工作坊
+* 创建完美目标。
+* 团队选择Scrum Master。
+* 创建完成的定义（DoD）。
+* 建立社区并寻找组件导师。
+* 进行第一次产品待办列表梳理。
 
-Looking back, we had spent almost two months preparing for a change to the LeSS structure.
+回顾过去，我们花了将近两个月的时间来准备LeSS结构的导入。
 
 ### Learning LeSS Framework
 
