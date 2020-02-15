@@ -302,12 +302,12 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/perfection-vision.png" alt="完美愿景">
 </figure>
 
-### Definition of Done (DoD)
+### 完成的定义（DoD）
 
-We had a pilot feature team DoD as a benchmark but we still spent some time crafting the final DoD. As it often happens, developers had different understanding concerning testing terminologies (integration, e2e, functional, stress, performing). Also, their terminology was too complicated and overloaded. As a result, I suggested simplifying the categorization (*Experiment: Try... Simple testing classifications*). And it worked like a charm. The pilot feature team decided to employ a stronger version of the DoD which is in line with LeSS rules. Their list included an additional code review and more strict test coverage rules.
+虽然有试点特性团队DoD为基准，但是我们仍然花了一些时间来设计最终的DoD。 通常，开发人员对测试术语（集成，端到端，功能，压力，性能）有不同的理解。 而且，他们自己的术语过于复杂和繁琐。所以我建议简化分类（ *实验：尝试…简化测试分类* ）。非常奏效。 试点特性小组决定引入与LeSS规则相符的也更严格的DoD。他们的完成定义清单上包括额外的代码审查和更严格的测试覆盖率。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/definition-of-done.png" alt="Definition of Done">
+  <img src="/img/case-studies/mts-kassa/definition-of-done.png" alt="完成的定义">
 </figure>
 
 ### Selecting Scrum Masters
