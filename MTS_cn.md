@@ -310,30 +310,29 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/definition-of-done.png" alt="完成的定义">
 </figure>
 
-### Selecting Scrum Masters
+### 选择Scrum Master
 
-In LeSS Scrum Master is a full-time dedicated role that works with 1-3 teams. We were eager to hire an experienced Scrum Master from the market before the day we changed the organizational structure. Unfortunately, it never happened. So I eventually decided to become a second Scrum Master until somebody could replace me. We had 2 full-time Scrum Masters (Sergey Gospodchikov and me) working with 4 teams.
+在LeSS中，Scrum Master是一个专门的角色，可以服务于1-3个团队。我们期待在改变组织结构的那一天能从市场上聘请到经验丰富的Scrum Master。 不幸的是，它根本没有发生。 因而，最终我决定成为第二位Scrum Master，直到有人可以代替我为止。 这样我们有2个全职ScrumMaster（Sergey Gospodchikov和我）与4个团队合作。
 
-Teams chose the Scrum Masters they wanted to work with by voting and selecting. We facilitated the process of setting up the expectation lists for the Scrum Masters. There were some interesting topics in this list:
+团队通过投票来选择想要合作的Scrum Master。 我们还引导了为Scrum Master建立期望列表的过程。 产生的列表中有一些项挺有趣：
+* Scrum Master可能从团队处得到一个臭鸡蛋。
+* 当您被团队开除时，请不要生气。
 
-* Scrum Master could get a black spot from the team.
-* Don’t be offended when you’re fired by the team.
+### 与社区一起学习
 
-### Learning With Communities
+在第一个Sprint之前，我们为团队提供了开始建立社区的机会。这是以开放空间(Open Space)的形式进行的。每个想要建立社区的人都会走到房间的中央，大声宣布社区的成立，然后在便签上写下它的名字，再贴在一张大白纸上。这就是在不到半小时的时间内创建14个社区的方式。
 
-Before the first Sprint, we offered teams to start off the communities. We did it in the format of an Open Space meeting. Everyone wanting to start a community would just come up to the center of the room and announce it loudly, then write down its name on a sticky and put it on the flip-chart. This is how 14 communities were created in less than half an hour.
+第一个社区在几天后启动，其余的社区则在前两个Sprint中启动了。 我们确保每个社区都有Scrum Master的支持来帮助他们定义：
 
-The first communities were launched in a few days, the rest during the first two Sprints. We made sure they had a Scrum Master support to help them define:
+* 社区宗旨。
+* 工作协议。
 
-* Purpose of the community.
-* Working agreements.
+我启动并支持了Scrum Master社区（ [指南：社区](https://less.works/less/structure/communities.html) ）。我们每周聚在一起大约一个小时，分享新实践及Scrum Master技术。 例如，有很多次都在讨论关于引导和团队教练的话题。
 
-I started and supported Scrum Master Community ([Guide: Communities](https://less.works/less/structure/communities.html)). We met every week for an hour or so to share new practices and Scrum Master techniques. E.g. there were lots of meetings around facilitation and team coaching.
-
-Developers met regularly and participated in the communities with pleasure. I remember a special meeting dedicated to automation testing held with mob-programming technique. One of the designers joined it because she wanted to start studying automation. People wanted to learn!
+开发人员定期聚在一起，愉快地参加社区活动。 我还记得有一次活动是用mob编程的形式进行自动化测试开发。一位设计师之所以参加这个活动，是因为她想学习自动化。人人想学习！
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/communities.png" alt="Starting Communities">
+  <img src="/img/case-studies/mts-kassa/communities.png" alt="启动社区">
 </figure>
 
 ### Initial PBR
