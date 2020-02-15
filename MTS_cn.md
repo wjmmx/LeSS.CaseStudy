@@ -258,34 +258,34 @@ LeSS原则之一是以[客户为中心](https://less.works/less/principles/custo
   <img src="/img/case-studies/mts-kassa/hit-map.png" alt="Hit Map">
 </figure>
 
-### Team Self-designing Workshop
+### 团队自设计工作坊
 
-After HitMap creation Product Owner was sure that he needed fullstack feature teams. I helped him to set up a meeting and he presented everyone the final HitMap. The Product Owner arguments were very strong and there was no visible resistance for the idea of creating feature teams. Everyone could see the cross-functional cross-component feature teams could potentially give the company maximum agility and deliver the highest value features from the Product Backlog. Then we asked people to set up constraints for the Team formation and they came up with:
+HitMap被创建了之后，产品负责人确定他需要全栈特性团队。 我帮助他召开了一个会议，他向所有人介绍了最终的HitMap。产品负责人非常强烈地表达他的观点，创建特性团队的想法没有遇到很明显的阻力。每个人都可以看到跨职能跨组件的特性团队可以为公司提供最大的灵活性，并从产品待办列表中交付最高价值。 接着我们要求大家为组建团队设置约束条件，下列各项就是他们想到的：
 
-* Cross-functional (all development, testing, devops etc.).
-* Cross-component (all platforms: Windows, Android, web).
-* UI/UX.
-* Size from 6 to 9 people (recommendation).
-* Co-location in one room.
-* I'm ok to work with these people.
+* 跨职能（所有开发，测试，devops等）。
+* 跨组件（所有平台：Windows，Android，Web）。
+* UI/UX技能。
+* 人数从6到9人（推荐）。
+* 坐在同一房间工作。
+* 我愿意和这些人一起工作。
 
-I will not describe this process in details, it is better to read about it in [Ahmad Fahmy’s article](http://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team).
+我不在此详细描述这一过程，您可以通过阅读[Ahmad Fahmy的文章](http://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team)获得更多。
 
-I want to stress some interesting points that we faced. First, the members of the pilot team were allowed to join other teams but no one left the team. Second, after two rounds (15 min) we had two stable teams that satisfied all constraints. Still, there was lack of UI/UX skill in the third team. I had to facilitate quite a long discussion and the decision was:
+我想列举一些我们看到的有趣现象。 首先，试点小组的成员是被允许加入其他小组的，但没有人离开。 其次，经过两轮（15分钟），我们有了两个稳定的可以满足所有限制条件的团队。 但是，第三个团队仍然缺乏UI/UX技能。 我不得不引导相关的讨论，讨论时间很长，,而最终决定是：
 
-* Someone in the team would study UI/UX.
-* Use the coordination technique *Traveler* (*Guide: Traveler*).
+* 团队中的某些人将学习UI/UX。
+* 使用*Traveler*这一协调技术（ *指南：Traveler* ）。
 
-Team self-design workshop was followed by a few team-building activities:
+团队自设计工作坊之后，我们组织了一些团队建设活动：
 
-* Teams came up with the names (‘Alfa’, ‘Vegas’, ‘StarCraft’, ‘Circus’).
-* Played the game “Market of skills”.
-* Completed the matrix of competencies for all teams. Developers assessed their skill level and pointed out those they wanted to get better in.
+* 团队拥有了自己的名字（“阿尔法”，“维加斯”，“星际争霸”，“马戏团”）。
+* 玩了“技能市场”游戏。
+* 绘制了所有团队的能力矩阵。开发人员评估了他们自己的技能水平，并识别出了他们想要提高的技能。
 
-Next morning, when I came to the office, developers had already moved to the new rooms.
+第二天早上，当我来到办公室时，发现开发人员都已经搬到了各自的新房间。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/self-designing-team-workshop.png" alt="Self-designing Team Workshop">
+  <img src="/img/case-studies/mts-kassa/self-designing-team-workshop.png" alt="团队自设计工作坊">
 </figure>
 
 ### Perfection Vision
