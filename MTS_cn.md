@@ -226,22 +226,20 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
   <img src="/img/case-studies/mts-kassa/certified-less-basics.png" alt="LeSS Basics认证培训">
 </figure>
 
-### Try...Lean Coffee Events
+### 尝试…精益咖啡
 
-Anger, uncertainty and frustration are at their peak in the early stages of the change. All change management models highlight the value of communication, and lean coffee format is a good way to maximize it. It helps provide an honest dialog and reduce the unknowns. I sent a mail and invited everyone to the lean coffee session. I thought “what if nobody comes in? That would be a total failure”. Fortunately a lot of people came in and we had wonderful discussions. Unfortunately Introduction to LeSS and training was very short. People still had lots of questions and lean coffee format helped them to get answer to those. I am using lean coffee for a long time and my experience tells me the number of people showing to it usually indicate the level of interest to the certain topic in the group.
+在变革的早期阶段，愤怒，不确定性和挫败感达到顶峰。 所有变革管理模型都强调了沟通的价值，而精益咖啡是最大化沟通价值的一种好方法。 它有助于提供诚实的对话并减少未知数的机会。 我发送了一封邮件，并邀请所有人参加精益咖啡聚会。 当时我想“如果没人来怎么办？ 那可就失败到家了。” 幸运的是，有很多人进来，我们进行了有益的讨论。 不幸运的是，对LeSS的概要介绍和培训非常简短。 人们仍然有很多问题，在精益咖啡聚会上他们找到了答案。 我长期使用精益咖啡这种形式，我的经验告诉我，有多少人在喝咖啡，通常就表明他们对这个话题的兴趣程度。
 
-### Selecting a Product Owner
+### 选择产品负责人
 
-CTO was a natural choice for the Product Owner. He was one of the co-founders of the company, knew the market, business and the customers better than anyone else. The choice was so natural that I didn’t expect any side effects, but they became visible in a few months.
+CTO很自然的被选为了产品负责人。 他是公司的联合创始人之一，比其他人更了解市场，业务和客户。 选择是如此自然，以至于我没想到会有任何副作用，但是几个月后它们就变得可见了。
 
-### Product Backlog Creation
-
-All the requirements were located in a redmine tool. As the current organizational design was based on component teams, Product Backlog mostly consisted of a large number of technical tasks for component teams and it was not useful. So we armed ourselves with the company vision, middle-term business goals and created the Product Backlog from scratch.
-
-We used a visual management approach with the Product Backlog. Now it became visible and tangible, and was made of the flip-chart paper and post-its.
+### 产品待办列表的创建
+所有需求都位于一个Redmine工具中。 由于当前的组织设计是基于组件团队的，因此当时的产品待办列表主要包含了针对组件团队的大量技术任务，从用户的视角来看并没有什么价值。 因此，我们围绕着公司愿景和中期业务目标，从头开始创建产品待办列表。
+我们在创建过程中使用了可视化的方法。 现在产品待办列表变得可见且有形，由大白纸和便签纸构成。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/product-backlog.png" alt="Product Backlog">
+  <img src="/img/case-studies/mts-kassa/product-backlog.png" alt="产品待办列表">
 </figure>
 
 ### Try...Using HitMap To Analyze the Product Backlog
