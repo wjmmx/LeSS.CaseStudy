@@ -335,12 +335,12 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/communities.png" alt="启动社区">
 </figure>
 
-### Initial PBR
+### 最初的PBR
 
-**Product vision and business model.** It is useful to align developers’ understanding of a product not only on the vision level, but also getting deeper into the *business model*. LeSS product group is a part of a larger organizational context with marketing, sales, compliance, legal. and so on. That is why we started Initial PBR with teams filling business canvases and then merging them into one. We discussed all the business model sectors one by one and the Product Owner corrected us.
+**产品愿景和商业模式。** 这使开发人员对产品的理解不仅停留在愿景层面，还能更深入地理解其商业模式。 LeSS的产品组是更大的组织环境的一部分，这个环境里有市场、销售、合规性和法律， 等等。 这就是我们开始进行最初的PBR的原因。团队先填充商业画布，然后将它们合并为一个。 我们一一讨论了商业模式相关的所有领域。对我们在讨论中出现的错误，产品负责人进行了纠正。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/business-model.png" alt="Business Model">
+  <img src="/img/case-studies/mts-kassa/business-model.png" alt="商业模式">
 </figure>
 
 ### Try...Item Splitting Workshop.
