@@ -343,60 +343,59 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/business-model.png" alt="商业模式">
 </figure>
 
-### Try...Item Splitting Workshop.
+### 尝试…条目拆分工作坊。
 
-It is a typical problem: teams not being able to slice PBIs into smaller ones. It becomes even more important when you have feature teams because we want to reduce the variability with smaller batches and thus reduce the overall cycle time. We suggested teams to conduct a splitting workshop with all teams participating.
+这是一个典型问题：团队无法将PBI切成更小的PBI。 当您拥有特性团队时，足够小的PBI就变得尤为重要，因为我们希望减少小批量生产的可变性，从而减少总的周期时间。我们建议举办一个所有团队参与的条目拆分工作坊。
 
-I distributed the sheets of paper with patterns and examples of splitting items (*Experiment: Try... Split Product Backlog items*). Then I started the timer for 10 minutes and asked the participants to read the document. The most effective way to learn is to teach other people, so after 10 minutes I asked them to form pairs and gave them 10 more minutes to share learning material. The Product Owner then selected a big PBI from the Product Backlog. People formed small mixed groups and they started splitting it.
+我向团队分发了印有拆分模式和示例的纸（ *实验：尝试…拆分产品待办列表条目* ）。 然后，我启动计时10分钟，要求大家阅读文档。 学习的最有效方法是教别人，所以10分钟后我让他们结成对，并给他们10分钟的时间来做学习分享。接着，产品负责人从产品待办列表中选择了一个大的PBI。人们组成了小的混合群体，然后开始拆分这个PBI。
 
-After 20 minutes we merged and asked each group to share their results. We highlighted the most successful splitting options. I used to bring splitting patterns sheets to all the PBRs during the first Sprints so that it could be easily referred to.
+20分钟后，我们重新聚集，每个小组都被要求分享他们的拆分结果。我们重点介绍了一些最成功的拆分选项。 我通常在第一个Sprint期间的每个PBR活动中都带着拆分模式表，这样就可以轻松地参考它。
 
-### Try...Estimation and Correlation Net.
+### 尝试…估算和类比估算网。
 
-When multiple teams work on the same Product Backlog, there is a need to align units of estimates. The pilot feature team already had an experience with relative-size estimates and had many done items. We created an *estimation net* where we placed done items for benchmarking. Then I facilitated a workshop in which pilot feature team members explained to other developers *reference PBIs* and helped them to align the story points.
-
-<figure>
-  <img src="/img/case-studies/mts-kassa/estimation-net.png" alt="Estimation Net">
-</figure>
-
-**Facilitating first multi-team PBR.** Before the LeSS implementation teams were getting specifications from a dedicated analysis group. Now they were responsible for clarifying the details of each item themselves. We invited the domain experts to the room. Teams formed mixed groups and organized at four stations by different wall areas. Each station had an expert helping them in clarifying the PBI. In 25 minutes, everyone moved clockwise to another station (except the anchoring experts). The previous group already left notes, diagrams and explanations on the flip chart and it really helped. Thus, the teams needed a little bit more than an hour to clarify three PBIs. After the break, we repeated the process again.
+当多个团队处理同一个产品待办列表时，需要统一估算单位。 试点特性团队已经具有相对估算的经验，并且有许多已完成的条目。于是我们创建了一个类比估算网 ，把已完成的条目放进去以作为基准。 然后，我主持了一个工作坊，期间试点特性团队成员向其他开发人员解释了可以**被参考的PBI**，我帮助他们对齐了故事点估算标准。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/first-multi-team-refinement.png" alt="First Multi-team Product Backlog Refinement">
+  <img src="/img/case-studies/mts-kassa/estimation-net.png" alt="类比估算网">
 </figure>
 
-## Adopting LeSS Structure
-
-Remember the product group had a component structure? Now, after the team self-design workshop the structure changed and developers formed 4 new feature teams. Each team was a cross-component cross-functional autonomous unit that could take potentially any PBI from the Product Backlog. The Teams’ names were: “Alfa”, “Vegas”, “StoreCraft”, Hotfixies”.
+**引导第一个多团队PBR。** 在LeSS实施之前，团队是从专门的需求分析小组那里获得需求。 现在，他们自己负责澄清每个条目的细节。我们邀请了领域专家到会议室。团队组成混合小组，分布在按不同的墙壁区域划分的四个站点里。 每个站点都有一位专家帮助他们澄清PBI。 25分钟后，每个人都顺时针移动到另一个站点（驻扎站点的专家除外）。上一组已经在大白纸上留下了注释，图表和说明，这对新的一组人确实有帮助。因此，团队需要一个多小时来澄清三个PBI。稍作休息后，我们再次重复该过程。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/team-structure.png" alt="Team Structure">
+  <img src="/img/case-studies/mts-kassa/first-multi-team-refinement.png" alt="第一次多团队产品待办列表梳理">
 </figure>
 
+## 导入LeSS结构
 
-In the old structure, there was a business analyst team with four people in it. Those guys knew the product and its domain really well. Product support decided whether any customer request should go to the development group or should be managed by customizing product settings. Most of their time, they were writing the specs and pushing them on the component teams.
+还记得产品团队的组件团队结构吗？ 现在，在团队自设计工作坊之后，团队结构发生了变化，开发人员组成了4个新的特性团队。 每个团队都是一个跨组件跨职能的自治单元，可以工作在产品待办列表上的任何一个PBI上。 团队的名字是：“阿尔法”，“维加斯”，“ StoreCraft”，“ Hotfixies”。
 
-**Fundamental failure of a LeSS adoption.** I recommended putting business analysts inside the teams and they got an invitation, but actively resisted the new process and LeSS adoption. We left them outside the teams and the Product Owner asked them to represent him during the multi-team PBRs. That was an unskillful idea and fundamental failure of a LeSS adoption. The idea is that real customers and users (not BAs) talk directly with real coders, with no one in between, and the ex-BAs volunteer to join teams and become regular team members. This situation is the opposite of key rules & guides in for LeSS adoption. So this was not a normal/healthy adoption because this basic element was not fixed, due to a lack of understanding what volunteering in LeSS means, and the importance of removing BAs as middlemen.
+<figure>
+  <img src="/img/case-studies/mts-kassa/team-structure.png" alt="团队结构">
+</figure>
 
-**My failure in understanding volunteering principle.** One of the three principles of adopting LeSS is use *volunteering* (*Guide: Three Adoption Principles*). The product group and I misunderstood volunteering. it includes the meaning that no one joins the product group unless they have fully understood the LeSS rules, and volunteer to follow them. We had "anti-adoption" people in the adoption, which is the opposite of what is meant to happen.
+在旧的结构中，有一个业务分析师团队，包含四个人。 那些人非常了解产品及其领域。 对于一个来自客户的请求，产品支持人员决定是应该发送给开发小组，还是应该通过调整产品配置项来实现。 他们大部分时间都在编写需求文档然后推向组件团队。
 
-From that moment we had people who were not volunteering to join a LeSS adoption, who were still inside the adoption and fighting it. That caused lots of pain and frustration because “anti-adoption” people tried to undo the changes. They were eager to revert everything backwards to the previous status quo and component teams structure.
+**LeSS导入的根本失败。** 我建议业务分析师加入团队。他们得到了邀请，但是他们积极抵制新流程和LeSS导入。最终我们将他们放到了团队之外，而产品负责人要求他们在多团队PBR时代表他。 这是一个不成熟的想法，也是导入LeSS的根本失败。 理想情况是真正的客户和用户（而不是BA）直接与真正的开发人员沟通，没有中间人，而且前BA自愿加入团队并成为常规团队成员。 现在的情况与LeSS导入的关键原则和指南相反。 因此，这不是一个正常/健康的导入方式。由于缺乏对LeSS使用志愿的方式，以及消除BA作为中间人之重要性的理解，该基本要素并未实现。
 
-**Middlemen create waste.** The BAs stopped creating specs and handing them over and started collaborating with teams on the Product Backlog Items. Unfortunately, their focus moved to acting as middlemen in between the developers and customers/users:
+**我未能理解志愿原则。** 导入LeSS的三项原则之一是*使用志愿的方式*（ *指南：三项导入原则* ）。 我和产品小组误解了使用志愿的方式。 它实际包含的含义是，没有人可以加入产品团队，除非他们完全了解LeSS规则并自愿遵守。而我们在导入过程中有“反对导入”团队人员，这与原则刚好相反。
 
-* Talking with stakeholders (partners, internal marketing, sales, compliance).
-* Talking with customer support.
-* Talking with customers.
+从那一刻起，我们有了一些不支持LeSS导入但是却在导入范围内的人，他们时时与导入抗争。 这带来了很多痛苦和沮丧，因为“反对导入”的人们总试图阻挠变革。他们渴望将所有都恢复到以前的状态和组件团队的结构。
 
-Those were exactly the things that the real developers are meant to do in a LeSS adoption. But middlemen positions continued to create the wastes and problems intended to be eliminated in a LeSS adoption.
+**中间人造成浪费。** BA停止制造需求说明并将其移交给团队，并开始与团队在产品待办条目进行合作。 不幸的是，他们的重点转向了在开发人员与客户/用户之间充当中间人：
 
-**Release manager.** Another coordination role that was still left in place for a while was the release manager. The automation testing package was small at the time of the structural change and the group suffered from lots of manual end-to-end testing. That was a job of the release manager who was the most competent for that. This kind of testing became a part of the Definition of Done (DoD) at once and teams started doing this on themselves meanwhile expanding the automation pack in order to get rid of the manual testing.
+* 与利益相关者（合作伙伴，内部市场人员，销售人员，合规人员）进行交谈。
+* 与客户支持交谈。
+* 与客户交谈。
 
-In the previous component structure, the release manager was the one who made the final decision if the increment was shippable or not. She got the invitation to stay in any team, but declined the offer. This was again the point of how I misunderstood the volunteering principle of LeSS adoption.
+这些正是真正的开发人员在LeSS导入后要做的事情。 但是中间人的角色继续存在，不断造成浪费和问题。这都是应该在LeSS导入时予以摈弃的。
 
-The positive point was that the release manager didn’t resist the LeSS process, actively participated in the LeSS events (multi-team refinements, Overall Retrospective) and led one of the communities (system testing). In two months, the teams grew their skills and each teams could ship the increment to the market themselves.  By that time, the release manager joined one of the teams as the second full-time Scrum Master and replaced me. That was my recommendation because I noticed she had the right mindset, was eager to learn and wanted to help people using the facilitation style instead of command and control.
+**发布经理。** 仍然保留了一段时间的另一个协调角色是发布经理。 在进行结构更改时，自动化测试包很小，因此产品团队不得不手动执行大量的端到端测试。 那本是这位发布经理的最擅长的工作。这些测试很快成为了完成的定义（DoD）的一部分。团队开始自己做，同时扩展了自动化测试包以减少手动测试。
 
-**Management.** All the management roles in development were disbanded officially all at once. Coordinators and managers now became developers in the teams. Therefore, the titles ‘team leaders’ and ‘tech leaders’ did not exist anymore. There were still a support and training departments that were headed by their own managers but they were not included in the LeSS group. I think, in the future they could be absorbed by the LeSS product group and DoD would be extended by adding new activities: creating video and website tutorials for the clients.
+在以前的组件团队结构中，发布经理是最终决定产品增量是否可以发布的人。 她得到了留在任何团队的邀请，但她拒绝了邀请。这再次说明了我如何误解了导入LeSS的志愿原则。
+
+好的一点是，发布经理没有抵制LeSS相关的流程，而是积极参与了一些LeSS活动（多团队产品待办列表梳理，总体回顾会议），并领导了一个社区（系统测试）。在两个月内，团队提高了技能，每个团队都可以自己将产品增量交付到市场。在那个时候，发布经理加入了其中一个团队，取代我成为了第二位全职Scrum Master。 那是我的建议。因为我注意到她有正确的心态，渴望学习并且想通过使用引导而不是命令和控制的方式帮助别人。
+
+**管理。** 开发中的所有管理角色都立即被正式解散。 协调人员和经理们现在成为团队中的开发人员。 因此，不再有“团队领导”和“技术领导”的称谓。 仍然有一个由他们自己的经理领导的支持和培训部门存在，但它们不在LeSS实施范围内。 我认为，将来它们可能会被LeSS产品团队吸收，而DoD也将增加新的扩展：为客户创建视频和网站教程。
 
 ## Learning to Sprint With LeSS
 
