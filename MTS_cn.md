@@ -242,17 +242,17 @@ CTO很自然的被选为了产品负责人。 他是公司的联合创始人之�
   <img src="/img/case-studies/mts-kassa/product-backlog.png" alt="产品待办列表">
 </figure>
 
-### Try...Using HitMap To Analyze the Product Backlog
+### 尝试…使用HitMap分析产品待办列表
 
-One of the LeSS Principles is [Customer Centric](https://less.works/less/principles/customer-centric.html). It means creating an organizational design that helps to deliver highest customer value first. We were not sure if all the feature teams should be able to simultaneously deliver value on all three UI platforms. Probably it made sense to form the teams according to the customer segments. We wanted the HitMap to give us an answer. It is a very simple and solid tool. It helps to see what architectural components are used for each PBI. HitMap outline looks this way:
+LeSS原则之一是以[客户为中心](https://less.works/less/principles/customer-centric.html) 。 这意味着要创建有助于优先交付最高客户价值的组织设计。 我们不确定是否所有的特性团队都应该能够同时工作在三个不同的UI平台上来交付价值。 也许根据客户细分来组建团队是有意义的。 我们希望HitMap能帮我们找到答案。 这是一个非常简单而可靠的工具。 它能帮我们看到每个PBI使用了哪些架构组件。 HitMap看起来大致是这样的：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/hit-map-principle.png" alt="Hit Map Principle">
+  <img src="/img/case-studies/mts-kassa/hit-map-principle.png" alt="Hit Map 原则">
 </figure>
 
-The *perfection goal* is creating feature teams that can select any PBI from the Product Backlog and deliver it to the market independently at least once per Sprint. Let's say we need same product features both on Android and iOS platforms. We probably need to create Features Teams with iOS and Android capability in each of them.
+*完美目标*是创建特性团队，以从产品待办列表中选择任何PBI，并在每个Sprint至少一次独立地发布到市场。 假设我们在Android和iOS平台上都需要相同的产品功能。 我们就可能需要创建具有iOS和Android开发能力的特性团队。
 
-We spent a few hours creating HitMap. I asked the Product Owner to order the Product Backlog several months ahead to get a broad view. Finally, we had a few paper sheets filled with stickers. When we had finished our job, it was clear for the Product Owner that he needed fullstack feature-teams similar to a pilot Team one to obtain maximum agility. Major product features he planned to develop were needed through all three I/O channels (web, Android, Windows).
+我们花了几个小时来创建HitMap。几个月前我就要求产品负责人对产品待办列表进行排序整理，以获得一个长远的视图。 最终，我们在几张大白纸上贴满了便签纸。 当HitMap创建完成后，对于产品负责人来说，为了拥有最大的敏捷性，他显然需要与试点团队类似的全栈特性团队。他计划开发的主要产品功能都需要通过所有三个I/O渠道（web，Android，Windows）进行。
 
 <figure>
   <img src="/img/case-studies/mts-kassa/hit-map.png" alt="Hit Map">
