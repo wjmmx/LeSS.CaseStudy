@@ -288,18 +288,18 @@ HitMap被创建了之后，产品负责人确定他需要全栈特性团队。 �
   <img src="/img/case-studies/mts-kassa/self-designing-team-workshop.png" alt="团队自设计工作坊">
 </figure>
 
-### Perfection Vision
+### 完美愿景
 
-One of the LeSS fundamental principles is [Continuous Improvement Towards Perfection](https://less.works/less/principles/continuous-improvement-towards-perfection.html). With LeSS framework you can improve delivering value to the customer endlessly. For instance, there are no additional roles for coordination. If the framework included them in its design, what would be the motivation for people to improve beyond it if it’s embedded into the system design? The goal of LeSS is to make single-team Scrum possible in multi-team environment without introducing new roles and rules (Principle: [Large-Scale Scrum is Scrum](https://less.works/less/principles/large_scale_scrum_is_scrum.html)).
+LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.works/less/principles/continuous-improvement-towards-perfection.html)。使用LeSS框架，您可以持续不断地对交付价值给客户加以改进。举个例子，没有额外的角色做协调工作。如果框架将它们包含在设计中，那么如果将其嵌入在系统设计中，人们将有何动力对其进行改进呢？ LeSS的目标是使单团队Scrum在多团队环境中也可以工作，而无需引入新的角色和规则（原理： [大规模Scrum是Scrum](https://less.works/less/principles/large_scale_scrum_is_scrum.html)）。
 
-The perfection vision for the product group or organization is a state that will never be achieved. Any improvement experiment can be considered in the context of a created perfection vision.
+产品或组织的完美愿景是一个永远无法实现的状态。 在完美愿景的驱动下，人们可以考虑任何实验来进行改进。
 
-My colleague Cesario Ramos gave me an example of perfection vision of one organization. I had printed it and handed copies out to everybody as an example of what it could be. We asked the teams to come up with their own perfection vision. In 20 minutes, we wrote down all the ideas on a flip-chart and voted.
+我的同事Cesario Ramos给了我一个组织的完美愿景作为例子。 我把它打印了出来分发给所有人，以作参考。我们要求团队提出自己的完美愿景。20分钟后，我们在大白纸上写下了所有想法并进行投票。
 
-Ever after we referred to the perfection vision when making decision during Retrospectives. For instance, once there was an idea to create a dedicated coordinating role. It was in conflict with perfection vision and teams representatives rejected it.
+在回顾会议期间，我们在做出决策时就提到了完美愿景。例如，曾经有一个想法来创建一个专门的协调角色。这与完美愿景相冲突，团队的代表们否决了它。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/perfection-vision.png" alt="Perfection Vision">
+  <img src="/img/case-studies/mts-kassa/perfection-vision.png" alt="完美愿景">
 </figure>
 
 ### Definition of Done (DoD)
