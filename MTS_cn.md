@@ -397,25 +397,25 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 
 **管理。** 开发中的所有管理角色都立即被正式解散。 协调人员和经理们现在成为团队中的开发人员。 因此，不再有“团队领导”和“技术领导”的称谓。 仍然有一个由他们自己的经理领导的支持和培训部门存在，但它们不在LeSS实施范围内。 我认为，将来它们可能会被LeSS产品团队吸收，而DoD也将增加新的扩展：为客户创建视频和网站教程。
 
-## Learning to Sprint With LeSS
+## 学习使用LeSS框架跑迭代
 
-### First Sprint
+### 第一个迭代
 
-As the Russian proverb says, "you must spoil before you spin". This was true for the first Sprint. Despite all preparation and training, the teams met the evil of local optimization face to face. There was no customer-centric Product Backlog in the company before. Now the order in the Product Backlog was determined primarily by importance for the customer.
+正如俄罗斯谚语所言，“不犯错，不成事”。 对于第一个Sprint来说确实如此。尽管进行了所有准备和培训，但团队仍然不得不直面局部优化的弊端。 以前，公司从来没有以客户为中心的产品待办列表。现在，产品待办列表中的排序主要由对客户的重要性决定。
 
-When Android developers and designers looked at the Product Backlog they could see there was not enough work for them for the first Sprint. And they had to spend a lot of time in the Sprint studying and helping others. This is a common pattern in Scrum adoptions: for the first time, the “knowledge debt” that was always there but hidden in the silos suddenly becomes painfully visible. This is especially true in large-scale adoptions, where the silos (and knowledge debts) are large. This new “organizational transfer of learning” (to use the language of the original 1986 HBR Scrum paper), was so unfamiliar for people in the group, that some were uncomfortable with teaching and learning, rather than “doing something productive.”
+当Android开发人员和设计师查看产品待办列表时，他们可能会发现他们在第一个Sprint的工作量不足。 他们不得不在Sprint中花费大量时间来学习和帮助他人。 这是Scrum导入中的一种常见情况：团队因骤然背负上这些始终存在但隐藏在筒仓中的“知识债务”而变得痛苦不堪。 在筒仓（和知识债务）很大的大规模导入中尤其如此。 这种全新的“学习的组织转移”（organizational transfer of learning，这是1986年HBR Scrum论文中的原文。译者注：这篇Scrum论文是"[The New New Product Development Game]( https://hbr.org/1986/01/the-new-new-product-development-game)）对于团队成员来说是非常陌生的，以至于有些人对教与学感到不舒服，因为他们认为还不如“做一些产出更多的事情”。
 
-We discovered some problems that we did not take into account during the start-up. E.g. how to deal with incoming urgent tasks and bugs from technical support. Also, we did not take into account how to do regression testing in advance. Unfortunately, there was a huge technical debt and the automation tests coverage was low.
+我们发现了一些在启动过程中没有考虑到的问题。 例如，如何处理来自技术支持的紧急任务和错误。 另外，我们没有考虑如何提前进行回归测试。 而且不幸的是，存在巨大的技术债务，并且自动化测试的覆盖率很低。
 
-I also noticed that people were quite tired from lots of training and a long (3 days) kick-off. Nevertheless, the first Sprint Review was successful. The teams had PBIs to show during the Sprint Review. And the internal stakeholders who came to the event gave them positive feedback.
+我还注意到，人们因大量的培训和漫长的（3天）启动而感到非常疲倦。 尽管如此，第一次Sprint评审会议还是成功的。团队在Sprint评审会议期间显示了PBI。 参加评审的内部干系人也给予了他们积极的反馈。
 
-During the first Sprint a lot of questions arose and accumulated. There were so many similar questions from the teams that at the end of Sprint Review I suggested to hold a longer-than-usual Overall Retrospective with everyone from the product group participating. It took us three hours and a lot of patience. The outcomes were:
+在第一个Sprint期间，出现并积累了很多问题。团队中有许多问题都很类似，因此在Sprint评审会议结束时，我建议与产品团队中的每个人一起参加比以往更长的总体回顾会议。 我们耐心地花了三个小时。 结果是：
 
-* Script for those developers who had not enough work during the Sprint for their primary skill: help someone in the team (through pairing), continue learning new skills, help other teams.
-* How to do regression testing and actually release the increment. We clarified the previously created Definition of Done (DoD) and expanded it.
-* How to process urgent tasks and bugs during the Sprint: they were communicated through the separated slack channel and any team with a free capacity could take it.
+* 针对那些在Sprint期间没有足够工作是匹配其主要技能的开发人员：帮助团队中的某个人（通过结对），继续学习新技能，帮助其他团队。
+* 如何进行回归测试并实际发布产品增量。 我们澄清了先前创建的完成的定义（DoD），并对其进行了扩展。
+* 在Sprint期间如何处理紧急任务和缺陷：它们都通过一个单独的slack频道进行沟通的，任何有闲置带宽的团队都可以工作在其上。
 
-The first Sprint was not easy but the Product Owner and most of developers were committed to moving forward and succeeding.
+第一个Sprint并不容易，但是产品负责人和大多数开发人员都致力于向前推进乃至实现目标。
 
 ### Adopting Visual Management
 
