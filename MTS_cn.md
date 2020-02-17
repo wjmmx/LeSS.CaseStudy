@@ -677,16 +677,16 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 
 从一开始，特性团队与社区之间就非常契合。无论如何，经过一段时间后，很显然我们应该关注的大多数问题都在系统级别上。 几乎所有系统问题都与3个主题相关：技术债务，CI / CD和从想法或者干系人请求到交付的需求流动。
 
-### Communities Over the Time
+### 社区的发展
 
-**Communities were still alive**. After 7 months, 5 communities were still alive (CI/CD, QA, Scrum Master, UI/UX, frontend), 2 (CI/CD and backend) merged into one (CI/CD) and others died. And that is normal. The processes of birth and death should be natural for the communities.
+**社区还活着** 。 7个月后，仍然有5个社区（CI / CD，QA，Scrum Master，UI / UX，前端）仍然存在，有2个社区（CI / CD和后端）合并为一个社区（CI / CD），其他社区则不存在了。这是正常的。出生和死亡的过程对于社区来说应该是自然发生的。
 
-**Coordination**. Communities met regularly once per week or two. Each community had its own slack channel for communication. During the early months Scrum Masters were heavily involved in facilitating their meetings, but when time passed the people became more skillful and learned to facilitate by themselves. Anyway, the Scrum Master service was still available by demand and sometimes communities asked for it. For example, I remember an important point for a frontend community when they had to choose one of the several frameworks. That was really a tough and complex decision. They needed help and invited a Scrum Master who helped them to reach the consensus finally. Each community had its own wall space in a big room where they placed the announcements.
+**协调** 。 社区每周或每两周定期开会。 每个社区都有自己的slack频道。在最初的几个月中，会议的组织主要由Scrum Masters引导，但是随着时间的流逝，人们变得熟练，学会了自己做会议引导。无论如何，Scrum Master仍然可以按需提供服务。有些时候社区会有需要。例如，我记得对于前端社区来说的一个重要时刻，是当他们不得不选择多个框架之一的时候。那确实是一个艰难而复杂的决定。他们需要帮助，并邀请了Scrum Master协助他们最终达成共识。 每个社区在一个放置公告的共享房间里都有自己的一块墙面区域。
 
-**Communities recommend PBIs for inclusion**. Quite often the result of the meetings were a set of technical PBIs and improvements that community recommended the teams and product owner for the inclusion in the Product Backlog.
+**将社区建议包括PBI在内** 。 会议的结果通常是一组技术性PBI和改进，社区建议团队和产品负责人将其包含在Product Backlog中。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/community-boards.png" alt="Community Boards">
+  <img src="/img/case-studies/mts-kassa/community-boards.png" alt="社区公告板">
 </figure>
 
 ### Changing Requirements Flow Over the Time
