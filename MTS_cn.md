@@ -789,24 +789,24 @@ DoD和每个迭代透明的可交付增量从来都是Scrum的核心，但在规
 
 在导入MTS Kassa的过程中，我并不孤单。在那时，我获得了一位经验丰富的导师Cesario Ramos的帮助，他是LeSS认证培训师（CLT，Certified LeSS Trainer）。 一年中，我们通过chat进行了沟通，还共同培训了三次LeSS认证实践者课程（CLP，Certified LeSS Practitioner）。 在共同培训期间，我从Cesario那里听到许多战争故事，并且有机会观察他是如何回答学生的棘手问题的。每次培训我都会从他那里学到新东西，他的每堂课都是独一无二的。除了共同培训外，我的导师还支持我根据需求为不同的工作坊提供他个人的材料：LeSS中的完美愿景，产品的定义，人员和奖励。拥有经验丰富的LeSS教练作为您的导师是发生在我身上并且可能会发生在您身上的最好的事情之一。您将拥有加速的个人成长！
 
-## Outcomes
+## 结果
 
-It was one of the most dynamic transformations I had ever participated. My coaching engagement started in Jan 2018 and still continues. More teams are planned to be added to the product group by the end of the year. Apparently it also will be necessary to add one more channel (iOS).
+这是我参与过的最具活力的变革之一。 我作为教练参与始于2018年1月，至今仍在继续。 计划在今年年底之前将更多的团队添加到产品团队中。显然，还需要增加一个频道（iOS）。
 
-When I asked the Product Owner, who was also CTO of the company, what the most valuable things were, that he learned with LeSS, he mentioned a few points:
+当我问产品负责人（也是公司的CTO）时，他从LeSS中学到的最有价值的东西是什么，他提到了几点：
 
-* The ability to scale painlessly by adding independent feature teams.
-* Transparency in priorities (one through the Product Backlog) and clear overview of what is going on and progress.
-* Fast value delivery. Back to the first audit that happened in Jan 2018 the average cycle time for the feature was 5 weeks. Now, the feature is usually done within a two-week Sprint.
+* 通过添加独立的特性团队，可以轻松进行扩展的能力。
+* 优先级保持透明（通过产品待办列表），并清晰地概述了正在进行的工作和进度。
+* 快速交付价值。回到2018年1月进行的第一次评估时，特性的平均周期事件为5周。现在，特性通常能在两周的迭代中完成。
 
-Summing up, I want to highlight some other important points from my point of view:
+总结一下，我想从我的视角强调一些其他重要的观点：
 
-* In January, I started working with a typical functional organization where people didn't want to learn. In half a year it was different organization where an HI designer wanted to start studying programming, 5 communities thrive, and people are constantly developing new skills.
-* People noted in one-on-one conversations that they got a greater sense of work. In January, they all were narrow specialists that wanted to “utilize” themselves as much as possible. Developers from *project* teams didn't want to collaborate and help each other. With the LeSS implementation people finally realized their internal need to improve, learn and become better. Isn’t it amazing?
+* 一月份，我开始与一个人们没有学习动力的典型职能型组织合作。 在半年的时间里，视觉设计师开始想学习编程，这是另一个组织，五个社区蓬勃发展，人们不断发展新技能。
+* 人们在一对一的对话中指出，他们对工作的感觉更好。 一月份，他们都是狭窄领域的专家，他们希望尽可能地“利用”自己。 项目团队的开发人员不想合作和互相帮助。通过实施LeSS，人们终于意识到了他们内部需要改进，学习并变得更好。神奇吗？
 
-## Credits
+## 致谢
 
-I want to thank the senior managers of the company Sergei Muzykantov and Roman Ariffulin for believing in LeSS concept in January, 2018. This case is the first official LeSS case study in Russia. Sergey and Roman are pioneers indeed. Thank them for their courage and desire to move forward.
+我要感谢公司的高级经理： Sergei Muzykantov 和 Roman Ariffulin。他们在2018年1月时相信LeSS。该案例是俄罗斯第一个官方的LeSS案例研究。Sergei和Roman的确是先驱。感谢他们的勇气和前进的愿望。
 
-Also, I want to thank Sergey Gospodchikov. He was the first LeSS Scrum Master in Russia. His devotion to Scrum's values, perseverance and extraordinary persistence were a huge contribution to overall success.
+另外，我还要感谢Sergey Gospodchikov。他是俄罗斯第一位LeSS Scrum Master。 他对Scrum价值观的身体力行，毅力和执着的奉献精神为整体成功做出了巨大贡献。
 
