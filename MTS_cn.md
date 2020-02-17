@@ -628,22 +628,23 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/team-retrospective.png" alt="团队回顾">
 </figure>
 
-### Overall Retrospectives
 
-The end of the Sprint was at the end of the week (on Friday) and that is why it was decided to conduct Overall Retrospective on Tuesday afternoon, early in the next Sprint. Its permanent participants were the Product Owner, Scrum Masters, and team representatives.
+### 整体回顾
 
-**Perfection vision and eight topics for discussion**. At the kick-off, the teams created the perfection vision. This is a never truly reachable check-list of how an organization may look in ideal. Any decision made during the Overall Retrospective was inspected in order to see how it was aligned with with the perfection vision. Overall Retrospective is focused on eight topics which you can see [here](https://less.works/less/framework/overall-retrospective.html). We reminded them on each Retrospective and a lot of issues that had been forgotten and that were not in focus.
+迭代的结束是在周末（星期五），这也是为什么决定在下一个迭代的星期二下午进行整体回顾的原因。 产品负责人，Scrum Master和团队代表是永久的参与者。
 
-I'd like to list a few issues that were discussed during those Retrospectives:
+**完美愿景和八个讨论主题** 。 LeSS导入时，团队创造了完美愿景。 理想中的组织会是怎样，这是一个永远无法达到的检查清单。检查了整体回顾期间所做的任何决定，以了解其与完美愿景的一致性。 整体回顾聚焦在八个主题上，您可以在[此处](https://less.works/less/framework/overall-retrospective.html)查看。我们在每次回顾会议上都会提醒团队，以及许多已经被遗忘且没有聚焦的问题。
 
-* Completion of all DoD criterias by all teams.
-* Strengthening Definition of Done (DoD).
-* Production bugs distribution within a Sprint.
-* Teams interaction with tech support group.
-* Changing the release cycle.
+我想列举在回顾会议期间讨论过的一些问题：
+
+* 所有团队均已完成所有DoD。
+* 增强完成的定义（DoD）。
+* 一个迭代里的生产缺陷分布。
+* 团队与技术支持小组的互动。
+* 更改发布周期。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/overall-retrospective.png" alt="Overall Retrospective">
+  <img src="/img/case-studies/mts-kassa/overall-retrospective.png" alt="整体回顾">
 </figure>
 
 ### Learning to Work With 7 Teams
