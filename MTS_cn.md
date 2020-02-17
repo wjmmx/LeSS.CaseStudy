@@ -647,20 +647,21 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/overall-retrospective.png" alt="整体回顾">
 </figure>
 
-### Learning to Work With 7 Teams
 
-It became a big surprise when I learnt that MTS and LiteBox in 2017 had agreed to increase the number of teams to 7. So just after the structure changed even more new teams were added to the product group quickly.
+### 学习与7个团队合作
 
-**RITG team from outsourcing partner**. The Product Owner felt very enthusiastic starting new teams and he created a partnership with one of the outsourcing companies in the city. In several weeks, a new team named RITG was added to the product group. During several Sprints, we tried to integrate the people in the process and we failed miserably. We suffered from communication problems during PBR(s) heavily. Besides, they didn’t show up in the Sprint Review and then I recommended to bring them physically to the office. It was not an easy thing to do but despite that the Product Owner succeeded. From that moment we had 5 co-located teams in the office.
+当得知MTS和LiteBox在2017年同意将团队数量增加到7个时，我认为这是一个很大的惊喜。因此，在结构改变之后，很快有更多新团队加入了产品团队。
 
-**ROST team in the office**. Meanwhile the internal HR function helped us to create another feature team named ROST. Two member of the former pilot feature team joined it for several Sprint to make the transition more comfortable for them.
+**RITG团队来自外包合作伙伴**。 产品负责人非常有热情去组建新团队。他与同一城市的一家外包公司建立了合作关系。几周后，一个名为RITG的新团队被添加到产品团队中。有好几个迭代，我们试图将新团队融入流程中，但不幸我们失败了。在PBR期间，沟通问题给我们带来很大的困扰。此外，他们没有人参加“ 迭代评审会议”。于是我建议让新团队也来办公室工作。虽然最后产品负责人成功做到了，但这绝不是一件容易的事。从那时起，我们在同一办公室就有了5个团队。
 
-**Remote team from Ukraine**. MTS Kassa had several developers in Ukraine from the very start of the product. Those people even took part in the initial Scrum training. We agreed to not include them in the product group until they could form a co-located feature team in Kiev (they worked remotely and lived in different cities in Ukraine). And it finally happened.
+**ROST团队在办公室**。 同时，公司HR帮助我们组建了另一个名为ROST的特性团队。前试点特性团队的两名成员加入这个特性团队里工作几个迭代，以帮助这个团队舒适地过渡。
 
-**Unfortunately more middlemen**. I mentioned before that one of the key failure points of the adoption was involving people that didn’t support the change initiative and acted as the middlemen between teams and the customers. The number of teams grew and the dysfunctional business analysis group increased as well. There has been hired a new business analyst with focus on outward activities. This is how the structure looked at that moment:
+**来自乌克兰的远程团队**。 从产品的早期开发开始，MTS Kassa在乌克兰就有几个开发人员。这些人甚至参加了最初的Scrum培训。我们都同意暂不将他们纳入到产品团队中，直到他们可以在基辅组建一个同地办公的特性团队（他们远程工作并且居住在乌克兰的不同城市）为止。这终于发生了。
+
+**不幸的是更多的中间商**。 我之前提到过，导入该技术的主要失败点之一是启用了不支持变革但充当团队和客户之间中间人的人员。团队数量增加了，并且有职能障碍的业务分析组也增加了人员。他们聘请了一位新的业务分析师，主要从事对外的工作。这是当时结构的外观：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/seven-teams.png" alt="Seven Teams">
+  <img src="/img/case-studies/mts-kassa/seven-teams.png" alt="7个团队">
 </figure>
 
 ### Moving Focus From Local to System Improvements
