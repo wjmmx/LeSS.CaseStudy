@@ -709,12 +709,12 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/product-workshop.png" alt="产品工作坊">
 </figure>
 
-### Adjusted Refinement Process
+### 调整后的梳理流程
 
-Just after the product workshop, we invited the teams representatives (they were rotating each Sprint to avoid privileged or single positions) and collaboratively co-created a new process for overall- and multi-team PBR(s). This is what we came to.
+在产品工作坊结束后，我们邀请了团队代表（他们每个迭代轮换以避免特权或单一岗位），共同为整体PBR和多团队PBR创建了一个新流程。这就是我们即将看到的。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/adjusted-product-backlog-refinement.png" alt="Adjusted Product Backlog Refinement">
+  <img src="/img/case-studies/mts-kassa/adjusted-product-backlog-refinement.png" alt="调整后的梳理流程">
 </figure>
 
 **Overall PBR**:
