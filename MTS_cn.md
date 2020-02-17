@@ -664,17 +664,18 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/seven-teams.png" alt="7个团队">
 </figure>
 
-### Moving Focus From Local to System Improvements
 
-During the first months, we were focused on establishing useful processes within a new LeSS structure, holding LeSS events skillfully (believe me, multi-team PBR and Sprint Review are not easy things to implement effectively) and indeed improved a lot. At the beginning most of the developers were new to LeSS and most of the problems we coped with were:
+### 将重点从本地改进转移到系统改进
 
-* Learning and growing multi-functional people.
-* Helping each other during the Sprint.
-* [Swarming](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow) over PBIs.
-* Sprint Backlog tooling.
-* Limiting WIP in a Sprint Backlog.
+在最初的几个月中，我们聚焦于在新的LeSS结构中建立有用的流程，熟练地举行LeSS事件（相信我，多团队PBR和迭代 Review不容易做到有效地实施）并且确实取得了很多进步。最初，大多数开发人员是LeSS的新手，我们处理的大多数问题是：
 
-Coordination between feature teams and communities worked like a charm from the very start. Anyway, after some time, it became clear that most of the issues we should focus on are on the system level. Roughly all the system issues were related to 3 big topics: technical debt, CI/CD, and flow of requirements from ideas/stakeholder request to delivery.
+* 学习和发展一专多能人员。
+* 在迭代期间互相帮助。
+* [集中力量协同工作](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow)在PBI上。
+* 加工迭代待办列表。
+* 在迭代待办列表中限制WIP。
+
+从一开始，特性团队与社区之间就非常契合。无论如何，经过一段时间后，很显然我们应该关注的大多数问题都在系统级别上。 几乎所有系统问题都与3个主题相关：技术债务，CI / CD和从想法或者干系人请求到交付的需求流动。
 
 ### Communities Over the Time
 
