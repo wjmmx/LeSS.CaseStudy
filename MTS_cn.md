@@ -417,20 +417,20 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 
 第一个Sprint并不容易，但是产品负责人和大多数开发人员都致力于向前推进乃至实现目标。
 
-### Adopting Visual Management
+### 导入可视化管理
 
-**Visual management for the Product Backlog.** We visualized the Product Backlog (*Experiment: Try... Visual management for the Product or Release Backlog*) from the start. The Product Owner and the two people opposing the Scrum adoption that therefore should not have been part of the group (the 2 business analysts) maintained Product Backlog that also was there on the wall up to date. Each PBI was represented by the sticky on the board. Items moved from left to the right along the wall, getting to the “ready” state and finally becoming a part of the Sprint Backlog.
+**产品待办列表的可视化管理。** 我们从一开始就可视化了产品待办列表（ *实验：尝试…可视化管理产品待办列表或发布待办列表* ）。 产品负责人和反对Scrum导入的两个人，因此也不应该成为该小组的成员（两位业务分析师），维护着墙上的产品待办列表，保持它一直在最新的状态。 每张便签纸都代表一个PBI。待办条目沿着墙从左到右移动，进入“Ready”状态，最终成为迭代待办列表的一部分。
 
-**Visual management for the Sprint Backlog.** I suggested teams to visualize their Sprint Backlogs and limit work in progress (WIP). We conducted a short workshop on limiting the queue size and played [FeatureBan](https://www.agendashift.com/featureban). I think that this short game perfectly demonstrates why you need to limit your WIP and how better manage the queues. Each team set explicit WIP-limits for the Sprint Backlog.
+**迭代待办列表的可视化管理。** 我建议团队可视化他们的迭代待办列表，并限制进行中的工作（WIP）。 我们举办了一个关于限制队列大小的简短工作坊，并播放了[FeatureBan](https://www.agendashift.com/featureban)。 我认为这段简短的视频完美地说明了为什么您需要限制WIP以及如何更好地管理队列。每个团队都为迭代待办列表设置了明确的WIP限制。
 
-**Visual management helps in collaboration.** In LeSS there are no dependencies between teams. Why? Any feature team can work across the code base for their items. And teams manage their coordination between themselves, applying ideas such as continuous integration, communities, multi-team workshops, and sharing and swapping work. So there are only opportunities for collaboration and shared work.
+**可视化管理有助于协作。** 在LeSS中，团队之间没有依赖关系。 为什么？ 任何特性团队都可以为其待办条目跨代码库工作。团队应用诸如持续集成、社区、多团队工作坊以及共享和交换工作之类的方式，对彼此进行管理和协调。因此，团队要做的就是合作和共享工作。
 
-During Sprint Planning Two we found it helpful to mark PBIs that needed collaboration between several teams in an upcoming Sprint. Usually it was just an additional small sticky with coordination technique written on it (e.g. "scout", "component mentor", “just talk” etc.).
+在迭代计划会议第二部分时，我们发现在需要几个团队之间协作的PBI上做上标记对即将到来的迭代会很有帮助。 通常，我们就在条目上面贴一个写有对应协调技术（例如“侦察员”，“组件导师”，“只是说”等）的小便签。
 
-**Visual management for working agreements.** All major working agreements (DoD, "ready" etc.) and Retrospective decisions were kept in the same room along with Product Backlog. We put LeSS events schedule in a visual schedule and hung it in the corridor. There was also a communities events schedule next to it.
+**可视化管理工作协议。** 所有主要的工作协议（DoD，“Ready”等）和回顾会议的产出项与产品待办事项都保存在同一房间。 我们将LeSS的活动时间做成一个可可以看到的时间表，并将其挂在走廊的墙上。它旁边还有一个社区活动时间表。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/visual-management.png" alt="Visual Management">
+  <img src="/img/case-studies/mts-kassa/visual-management.png" alt="可视化管理">
 </figure>
 
 ### Try...Visual Meetings.
