@@ -501,14 +501,16 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 
 ### Overall PBR
 
-In the first Sprint it took us several hours for the overall PBR through it should be a shorttish event. Everyone was exhausted. In the next Sprints the time was reduced twice with better facilitation. The open discussion format took so long time, disengaged people and felt boring. I strictly timeboxed all the activities and suggested to conduct an event standing to keep the energy up.
+### 整体PBR
 
-We stuck to the same facilitation pattern. The Product Owner selected the next PBI to discuss and pulled it from the wall. Then he answered clarifying questions for 5-10 minutes.
+在第一个迭代中，尽管时间应该可以再短一些，整体PBR仍然花费了我们好几个小时的时间。 每个人都精疲力尽。 在下一个迭代中，通过更好的引导，时间缩短了两倍。 开放讨论花费的时间很长，参会者往往心不在焉，倍感厌烦。 为了保持拥有充沛的精力，我对所有活动作了严格的限时并建议举办一个事件。
 
-Then an express estimation followed. If PBI was more than 13 points we split it (Experiment: Try... Prefer cell-like splitting over treelike splitting).
+我们使用了相同的引导方法。 产品负责人从墙上拿下一个PBI进行讨论，然后他使用5-10分钟对提出的问题进行澄清。
+
+然后进行明确的估算。 如果PBI超过13个点，我们就将其拆分（*实验：尝试…细胞一样的拆分而非树状拆分*）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/overall-product-backlog-refinement.png" alt="Overall Product Backlog Refinement">
+  <img src="/img/case-studies/mts-kassa/overall-product-backlog-refinement.png" alt="整体PBR">
 </figure>
 
 ### Multi-team PBR
