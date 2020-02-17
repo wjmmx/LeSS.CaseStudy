@@ -214,9 +214,9 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
 
 ### 学习LeSS框架
 
-因为每个人都已经参加了Scrum基础培训，所以我认为为期一天的[LeSS Basics认证培训](https://less.works/courses/less-basics.html)（CLB），然后再进行通过几次精益咖啡聚会，就足以使人们接受LeSS。但是，我错了。现在，我认为在引入新的组织结构之前最好花几天时间学习LeSS。 人们确实很需要了解LeSS背后的那些原则。您至少需要几天的时间，才能证明精益思想，排队理论和系统思考是LeSS规则的基础（ 指南：三种导入原则 ）。
+因为每个人都已经参加了Scrum基础培训，所以我认为为期一天的[LeSS基础认证培训](https://less.works/courses/less-basics.html)（CLB），然后再进行通过几次精益咖啡聚会，就足以使人们接受LeSS。但是，我错了。现在，我认为在引入新的组织结构之前最好花几天时间学习LeSS。 人们确实很需要了解LeSS背后的那些原则。您至少需要几天的时间，才能证明精益思想，排队理论和系统思考是LeSS规则的基础（ 指南：三种导入原则 ）。
 
-旧习惯和针对个体的局部优化在第一个Sprint很快就出现。 我绝对会花一些时间与开发人员一起进行系统建模，绘制因果关系图（CLD）。 人们在使用他人制定的流程和自己拥有的流程之间存在着巨大的差异。 在为期3天的培训中，也可以更全面地介绍一些相关主题。
+旧习惯和针对个体的局部优化在第一个Sprint很快就出现。 我绝对一些时间与开发人员一起进行系统建模，绘制因果关系图（CLD）。 人们在使用他人制定的流程和自己拥有的流程之间存在着巨大的差异。 在为期3天的培训中，也可以更全面地介绍一些相关主题。
 
 协调似乎是最热门的话题。因为领域狭窄的专家文化和协调角色在公司里存在很长时间了，人们不相信遵循这些简单的指南（ *指南：Just Talk，指南：用代码交流，指南：社区，指南：开放空间* ）能够来管理协调。在培训开始时，跟协调相关的问题，开发人员写满了三张大白纸。于是，我请他们创建一张简单的表格，该表格只有两列：“要协调的内容”和“协调技术”。 在介绍了所有LeSS协调实践活动之后，我请参会人员在正确的栏中填入合适的协调实践活动。
 
@@ -433,58 +433,60 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/visual-management.png" alt="可视化管理">
 </figure>
 
-### Try...Visual Meetings.
+### 尝试…可视化会议。
 
-I'm a fan of David Sibbet and concept of **visual meetings**. I like to visualize everything during the meetings. I call visual meetings "alive" because they stimulate a high level of participation, create a big picture of what is going on, and support a group memory. Here is what distinguishes "alive" meeting from the "dead" ones:
+我是David Sibbet和可视化会议的粉丝。 我喜欢在会议中可视化所有内容。 我将视觉会议称为“活的”会议，是因为它可以激发高水平的参与度，呈现正在发生的事情的全面情况，并支持群组记忆。 以下是“活的”会议与“死的”会议的区别：
 
-* Participants are standing and have an active discussion.
-* Working in small groups (up to 5 participants).
-* No electronic devices, just stickies, markers, scissors, flip charts and paper.
-* Visualising everything that is being discussed (everyone is heard).
-* Cycles of diverge and merge which help teams to benefit from working in small groups and autonomous discussions as well as synchronizing with others during the plenary (merge).
+* 与会者们站着进行积极的讨论。
+* 以小组形式（最多5人）进行工作。
+* 没有电子设备，只有黏胶，马克笔，剪刀，大白纸和打印纸。
+* 可视化正在讨论的所有内容（每个人的声音都被听到）。
+* 周期性的分散和合并有助于团队从小组讨论和自主讨论中受益，并在整个会议期间与他人保持同步（合并）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/visual-meetings.png" alt="Visual Meetings">
+  <img src="/img/case-studies/mts-kassa/visual-meetings.png" alt="可视化会议">
 </figure>
 
-### Coordination
+### 协调
 
-It is interesting that the team saw coordination as the most important issue before being introduced to LeSS. I noticed during lean coffee that most of questions were about coordination. We closed the issue quickly. Before the changing structure all-at-once, we had a [Certified LeSS Basics (CLB)](https://less.works/courses/less-basics.html) training where we discussed coordination. From what I have observed that the most common coordination practices used then were *Guide: Communicate in Code*, *Guide: Just Talk* and its more advanced version *Just Shout*. Teams also picked up the needed practices just-in-time during Sprint Planning Two. LeSS relies on emerging coordination based on self-organization. One of the important elements of self-organization was the location of all the teams in the side-rooms connected with one big corridor. We also had a joint room with all information radiators in it.
+有趣的是，在引入LeSS之前，团队将协调视为最重要的问题。 我在精益咖啡聚会时注意到大多数问题都与协调有关。我们很快就解决了这个问题。 在一次性更改团队结构之前，我们进行了LeSS基础认证（CLB）培训，期间我们讨论了协调。从我的观察中可以看出，最常使用的协调方法是 *指南：用代码交流*，*指南：只是说* 及其更高级的版本 *只是喊*。 团队还在迭代计划第二部分的时候及时选择了所需的实践。 LeSS依靠基于自组织的协调行为。自组织的重要要素之一是所有团队的房间都通过一个大走廊相连。 我们还有一个共享的房间，在里面可以看到所有的信息。
 
-### Sprint Planning One
+### 迭代计划会议第一部分
 
-One hour before the first part of Sprint Planning, the Product Owner with the two business analysts made final changes to the Product Backlog. Then representatives from all teams (usually 2 people per team) participated in Sprint Planning One.
+在迭代计划会议的第一部分开始前一个小时，产品负责人和两名业务分析师对产品待办事项进行了最终更改。 然后，所有的团队代表（通常每个团队2人）参加了迭代计划会议第一部分。
 
-**Meeting agenda**. We usually followed the following agenda:
+**会议议程**。我们通常遵循下面的议程：
 
-* Product Backlog update (return not done work to the Product Backlog and reestimate the remaining efforts).
-* Product Owner briefly describes the top of the Product Backlog and clarifies the final minor details of the items if requested.
-* Look at the Definition of Done (DoD) again.
-* Team representatives physically select the PBIs from top of the “ready” column and put them in their team’s swimlanes on a board.
-* Find the opportunities for collaboration between the teams and visualize them on the board.
-* Decide if teams need *multi-team* Sprint Planning Two.
-* Define a common Sprint Goal for the whole product group and/or individual Sprint Goals for the teams.
+* 产品待办事项更新（未完成的工作返回到产品待办事项，并重新估算剩余的工作）。
+* 产品负责人简要介绍处于产品待办列表顶部的待办条目，并根据请求情况对这些条目的部分细节做最后的澄清。
+* 再次查看“完成的定义”（DoD）。
+* 团队代表从“就绪”区域顶部开始实际选择PBI，并将它们放入团队的泳道中。
+* 找到团队之间需要进行合作的待办条目，在公告板上对它们进行标识。
+* 决定团队是否需要多团队迭代计划会议第二部分。
+* 为整个产品团队定义一个共同的迭代目标 并且/或者 为各个团队定义各自的迭代目标。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/sprint-planning-one.png" alt="Sprint Planning One">
+  <img src="/img/case-studies/mts-kassa/sprint-planning-one.png" alt="迭代计划会议第一部分">
 </figure>
 
-**Sprint Goals**. LeSS does not mention the Sprint Goal, as one of LeSS principles is [Large-Scale Scrum Is Scrum](https://less.works/less/principles/large_scale_scrum_is_scrum.html), so LeSS does not duplicate *elements* in the Scrum Guide (*to avoid repetition*).
 
-**The Examples of Sprint Goals in LeSS**. The question appears - whether to define one Sprint Goal for the whole product group or each team should have their own Sprint Goal, or both? There is no right answer. All options are possible in my humble opinion. Here are a few examples:
+**迭代目标** 。 LeSS中并没有提到迭代目标，因为LeSS的原则之一是 [大规模Scrum是Scrum](https://less.works/less/principles/large_scale_scrum_is_scrum.html) ，所以LeSS不会拷贝粘贴Scrum指南中的元素 （ 以避免重复 ）。
 
-1. The common goal of the first Sprint was "Kick-off LeSS". Besides that, Alfa team had their own goal “create an order for the cashier”.
-2. The common coal of the second Sprint was "say goodbye to the legacy of component teams", each team had additional goals "completing the module of import of goods", “complete the order creation for the cashier", "cashier + MGTS ", "release + yandex OFD".
-As you can see, different combinations are possible. I personally like when the whole product group defines a common Sprint Goal.
+**LeSS中迭代目标的例子**。 问题出现了：是为整个产品团队定义一个迭代目标，还是每个团队都应该有自己的迭代目标，还是两个都定义？ 没有标准答案。我认为所有选项都是可能的。这里有一些例子：
 
-### Sprint Planning Two
+1.	第一个迭代的共同目标是“启动LeSS”。 除此之外，阿尔法团队有自己的目标“为收银员创建订单”。
+2.	第二个迭代的共同目标是“告别组件团队的传统”，每个团队还有其他目标：“完成货物进口模块”，“完成收银员的订单创建”，“收银员+ MGTS”， “发布+ yandex OFD”。
 
-The second part of the Sprint Planning in our case was trivial. As all coordination possibilities were revealed in the first part, the teams determined whether the planning of several teams together should take place. In this case, teams decided to conduct Sprint Planning Two in a big joint room (*Guide: Multi-Team Sprint Planning Two*). But usually teams just went to their rooms and with the help of the Scrum Masters created their Sprint Backlogs. It took around 30-40 minutes maximum. Now, my recommendation for the Sprint Backlog tools goes in line with the LeSS guide (*Guide: No Software Tools for Sprint Backlog*):
+就像您看到的这样，可能有不同的组合。 个人来说，我比较喜欢整个产品团队定义一个共同的迭代目标。
 
-> Don’t use any software tool for Sprint Backlogs; just use physical visual management, probably cards on a wall (Large-Scale Scrum: More with LeSS)
+### 迭代计划会议第二部分
+
+在我们的案例中，迭代计划的第二部分是微不足道的。 因为在会议的第一部分中识别了所有的协调可能性之后，团队会决定是否应该一起讨论多个团队的计划。 如果需要的话，团队决定在一个大的共享空间中进行迭代计划会议第二部分（ *指南：多团队迭代计划第二部分* ）。 但大多数情况下，团队只是回到自己的房间，在Scrum Master的帮助下创建他们的迭代待办列表。 最多花30-40分钟。 对于迭代待办列表的工具，我的建议与LeSS指南一致（ *指南：不使用软件工具管理迭代待办列表* ）：
+
+不要为迭代待办列表使用任何软件工具； 只用使用可视化管理，可能只是贴在墙上的卡片（大规模Scrum：少即是多）
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/sprint-planning-two.png" alt="Sprint Planning Two">
+  <img src="/img/case-studies/mts-kassa/sprint-planning-two.png" alt="迭代计划会议第二部分">
 </figure>
 
 ### Learning Refinement in LeSS
@@ -799,3 +801,4 @@ I want to thank the senior managers of the company Sergei Muzykantov and Roman A
 Also, I want to thank Sergey Gospodchikov. He was the first LeSS Scrum Master in Russia. His devotion to Scrum's values, perseverance and extraordinary persistence were a huge contribution to overall success.
 
 经过一系列电话访谈并在LiteBox办公室工作了几天之后，我对高层管理者们介绍了自己的观察结果，然后赶往总部对整个公司进行了深入评估。我们与公司高级管理层和员工举行了为期两天的工作坊，重点讨论公司的组织结构，价值观，价值流等。我们的目标是制定下一步计划和行动方案。 我们在工作坊用的一些工具是：
+旧习惯和针对个体的局部优化在第一个Sprint很快就出现。 我绝对会花一些时间与开发人员一起进行系统建模，绘制因果关系图（CLD）。 人们在使用他人制定的流程和自己拥有的流程之间存在着巨大的差异。 在为期3天的培训中，也可以更全面地介绍一些相关主题。
