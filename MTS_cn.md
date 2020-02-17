@@ -769,25 +769,25 @@ DoD和每个迭代透明的可交付增量从来都是Scrum的核心，但在规
   <img src="/img/case-studies/mts-kassa/definition-of-done-format.png" alt="完成的定义的格式">
 </figure>
 
-### Try... Explain DoD Defines Adaptiveness
+### 尝试…解释DoD定义适应性
 
-I find that many product groups find the DoD quite a formal check-list and are not aware of the fact that DoD indeed defines how adaptive they are. I also found that teams and business start looking at the DoD more seriously when you show them that DoD defines their agility. Use system diagrams for that. I did it several months after the LeSS launch and now will do at the start of any further LeSS endeavor.
+我发现许多产品小组只知道DoD是一个正式的检查清单，却不知道DoD其实还定义了他们的适应性。我还发现，当您向团队和业务部门展示DoD其实定义了敏捷性时，他们就开始更加认真地看待DoD。请参照下面的系统模型图例。在这里我在LeSS导入几个月后就做了，以后我将努力在LeSS一开始导入的时候就做。
 
 <figure>
-<img src="/img/case-studies/mts-kassa/definition-of-done-system-model.png" alt="Definition of Done System Model">
+<img src="/img/case-studies/mts-kassa/definition-of-done-system-model.png" alt="DoD定义适应性的系统模型">
 </figure>
 
-### Try...Mature and Courageous Scrum Masters
+### 尝试…成熟又勇敢的Scrum Master
 
-Scrum is a big change even for the single-team context. Having a *courageous* Scrum Master seems to be one of the key success LeSS adoption factors. By courageous Scrum Master I mean a solid and experienced person that is able to talk about unpopular things and able to uncover the ugly truth. One of my clients (a big bank) decided to hire inexperienced young university graduates and make them Scrum Masters. The experiment failed miserably. The young people were able to learn how to facilitate. They prepared great looking flip-chart and drew lovely burndown charts. But they never became change agents and were unable to remove any organizational impediment. They were not mature enough and were not prepared for working under pressure. In MTS Kassa it was a pleasure to work with 2 great and mature Scrum Masters that protected the teams, sometimes directly confronting a Product Owner and senior management. Thank them!
+即使对于单团队而言，导入Scrum也是一个巨大的变化。拥有勇敢的 Scrum Master似乎是LeSS导入成功的关键因素之一。 勇敢的Scrum Master是指一个可靠而经验丰富的人，能够谈论不受欢迎的事情并能够揭露丑陋的真相。我的一位客户（一家大银行）决定聘请经验不足的年轻大学毕业生，让他们担当Scrum Master。实验惨败。年轻人能够学习如何引导。他们准备了精美的大白纸，并绘制了可爱的燃尽图。但是他们没有成为变革推动者，也无法消除任何组织障碍。他们还不够成熟，没有做好在压力下工作的准备。 在MTS Kassa中，很高兴与2位优秀且成熟的Scrum Master合作。他们保护了团队，有时还要直接面对产品负责人和高级管理层。谢谢他们！
 
-### Try...Learn From Other LeSS adoptions
+### 尝试…向其他LeSS导入方法学习
 
-In 2018 I helped three companies with their LeSS Adoptions and knew lots of people, both Product Owner and Scrum Masters. One of the companies that adopted LeSS in Russia in 2018 was DoDo Pizza. They were especially strong in engineering practices. The Product Owner asked if he could visit and see how LeSS was implemented in that company and I helped him to get there. He came back with lots of insights and I guess that was very helpful as many technical related PBI went up in the Product Backlog just after that. That never happened before.
+2018年，我帮助三家公司导入了LeSS，并认识了很多人，包括产品负责人和Scrum Master。 DoDo Pizza是2018年在俄罗斯导入LeSS的公司之一。 他们在工程实践方面尤其强大。产品负责人询问他是否可以拜访并了解一下LeSS在该公司中是如何实施的。我帮助他实现了。 他带回来了很多洞察。我认为非常有帮助，因为许多技术相关的PBI随后就在Product Backlog中出现。在之前却从来没有发生过。
 
-### Try...Obtain an Experienced LeSS Mentor
+### 尝试…找到一位经验丰富的LeSS导师
 
-During MTS Kassa adoption I was not completely alone. By that time I had help from a very experienced mentor Cesario Ramos who is a Certified LeSS Trainer (CLT). We communicated through chat and also co-trained three Certified LeSS Practitioner (CLP) classes during a year. During co-training I could hear many war stories from Cesario and also observed him while answering tricky questions from students. Each training I learned something new from him, every class was unique. Besides the co-training my mentor supported me in providing his personal materials for different workshops by request: perfection vision, product definition, people and rewards in LeSS. Having an experienced LeSS Coach as your mentor is one of the best things that have happened to me and can happen to you. It’s an accelerated personal growth!
+在导入MTS Kassa的过程中，我并不孤单。在那时，我获得了一位经验丰富的导师Cesario Ramos的帮助，他是LeSS认证培训师（CLT，Certified LeSS Trainer）。 一年中，我们通过chat进行了沟通，还共同培训了三次LeSS认证实践者课程（CLP，Certified LeSS Practitioner）。 在共同培训期间，我从Cesario那里听到许多战争故事，并且有机会观察他是如何回答学生的棘手问题的。每次培训我都会从他那里学到新东西，他的每堂课都是独一无二的。除了共同培训外，我的导师还支持我根据需求为不同的工作坊提供他个人的材料：LeSS中的完美愿景，产品的定义，人员和奖励。拥有经验丰富的LeSS教练作为您的导师是发生在我身上并且可能会发生在您身上的最好的事情之一。您将拥有加速的个人成长！
 
 ## Outcomes
 
