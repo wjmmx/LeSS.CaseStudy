@@ -513,84 +513,85 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/overall-product-backlog-refinement.png" alt="整体PBR">
 </figure>
 
-### Multi-team PBR
+### 多团队PBR
 
-One could think - why do several teams need to work in one room and to refine several PBIs at the same time? Wouldn't it be more *locally* “efficient” for each team to conduct their own single-team PBR? Let’s figure that out.
+谁会想到，为什么需要几个团队在一个房间里工作并同时优化几个PBI？ 每个团队进行自己的单团队PBR会 “效率”更高吗？ 让我们弄弄清楚。
 
-**Adaptiveness**. If several teams know several PBIs then the Product Owner can decide as late as possible which PBIs to offer for the upcoming Sprint, not constrained by limited knowledge in particular teams. It gives additional flexibility in changing priorities for the Product Owner.
+**适应性**。 如果几个团队对几个PBI都了解，则产品负责人可以推迟决定哪些PBI该包含在接下来的迭代范围里，不用受特定团队只有某些特定知识的约束。 它为产品负责人的修改优先级提供了更大的灵活性。
 
-**Understanding product**. The more PBIs teams know the better they understand the business domain and the product itself. And more brains thinking about the items creates a more thorough clarification, considering aspects that only one team might miss (*Principle: whole product focus*).
+**了解产品**。 团队对PBI了解的越多，他们对业务领域和产品本身的了解就越多。而且只有一个团队关注可能会有遗漏的方面，有更多个大脑进行思考，这些条目的澄清就会更彻底（ *原理：关注整个产品* ）。
 
-**Coordination based on self-organization**. When teams know many PBIs they can help each other in the Sprint. Therefore, a coordination based on self-organization emerges. This is how it looks with a *system model*:
-
-<figure>
-  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement-system-model.png" alt="Multi-team Product Backlog Refinement System Model">
-</figure>
-
-### Multi-team PBR complexity
-
-There are many benefits you can get from multi-team PBR. Nevertheless, there are issues. Let’s look at them.
-
-**Information overload**. The more teams are in the same room participating in multi-team PBR the more PBIs they know together. So information overload can be the side-effect of multi-teams PBR.
-
-**Facilitation**. It is not easy to facilitate the event with dozens of people participating. When facilitated badly it causes wastes and developers no longer want to be part of multi-team PBR. Let’s explore that in a system model:
+**基于自组织的协调** 。 团队了解的PBI越多，他们越能够在迭代中互相帮助。 因此，也越容易出现基于自组织的协调。 下面是相关的系统模型：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement-complexity-system-model.png" alt="Multi-team Product Backlog Refinement Complexity System Model">
+  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement-system-model.png" alt="多团队产品待办列表梳理系统模型">
 </figure>
 
-### Tips for Multi-team PBR Facilitation
+### 多团队PBR的复杂性
 
-I want to share a few tips that I used for making multi-team PBR more effective.
+多团队PBR有许多好处。 尽管如此，还是有一些问题。 让我们看看它们。
 
-**Thorough preparation**. It may take up to several hours to prepare. It includes but is not limited to: meeting with the event stakeholders beforehand, developing facilitation plan, visualization on the flip-charts (purpose, agenda), and the preparation of the room before the event (removing tables, chairs, putting flip-charts etc).
-* **Warming up**. In my opinion it is important to start any LeSS event with a small game or icebreaker to turn on participation. You can find a lot of these activities in the book [Moving Beyond Icebreakers](http://www.movingbeyondicebreakers.org/).
-* **Small groups**. You can effectively facilitate a meeting with a large number of people using small groups and other decentralization techniques. There are many formats of working in small groups in the book [Facilitator's Guide To Participatory Decision Making](https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-bass-Management/dp/1118404955).
+**信息过载** 。 同一房间中参与多团队PBR的团队越多，他们需要了解的PBI就越多。 因此，信息过载可能是多团队PBR的副作用。
 
-> Centralization destroys energy; decentralization creates it (Large-Scale Scrum: More with LeSS).
-
-**Mixed groups**. In addition to a previous recommendation, it is preferable to work in small groups that include members from different teams.
-
-> Start by forming temporary mixed groups with people from each team. For example, two teams re-form into two mixed groups (Large-Scale Scrum: More with LeSS).
-
- This is the way to enhance the collaboration between the different teams and decrease the information scatter. Every member of the individual team becomes is a part of common knowledge puzzle.
-
-**Diverge-Merge and rotation**. In addition to previous two recommendations, these are two more usable techniques for large facilitations. First one is giving a PBI to each small group, let them work in parallel at several stations and refine until “ready” state, then merge everyone into an open discussion.
-
-> Groups spend some time working separately in different areas of the room for refinement on different (or identical) items, and then spend time all together to share insights, ask questions, and seek other coordination opportunities (Large-Scale Scrum: More with LeSS).
-
-Rotation means that small groups move clockwise from station to station in several rounds, while the business experts stay still on the station. Every station works on its own PBI. I like this practice very much and I have multiple experiences of its effectiveness. Imagine that after the first round that takes approximately 20-25 min, another group approaches the station. This group is not familiar with the feature yet but they have an information regarding acceptance criterias, graphics, etc., created by previous group that occupied that station. All they need is just grasp the new information.
-
-**Visual management**. Often when people use electronic devices during the meetings, these meetings become dead. Somebody becomes a bottleneck with keyboard in his hands, the rest are also bored looking at their phones. On the other hand, scissors, paper, stickers, and flip-charts stimulate the collaboration.
-
-**Work standing**. If possible I take off all the chairs from the room where I conduct a multi-team PBR beforehand. Meetings with people standing are more dynamic, people are engaged, have more energy and stay focused.
-
-**Definition of "ready"**. Teams thrive when they share the same definition of “ready” for the PBIs they refine on the station because it reduces variability a lot. Here is the first version of the “ready” we agreed on the start:
-
-* There is a size estimate (in points) for each PBI.
-* There is business value estimate from the Product Owner.
-* PBI is less than 13 points, otherwise it’s split.
-* The understanding of the feature is at least 7 out of 10 where 10 is an exceptional understanding of the PBI, no other clarification needed.
-* If graphical interface needed, there is an HI mockup.
-* Acceptance criterias are in place.
-
-**Strict timeboxing**. Do not let the meeting "fall apart". Use strict timeboxes for all activities and rounds of the world cafe (rotate) and alert the group with a signal. When the time is up don’t be afraid to explicitly stop the group and ask them how much time they need more.
-
-**Feedback**. Conduct a small retrospective at the end of each PBR event. I asked everyone to evaluate the effectiveness of an event on the scale of 1 to 10 voting with a sticky with detailed feedback written on it.
-
-We experimented with different formats of multi-team PBR. As a result, after some time, we achieved a stable format of it that we didn't change much afterwards:
-
-* Teams, the Product Owner (optional) and experts participate in multi-team PBR.
-* Mixed groups are organized.
-* Mixed groups select Product Backlog Items they want to discuss and bring them to the station.
-* Work at the stations, estimating, refining and writing acceptance criterias up to the “ready” state. If necessary groups add mockups, diagrams, examples and other graphical explanations.
-* Experts stay at the stations while other participants move in across the room (world cafe) and explore the PBIs refined by other groups.
+**引导** 。 要让数十人参加这个事件并不容易。如果引导不当，则会造成浪费，从而开发人员不再希望参加多团队PBR。 让我们在系统模型中探索一下：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement.png" alt="Multi-team Product Backlog Refinement">
+  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement-complexity-system-model.png" alt="多团队产品待办列表梳理复杂度系统模型">
 </figure>
 
-I found that both parts of the Sprint Planning take no more than an hour and a half (two hours maximum) when a multi-team PBR is done properly. Multi-team PBR has become a key event in this adoption as it was a driver for coordination, better product understanding and adaptiveness.
+### 多团队PBR引导技巧
+
+我想分享一些使多团队PBR更有效的技巧。
+
+**充分的准备** 。 准备最多可能会需要几个小时。 它包括但不限于：事先与事件干系人会面，制定引导计划，在活动挂图上进行可视化（目的，议程）以及在事件之前准备好空间（移走桌子，椅子，放置活动挂图架等等）。
+
+* **热身** 。 我认为通过小型游戏或破冰活动开始任何LeSS事件以提高参与度很重要。 您可以在《 [Moving Beyond Icebreakers](http://www.movingbeyondicebreakers.org/)》一书中找到很多类似的活动。
+* **小组** 。您可以使用小组和其他分散技术有效地引导有很多人参加的会议。 《 [Facilitator's Guide To Participatory Decision Making](https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-bass-Management/dp/1118404955)》一书中有许多以小组进行工作的形式。
+
+> 中心化毁了活力；去中心化创建活力（大规模Scrum：少即是多）。
+
+**混合组** 。 除了前面的建议外，小组最好是由来自不同团队的成员组成。
+
+> 从由每个团队的人员组成临时的混合小组开始。 例如，两个团队重组为两个混合组（大规模Scrum：少即是多）。
+
+这是增强不同团队之间的协作并减少信息分散的方法。 每个团队的每个成员都是常识谜题的一部分。
+
+**分散-集中和轮转** 。 除了前面的两个建议外，这是可用于大型人群引导的另外两种技术。 首先是将PBI分配给每个小组，让他们在多个站点并行工作并完善到“就绪”状态，然后每个人都参加到一个集中的公开讨论中。
+
+> 各个小组花一些时间在房间的不同区域分别工作，以完善不同（或相同）的项目，然后花时间在一起共享各自的见解，提出问题并寻求其他协调机会（大规模Scrum：少即是多）。
+
+轮转表示小组从一个站点到另一个站点按顺时针方向移动多次，而业务专家仍然停留在对应的站点上。 每个工作站点都工作在自己的PBI上。我非常喜欢这种做法，并且对它的效果有过多种体验。想象一下，第一轮大约需要20到25分钟，然后另一个小组接近了这个站。 该小组尚不熟悉该站点对应的特性，但是他们拥有先前工作在该站点的小组创建的有关验收标准、界面等信息。 他们所需要的就是去掌握新信息。
+
+**可视化管理** 。 通常，当人们在会议期间使用电子设备时，这些会议就死定了。 忙活于键盘的某些人成为了瓶颈，其他无聊的人则盯着他们的电话。另一方面，剪刀，纸，便签纸和大白纸会激发协作。
+
+**站着工作** 。 如果可能的话，我会从进行多团队PBR的房间里挪走所有椅子。 人们站在一起开的会议更加活跃，人们参与度更高，精力更充沛并且专注。
+
+**“就绪”的定义**。 当团队在工作站上梳理PBI时拥有相同的“就绪”定义时，就会蓬勃发展，因为可变性大大降低了。这是我们都同意的“就绪”的第一个版本：
+
+* 每个PBI都有一个大小估计（以点数为单位）。
+* 产品负责人提供了商业价值估算。
+* PBI小于13点，否则就要被拆分。
+* 对特性的理解至少为10分的7分，其中10代表对PBI的完全理解，无需其他说明。
+* 如果需要图形界面，则需要有高仿真视觉稿。
+* 验收标准已经定义。
+
+**严格的计时** 。 不要让会议“垮掉”。对世界咖啡的所有活动和轮数使用严格的时间盒（轮转），并设定到时提醒信号。时间到了的时候，别害怕叫停小组，并且问他们需要多少时间。
+
+**反馈** 。 在每个PBR事件结束时进行一次小型回顾。 我要求每个人以1到10的比例评估事件的有效性，并附上详细的反馈。
+
+我们尝试过不同形式的多团队PBR。 经过一段时间，形式逐渐稳定，此后我们没有做太多更改：
+
+* 团队，产品负责人（可选）和专家参加多团队PBR。
+* 使用混合小组的组织形式。
+* 混合小组选择要讨论的产品待办列表条目并将其带到工作站。
+* 在工作站工作，估算、完善和编写直至“就绪”状态的验收标准。如有必要，可以添加视觉稿，图表，示例和其他图形说明。
+* 专家留在车站，而其他参与者则轮转（世界咖啡），探索由其他小组改进的PBI。
+
+<figure>
+  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement.png" alt="多团队产品待办列表梳理">
+</figure>
+
+我发现，多团队PBR能正确完成后，迭代计划的两个部分都不会超过一个半小时（最多两个小时）。 多团队PBR已成为此导入中的关键事件，因为它是协调，更好地了解产品和适应性的驱动力。
 
 ### Sprint Reviews
 
