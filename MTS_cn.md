@@ -717,54 +717,56 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/adjusted-product-backlog-refinement.png" alt="调整后的梳理流程">
 </figure>
 
-**Overall PBR**:
 
-* Shortish discussion and a quick estimation
-* If estimated more than 13 points the feature is analyzed with story mapping or splitting patterns.
+**整体PBR** ：
 
-**Single-team PBR**: only for the team based in Ukraine.
+* 简短讨论和快速估算
+* 如果估算超过13个点，则使用故事地图或拆分模式来分析该特性。
 
-**Multi-team PBR**:
+**单队PBR** ：仅适用于乌克兰团队。
 
-* Conducted 2 times per Sprint for the different set of 3 teams.
-* Detailed discussions.
-* Acceptance criterias created.
-* Estimation refined if necessary.
+**多团队PBR** ：
 
-A new process of working with the requirements was much better than the previous one. Firstly, the process became more disciplined. We explicitly defined the inputs and outputs of each step. Another important thing was that each feature now was clearly expressed in with relation to customer and business goals which is important for intrinsic motivation. Every team went to the decomposition workshop again and learned a story mapping technique. Indeed, in a few Sprints the new process turned out highly enjoyable for the teams (at least they told us so) and the flow improved. Now we had less surprises during the Sprints, the Product Owner had a more free time (he visited only overall PBR), and the cycle time decreased.
+* 对于3组不同的团队，每个迭代内进行2次。
+* 详细讨论。
+* 验收标准已创建。
+* 如有必要，可改变估算值。
 
-## Lessons Learned & Resulting Experiments
+需求相关的新流程比老流程要好得多。首先，该流程更加严格。我们明确定义了每个步骤的输入和输出。另一个要点是，现在每个特性都清楚地表达了与客户和业务目标的关系，这对于内在动机很重要。每个团队都再次参加了拆分工作坊并学习了用户故事地图技术。确实，在一些迭代中，新流程对团队来说非常令人愉快（至少他们这么告诉我们），而且需求的流动得到了改善。 现在，我们在迭代期间的“惊喜”减少了，产品负责人有了更多的空闲时间（他只用参加整体PBR），并且周期时间减少了。
 
-Some of the experiments (*Try...Avoid...*) you could read during the text as they were a great fit to the case story line. Below you can find some of the experiments that emerged after I retrospected the whole LeSS adoption. You may think of them as my lessons learned.
+## 经验教训和产生的实验
 
-### Avoid...Bringing Sceptics On Board
+您在案例中已经阅读了一些实验（*尝试…避免……* ），因为它们非常适合嵌在案例里。 在下面，您可以看到我回顾了整个LeSS导入之后做的一些实验。 您也可以把它们当做是我的经验教训。
 
-In a typical hierarchical functional organizational design, people work as machine cogs and perform only one function. But people have the meta-skill of learning and can become more flexible in team-based organizational design (*Guide: Build Team-Based Organizations*). Just before changing the teams structure I noticed some people being explicitly unhappy about the fact that the company would become a team-based organization. They really wanted to be narrow single-specialists, were really unhappy about Scrum and were very explicit about that. They didn’t hide their motives and were really straight. To be honest, I wanted to get LeSS as soon as possible and now I understand that was a huge mistake. You cannot even imagine how much damage and harm just a couple of people can make if they really want to undermine the change. There is a [useful video](https://www.youtube.com/watch?v=Wdroj6F3VlQ) by Dr. Kotter talking about the resistance and his advice is:
+### 避免……持怀疑态度的人加入
 
-> “Get them out of the way no matter who they are in terms of power of relationships to you because if you let them inside the tent they will do so much damage that the change will be undermined”.
+在典型的职能型组织设计中，人们充当机器的齿轮，仅执行一项职能。 但是人们具有学习的元技能，并且可以在基于团队的组织设计中变得更加灵活（ *指南：构建基于团队的组织* ）。在更改团队结构之前，我注意到有些人对公司将成为基于团队的组织这一事实感到明显不满。 他们真的只想成为一个狭窄领域的专家，他们不喜欢Scrum感到非常不满，并且他们直言不讳。他们没有隐藏自己的动机，而且很直率。老实说，我当时想尽快导入LeSS，现在我知道那是一个巨大的错误。您可能无法想象如果几个人真的想破坏变革，他们可以造成多大的毁坏和伤害。Kotter博士有一段讲述了抵抗的[录像带](https://www.youtube.com/watch?v=Wdroj6F3VlQ) ，他的建议是：
 
-### Try...Flipping Later With Volunteers Only
+> “不管他们与您的关系有多强，都不要管他们，因为如果您邀请他们进入帐篷，他们会造成很大的损害，以至于毁了整个变革。”
 
-Instead, prepare the structure well and use 100% volunteers if possible. That will save your time and make the LeSS adoption more enjoyable for all parties.
+### 尝试…以后仅使用志愿者翻转
 
-### Avoid...Teams and Scrum Masters Report to the Product Owner
+相反，结构上要做好准备，并尽可能使用100％的志愿者。这将节省您的时间，而且此时的LeSS导入对每一方都是愉悦的。
 
-As I explained before, CTO as a Product Owner was a natural choice for us. Still in a few months we got a negative side effect. As the company management forecasted the customer base grew rapidly and the product group become under a large pressure to deliver more. New requests usually came from marketing, sales, and new clients asked for customized solutions etc. It fell out of my attention that the Product Owner hired and fired developers as he did it before the changing structure, nothing actually changed. Teams directly reported to him. For instance, developers wanting to get a salary raise needed to approach him and start negotiations. I want to include a quote from the *Guide: LeSS Organizational Structure*:
 
-> “An important point in this organizational structure is that the Teams and the Product Owner are peers—they do not have a hierarchical relationship”.
+### 避免……团队和Scrum Master向产品负责人报告
 
-One of the Scrum Masters told me that Product Owner started questioning the teams forecasts, put pressure on them and was chronically unsatisfied by their performance. Scrum Masters did their best and protected teams as they could but once during the Overall Retrospective they had a conflict with the Product Owner and were warned they could be fired. We managed to resolve the conflict but from that moment it was obvious Product Owner being a boss for the teams is an organisational impediment. And it is in our Impediment list. Still working on it.
+正如我之前解释的那样，作为产品负责人的CTO对我们来说是很自然的选择。但几个月后，我们仍然受到负面影响。正如公司管理层所预测的那样，客户群迅速增长，产品团队承受着提供更多产品的巨大压力。新的请求通常来自市场营销、销售以及新客户要求的定制解决方案等。由于我没有注意产品负责人在结构变革之前刚刚雇用并解雇了开发人员，实际上没有任何改变。团队直接向他报告。 例如，想要加薪的开发人员需要与联系他并开始谈判。 我想引用 *指南：LeSS组织结构* 中的：
 
-### Avoid...Scaling When DoD Is Not Shippable
+> “在这种组织结构中，重要的一点是，团队和产品负责人是同行，他们之间没有上下级关系”。
 
-DoD and transparent shippable increment each Sprint is the heart of Scrum but it becomes even more important in the scaling environment. Why? Adding new teams and having a weak DoD means you scale the dysfunctions too. Undone work accumulates even quicker with more teams. Don’t add new teams if your technical debt is large, adding new teams is like putting out the fire with a gasoline. Instead focus on removing the undone and making the Increment completely transparent.
+一位Scrum Master告诉我，产品负责人开始质疑团队的预测，对他们施加压力，并长期对团队的绩效不满意。 Scrum Master们尽其所能，尽力保护自己的团队，但在整体回顾期间，他们曾经与产品负责人发生冲突，并被其警告可能被解雇。虽然我们设法解决了冲突，但是从那一刻起，很明显，产品负责人成为团队的老板是一个组织级别的障碍。它在我们的障碍列表中。我们仍在努力。
 
-### Try...Make DoD As Detailed As Possible
+### 避免…在DoD不是可交付时规模化
 
-After a first draft of Definition of Done (DoD) was created a few Sprints passed until we noticed that DoD wasn’t followed by all the teams equally. We started to investigate the issue and found out that the first version of it wasn’t detailed quite enough and could be interpreted in different ways. Not all terms and words had the same meaning for all the teams. The agreement wasn’t 100% clear. Therefore, we collaboratively clarified the DoD again and made it as detailed and specific as possible. Now I recommend you to use the following format for defining the DoD: put it on the flip-chart and create two columns. Activity column where you describe the activity itself and criteria column answering the question: how can we measure or clearly understand that activity is really completed? Be prepared to spend 2-3 hours on clarifying the DoD, but it’s worth it.
+DoD和每个迭代透明的可交付增量从来都是Scrum的核心，但在规模化环境中显得尤为重要。 为什么？ 增加新的团队并拥有薄弱的DoD意味着您将职能障碍也扩大了。 未完成的工作随着更多的团队而积累得更快。如果您的技术债务很大，请不要添加新团队，添加新团队就像用汽油扑灭大火一样。相反，应聚焦于移除undone并使产品增量完全透明。
+
+### 尝试…使DoD尽可能详细
+
+完成的定义（DoD）的初稿被创建后运行了一些迭代，直到我们注意到不是所有的团队都在平等地遵循DoD。 我们开始调查此问题，发现原因是DoD的第一个版本不够详细，可以用不同的方式解释。而且并非所有术语和词对所有团队都具有相同的含义。所以协议不是100％明确。因此，我们再次合作，对DoD作了澄清，并使其尽可能详细和具体。现在，我建议您使用以下形式定义DoD：将其放在大白纸上并划分为两列。在“活动”列中描述活动本身，在“标准”列中回答问题：我们如何衡量或清楚地知道活动真正地完成了？ 准备好花2-3个小时来澄清DoD，但这是值得的。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/definition-of-done-format.png" alt="Format for the Definition of Done">
+  <img src="/img/case-studies/mts-kassa/definition-of-done-format.png" alt="完成的定义的格式">
 </figure>
 
 ### Try... Explain DoD Defines Adaptiveness
@@ -808,5 +810,3 @@ I want to thank the senior managers of the company Sergei Muzykantov and Roman A
 
 Also, I want to thank Sergey Gospodchikov. He was the first LeSS Scrum Master in Russia. His devotion to Scrum's values, perseverance and extraordinary persistence were a huge contribution to overall success.
 
-经过一系列电话访谈并在LiteBox办公室工作了几天之后，我对高层管理者们介绍了自己的观察结果，然后赶往总部对整个公司进行了深入评估。我们与公司高级管理层和员工举行了为期两天的工作坊，重点讨论公司的组织结构，价值观，价值流等。我们的目标是制定下一步计划和行动方案。 我们在工作坊用的一些工具是：
-旧习惯和针对个体的局部优化在第一个Sprint很快就出现。 我绝对会花一些时间与开发人员一起进行系统建模，绘制因果关系图（CLD）。 人们在使用他人制定的流程和自己拥有的流程之间存在着巨大的差异。 在为期3天的培训中，也可以更全面地介绍一些相关主题。
