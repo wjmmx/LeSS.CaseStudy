@@ -489,15 +489,15 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/sprint-planning-two.png" alt="迭代计划会议第二部分">
 </figure>
 
-### Learning Refinement in LeSS
+### 学习LeSS中的待办列表梳理
 
-In Large-Scale Scrum PBR becomes a mandatory *event* (rather than *activity*). That happens because PBIs are really huge in large product groups and there’s a strong need for broad learning and coordination across the teams, and a practical need to schedule a minimum number of meetings with customers and users.. In LeSS, there are several options for conducting PBR (*Guide: Product Backlog Refinement Types*):
+在大规模Scrum中，PBR是一个强制性事件 （而不是可有可无的活动）。 之所以这样，是因为产品待办条目在大型产品团队中确实非常大，非常需要在整个团队层面进行广泛的协调与学习，并且根据实际需要安排一定数量的与客户和用户的会议。在LeSS中，有几种PBR方法（ *指南：产品待办列表梳理* ）：
 
-* Overall PBR with team representatives that implies high level analysis and visioning, estimation and splitting items (*Guide: Overall PBR*).
-* Multi-team PBR. Several teams in one room refine several PBIs at the same time (preferred) (*Guide: Multi-Team PBR*).
-* Single-team PBR. As in usual single-team Scrum.
+* 团队代表参加的整体PBR，这意味着高阶的分析和展望，估算和待办条目分解（ *指南：整体PBR* ）。
+* 多团队PBR。 一个房间中的多个团队可以同时优化多个PBI（首选）（ *指南：多团队PBR* ）。
+* 单团队PBR。跟单个Scrum团队的做法一样。
 
-There are no rules on the combination of PBRs you should have, however LeSS recommends conducting multi-team PBR. Let’s look at it closer.
+对于应该使用哪些产品待办列表梳理的方法组合LeSS没有设定任何规则，但是LeSS建议进行多团队产品待办列表梳理。让我们来仔细看一下。
 
 ### Overall PBR
 
