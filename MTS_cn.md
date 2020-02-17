@@ -689,23 +689,24 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/community-boards.png" alt="社区公告板">
 </figure>
 
-### Changing Requirements Flow Over the Time
 
-**Multiple problems with requirements**. Looking at the system issues raised in Overall Retrospective, it became clear that many of them were related to the flow of requirements. And indeed, during the first months I was concentrated on the teams coaching and events facilitation. I didn’t have enough time to coach the Product Owner and/or the group of BAs unwilling to join the LeSS adoption, and so didn’t spend enough time with them. I got feedback from the main internal stakeholders (marketing, sales mostly) that they were not satisfied with the product group. It was a black box for them and they told me the Product Owner didn’t pay enough attention to their requests. Another thing was - I realized the flow of items from the Product Backlog to the Sprint wasn’t good enough. PBR(s) didn’t go as smoothly as I wanted them to be and sometimes the teams select too-vague (“unready”) features for the Sprint. I suggested to focus on the flow of requirements and this is what we’ve done.
+### 改变需求流动
 
-**Product workshop**. I have conducted an intensive 2-day on hands workshop for the Product Owner, the group of BAs, Scrum Masters and team representatives during which we have:
+**需求的多个问题** 。 回顾整体回顾中提出的系统问题，很明显，其中许多问题与需求流动有关。的确，在最初的几个月中，我聚焦于团队的教练和活动协助。我没有足够的时间来指导产品负责人和/或不支持LeSS导入的BA团队，因此没有花足够的时间跟他们一起工作。我从主要内部干系人（市场营销，销售部门）那里得到的反馈是，他们对产品团队不满意。因为对他们来说产品开发是一个黑盒子，他们告诉我产品负责人对他们的要求没有给予足够的重视。另一件事是：我意识到条目从产品待办列表到迭代的流动还不够好。PBR的运行不像我希望的那样顺利，有时团队会为迭代选择过于模糊（“未就绪”）的特性。于是我建议重点关注需求流动。以下就是我们所做的。
 
-* Aligned product vision using elevator pitch format.
-* Thoroughly analyzed and discussed each of the 8 customer profiles using jobs/pains/gains template.
-* Created a business goal for the next quarter and made it SMART (decrease the churn rate).
-* Created an impact map and and prioritized the impacts.
-* Filtered features in the Product Backlog with regards to the impact map.
-* User story mapping for some of the big features in the Product Backlog.
+**产品工作坊**。 我为产品负责人，BA，Scrum Master和团队代表进行了为期2天的动手工作坊，在此期间，我们有：
 
-The Product Owner now was armed with new tools and also he saw the strong connection between the vision, business goals, customer goals, and features. From that moment, we suggested the teams to have a different format of overall PBR and multi-team PBR(s).
+* 使用电梯推销形式调整产品愿景。
+* 使用Job / Pains / Gains模板彻底分析和讨论了8个客户档案。
+* 为下一季度制定了业务目标（降低客户流失率），并使之符合SMART原则。
+* 创建影响地图并确定影响的优先级。
+* 过滤出产品待办列表中与影响地图有关的特性。
+* 产品待办列表中某些重要特性的用户故事地图。
+
+产品负责人现在已经有了新工具，他还看到了愿景、业务目标、客户目标和特性之间的紧密联系。从那时起，我们建议团队对整体PBR和多团队PBR使用不同的形式。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/product-workshop.png" alt="Product Workshop">
+  <img src="/img/case-studies/mts-kassa/product-workshop.png" alt="产品工作坊">
 </figure>
 
 ### Adjusted Refinement Process
