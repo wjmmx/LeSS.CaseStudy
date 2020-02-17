@@ -618,14 +618,14 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
   <img src="/img/case-studies/mts-kassa/prune-the-product-tree.png" alt="修剪产品树">
 </figure>
 
-### Team Retrospectives
+### 团队回顾
 
-For me, the Retrospective in Scrum was always a special event. Moving from a component team structure to feature team structure is a large shift for people. That is why I expected that a zillion problems/questions would arise in the early Retrospectives. And I was right. The first Sprint was a great stress for all the teams and we combined the Overall Retrospective with team Retrospectives in one big event, because almost all the issues were the same and it was important to include the whole product group in problem solving. Everyone's participation and *SMART* actionable improvements had a great influence. Stress significantly decreased and in the following Sprints, each team conducted its own separate team Retrospective, in addition to an Overall Retrospective
+对我而言，Scrum回顾会议始终是一个特殊事件。 从组件团队结构向特性团队结构转变对人们来说是一个很大的转变。 因此，我估计在早期的回顾会议中会出现无数的问题。我是对的。第一次迭代对每个团队来说都有巨大的压力，我们将总体回顾与团队回顾结合为一个大事件，因为几乎所有问题都是相同的，并且在解决问题时包括整个产品团队非常重要。每个人的参与和符合*SMART*原则的改进项起了很大的作用。压力显著地降低了。在接下来的迭代中，除了整体回顾之外，每个团队都各自进行了自己的团队回顾。
 
-**System and team-level impediments**. As system issues are discussed during the Overall Retrospective, I always asked teams to separate system impediments from the team ones. I often started with a *circles of influence activity*. I introduced the flip-chart with two embedded circles drawn on it, the inner circle was filled with topics the team was able to sort out by themselves, external one was filled with the cross-cutting concerns.
+**系统和团队层面的障碍** 。 在全面回顾期间讨论系统问题时，我总是要求团队将系统障碍与团队障碍分开。 我经常使用*活动影响圈*。在大白纸上画两个圆圈，一个大圆套一个小圆。里面的圆圈可以填充团队可以自行解决的主题，外面的圆圈则填充跨越团队边界的一些问题。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/team-retrospective.png" alt="Team Retrospective">
+  <img src="/img/case-studies/mts-kassa/team-retrospective.png" alt="团队回顾">
 </figure>
 
 ### Overall Retrospectives
