@@ -593,28 +593,29 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 
 我发现，多团队PBR能正确完成后，迭代计划的两个部分都不会超过一个半小时（最多两个小时）。 多团队PBR已成为此导入中的关键事件，因为它是协调，更好地了解产品和适应性的驱动力。
 
-### Sprint Reviews
 
-The early Sprint Reviews were conducted without end users, and Product Owner invited internal customers only. Teams wanted to practice in running these events before inviting guests from the market. That is why the first visitors of the Sprint Reviews were employees from other departments: technical support, marketing, sales, HR, and compliance. I will describe the usual Sprint Review:
+### 迭代评审会议
 
-* The Product Owner opens the meeting and reads loud Sprint Goal(s) the product group worked on. The Product Owner says which items are done.
-* Teams shared shortly the main obstacles during the Sprint and how they coped with them (or not).
-* Guests were invited to visit one or more stations in a format of the bazaar or a more structured format of the *tradeshow*. In each station we had at least two developers, one of them demonstrated increment and then asked for an open feedback, another one silently wrote things down.
-* After a demo we got back to the open discussion format. The Product Owner shared the market news, changed ordering (if any) and answered the questions.
-* When guests left the room, the teams and the Product Owner merged feedback from multiple stations and could updated some of these artifacts: impact map, value-proposition canvas, story mapping and, of course, Product Backlog.
+早期的迭代评审是在没有最终用户的情况下进行的，产品负责人仅邀请了内部客户。 团队希望在从市场上邀请嘉宾前能够练习一下。 这就是为什么迭代评审会议的第一批访问者是其他部门的员工：技术支持，市场营销，销售，人力资源和合规。通常的迭代评审会议是：
 
-**The whole product focus**. I noted that the developers who were not actively engaged on the stations moved actively between stations and gave feedback to their peers. They became genuinely interested in work of others. Small groups were formed here and there with interesting discussions regarding the product.
+* 产品负责人启动会议，大声宣读产品团队为之努力的迭代目标。产品负责人宣布哪些条目完成了。
+* 团队很快地分享一下迭代期间的主要障碍以及他们是如何应对（或不应对）的。
+* 邀请来宾以集市的形式或以更结构化的展会形式参观一个或多个站点。 在每个站点中，我们至少有两个开发人员，其中一个演示产品增量，然后请求一个开放式的反馈，另一个则默默地做记录。
+* 演示之后，我们回到了公开讨论的形式。 产品负责人分享市场动态，修改优先级（如果需要的话）并回答问题。
+* 当来宾离开后，团队和产品负责人将多个站点的反馈进行合并，并更新其中的一些工件：影响地图，价值主张画布，用户故事地图，当然还有产品待办列表。
+
+**聚焦整个产品** 。 我注意到，未参与本团队站点的开发人员正积极地在其他站点间走动，并向同行提供了反馈。 他们对其他人的工作变得真正感兴趣。 在这儿或那儿组成了小组，对产品展开了一些有趣的讨论。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/sprint-review.png" alt="Sprint Review">
+  <img src="/img/case-studies/mts-kassa/sprint-review.png" alt="迭代评审会议">
 </figure>
 
-### Try...Innovation games.
+### 尝试…创新游戏。
 
-End users visited the development site once per two Sprints. We often used two innovative games that perfectly complemented each other: “speed boat” and “prune the tree”. Speed boat is good in identifying the customer pains and jobs to be done. *Prune the product tree* is a well fit for finding better solutions (features) for the Product Backlog.
+最终用户每两个迭代来访问一次。我们经常使用两个完美互补的创新游戏：“快艇”和“修剪产品树”。 快艇可以很好地识别客户的痛苦和需要完成的工作。 修剪产品树则非常适合为产品待办列表找到更好的解决方案（特性）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/prune-the-product-tree.png" alt="Prune the Product Tree">
+  <img src="/img/case-studies/mts-kassa/prune-the-product-tree.png" alt="修剪产品树">
 </figure>
 
 ### Team Retrospectives
