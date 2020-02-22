@@ -64,7 +64,7 @@ Agile coaches support the tribe in working according to the standard Dutch Bank 
 The picture below depicts this organizational structure.
 
 <figure>
-  <img src="/img/case-studies/large-dutch-bank/original-spotify-structure.png" alt="Original Spotify Structure">
+  <img src="img/case-studies/large-dutch-bank/original-spotify-structure.png" alt="Original Spotify Structure">
 </figure>
 
 ### Local Optimization of Squads
@@ -88,7 +88,7 @@ When I studied the tribe’s overall work that was expected to be done in the co
 In the graphic below you see the results of the dependency study in the 24 squad tribe. The colour section of the circle indicates the percentage of a  squad’s time needed to develop end-customer features in a particular area. A complete blue circle means that a squad is needed 100% of the time in the blue area..
 
 <figure>
-  <img src="/img/case-studies/large-dutch-bank/dependency-study.png" alt="Result of Dependency Study">
+  <img src="img/case-studies/large-dutch-bank/dependency-study.png" alt="Result of Dependency Study">
 </figure>
 
 It turned out the blue squads 1, 2, 3, 4 ,5, 7 ,8, 16 and 21 should work together on the same product, because these squads are needed for almost every feature.
@@ -203,7 +203,7 @@ All squads travel between countries for Sprint Review. With 2 week Sprints, this
 A typical agenda for the Sprint Review includes: Product vision, sprint goal(s), multiple demonstrations in parallel, converge to work through feedback and outlook for the next Sprints.
 
 <figure>
-  <img src="/img/case-studies/large-dutch-bank/agenda.png" alt="Agenda for Sprint Planning">
+  <img src="img/case-studies/large-dutch-bank/agenda.png" alt="Agenda for Sprint Planning">
 </figure>
 
 ## It was hard!
@@ -237,7 +237,7 @@ The mindset on local efficiency became clear during Sprint Planning. During Spri
 The picture shows the the squads choose the top and the bottom items to work on. They choose bottom lower value items over the middle higher value items.
 
 <figure>
-  <img src="/img/case-studies/large-dutch-bank/product-backlog.png" alt="Product Backlog">
+  <img src="img/case-studies/large-dutch-bank/product-backlog.png" alt="Product Backlog">
 </figure>
 
 When the coaches asked about this the squads said it was inefficient to pick up middle items because they understood the lower item better.
