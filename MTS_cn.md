@@ -19,7 +19,7 @@ owner: illia-pavlichenko
 在2017年，俄罗斯最大的电信公司MTS对LiteBox公司的股票进行了控制权收购，后者的经营业务为基于云的零售自动化：包括仓库处理系统，采购管理，分析报告等。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/mts-kassa-product.jpg" alt="MTS Kassa产品">
+  <img src="img/case-studies/mts-kassa/mts-kassa-product.jpg" alt="MTS Kassa产品">
 </figure>
 
 从此，LiteBox成为庞大的MTS公司（拥有70,000名员工）的一部分，但它在管理自己的业务方面几乎保持完全的自主权。 到LeSS实施时，LiteBox已拥有200多名员工，并作为一个独立的业务部门运作。
@@ -33,7 +33,7 @@ MTS管理层向我寻求帮助。 2017年底，我们进行了首次协商。 �
 组织架构跟想象的一样，基于传统的管理理念设计的。 公司由各个职能部门或者说筒仓组成（财务，采购，销售，IT，市场营销，人力资源）。 每个职能部门都有自己的一些经理们，这些经理们也都有自己的一些KPI。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/original-organization.png" alt="原有的组织结构">
+  <img src="img/case-studies/mts-kassa/original-organization.png" alt="原有的组织结构">
 </figure>
 
 ### IT部门结构
@@ -45,7 +45,7 @@ MTS管理层向我寻求帮助。 2017年底，我们进行了首次协商。 �
 30多个开发人员通过“项目”团队组织起来进行产品开发。 每个“项目”都是围绕着架构组件，技术或职能组织的。 因此，他们有7个“项目”：旧后端，新后端，android，windows，测试，分析和API团队。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/old-feature-flow.png" alt="旧的特性开发流">
+  <img src="img/case-studies/mts-kassa/old-feature-flow.png" alt="旧的特性开发流">
 </figure>
 
 技术栈由几种编程语言和相关框架组成：Javascript, Android, Python, SQL, Java.
@@ -105,7 +105,7 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 * 启动特性团队作为试点，如果成功，导入LeSS。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/company-assessment.png" alt="公司评估">
+  <img src="img/case-studies/mts-kassa/company-assessment.png" alt="公司评估">
 </figure>
 
 ## 旅程开始 - LeSS导入准备
@@ -129,7 +129,7 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 因此，这里我们设计了一个变革故事工作坊。 工作坊有两个产出。 第一个是一个矩阵，风险/机会/问题/紧急事件的信息分别归类在四个象限中。在填充矩阵的过程中，管理者们统一了他们的观点以及他们需要Scrum的原因。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/risks-opportunities-problems-urgency.png" alt="风险 机会 问题 紧急事件">
+  <img src="img/case-studies/mts-kassa/risks-opportunities-problems-urgency.png" alt="风险 机会 问题 紧急事件">
 </figure>
 
 第二个产出是一个变革故事。它是[精益变革管理](http://leanchange.org/)中的一个有用的工具。 对于其他公司而言，似乎这只是一条简短而引人注目的信息，强调了以下要点：
@@ -142,7 +142,7 @@ LiteBox是具有层级结构的职能型组织，并拥有与此结构相关的�
 工作坊结束后，我们确保每个员工都能收到这个变革故事的数字版本。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/change-story.png" alt="变革故事">
+  <img src="img/case-studies/mts-kassa/change-story.png" alt="变革故事">
 </figure>
 
 ### 通过试点团队学习Scrum
@@ -180,7 +180,7 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
 *每个俄罗斯企业家都选择我们的B2B生态系统服务作为其业务的助手。*
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/vision-statement.png" alt="愿景声明">
+  <img src="img/case-studies/mts-kassa/vision-statement.png" alt="愿景声明">
 </figure>
 
 **结果。** 战略会议的最重要成果之一是高层管理者中涌现了适应性组织的概念。 他们一致认为，当前的组织设计是将"让人们忙碌"作为优化目标的。 这与适应性的目标不一致，因此，组织设计的一项新的关键决定就是导入LeSS。
@@ -188,7 +188,7 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
 我们将人们召集在一起，围绕着明亮且鼓舞人心的愿景，制定了公司路线图。 事实证明，这对于创建产品待办列表也是一个很好的输入。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/strategy-workshop.png" alt="战略工作坊">
+  <img src="img/case-studies/mts-kassa/strategy-workshop.png" alt="战略工作坊">
 </figure>
 
 ###  LeSS导入的后续步骤
@@ -223,7 +223,7 @@ LeSS导入是整个公司转型举措的一部分。 对公司全面评估后的
 工作坊向参与者概要介绍了LeSS，大多数人的问题都能得到解答。 但是，我认为这个介绍还是太简短。 我希望当时我能坚持通过系统图例帮助他们更深入地了解LeSS原则，这可能会带来更多的认同以及对系统思考，排队理论和精益思想的更好理解。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/certified-less-basics.png" alt="LeSS Basics认证培训">
+  <img src="img/case-studies/mts-kassa/certified-less-basics.png" alt="LeSS Basics认证培训">
 </figure>
 
 ### 尝试…精益咖啡
@@ -239,7 +239,7 @@ CTO很自然的被选为了产品负责人。 他是公司的联合创始人之�
 我们在创建过程中使用了可视化的方法。 现在产品待办列表变得可见且有形，由大白纸和便签纸构成。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/product-backlog.png" alt="产品待办列表">
+  <img src="img/case-studies/mts-kassa/product-backlog.png" alt="产品待办列表">
 </figure>
 
 ### 尝试…使用HitMap分析产品待办列表
@@ -247,7 +247,7 @@ CTO很自然的被选为了产品负责人。 他是公司的联合创始人之�
 LeSS原则之一是以[客户为中心](https://less.works/less/principles/customer-centric.html) 。 这意味着要创建有助于优先交付最高客户价值的组织设计。 我们不确定是否所有的特性团队都应该能够同时工作在三个不同的UI平台上来交付价值。 也许根据客户细分来组建团队是有意义的。 我们希望HitMap能帮我们找到答案。 这是一个非常简单而可靠的工具。 它能帮我们看到每个PBI使用了哪些架构组件。 HitMap看起来大致是这样的：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/hit-map-principle.png" alt="Hit Map 原则">
+  <img src="img/case-studies/mts-kassa/hit-map-principle.png" alt="Hit Map 原则">
 </figure>
 
 *完美目标*是创建特性团队，以从产品待办列表中选择任何PBI，并在每个Sprint至少一次独立地发布到市场。 假设我们在Android和iOS平台上都需要相同的产品功能。 我们就可能需要创建具有iOS和Android开发能力的特性团队。
@@ -255,7 +255,7 @@ LeSS原则之一是以[客户为中心](https://less.works/less/principles/custo
 我们花了几个小时来创建HitMap。几个月前我就要求产品负责人对产品待办列表进行排序整理，以获得一个长远的视图。 最终，我们在几张大白纸上贴满了便签纸。 当HitMap创建完成后，对于产品负责人来说，为了拥有最大的敏捷性，他显然需要与试点团队类似的全栈特性团队。他计划开发的主要产品功能都需要通过所有三个I/O渠道（web，Android，Windows）进行。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/hit-map.png" alt="Hit Map">
+  <img src="img/case-studies/mts-kassa/hit-map.png" alt="Hit Map">
 </figure>
 
 ### 团队自设计工作坊
@@ -285,7 +285,7 @@ HitMap被创建了之后，产品负责人确定他需要全栈特性团队。 �
 第二天早上，当我来到办公室时，发现开发人员都已经搬到了各自的新房间。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/self-designing-team-workshop.png" alt="团队自设计工作坊">
+  <img src="img/case-studies/mts-kassa/self-designing-team-workshop.png" alt="团队自设计工作坊">
 </figure>
 
 ### 完美愿景
@@ -299,7 +299,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 在回顾会议期间，我们在做出决策时就提到了完美愿景。例如，曾经有一个想法来创建一个专门的协调角色。这与完美愿景相冲突，团队的代表们否决了它。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/perfection-vision.png" alt="完美愿景">
+  <img src="img/case-studies/mts-kassa/perfection-vision.png" alt="完美愿景">
 </figure>
 
 ### 完成的定义（DoD）
@@ -307,7 +307,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 虽然有试点特性团队DoD为基准，但是我们仍然花了一些时间来设计最终的DoD。 通常，开发人员对测试术语（集成，端到端，功能，压力，性能）有不同的理解。 而且，他们自己的术语过于复杂和繁琐。所以我建议简化分类（ *实验：尝试…简化测试分类* ）。非常奏效。 试点特性小组决定引入与LeSS规则相符的也更严格的DoD。他们的完成定义清单上包括额外的代码审查和更严格的测试覆盖率。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/definition-of-done.png" alt="完成的定义">
+  <img src="img/case-studies/mts-kassa/definition-of-done.png" alt="完成的定义">
 </figure>
 
 ### 选择Scrum Master
@@ -332,7 +332,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 开发人员定期聚在一起，愉快地参加社区活动。 我还记得有一次活动是用mob编程的形式进行自动化测试开发。一位设计师之所以参加这个活动，是因为她想学习自动化。人人想学习！
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/communities.png" alt="启动社区">
+  <img src="img/case-studies/mts-kassa/communities.png" alt="启动社区">
 </figure>
 
 ### 最初的PBR
@@ -340,7 +340,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **产品愿景和商业模式。** 这使开发人员对产品的理解不仅停留在愿景层面，还能更深入地理解其商业模式。 LeSS的产品组是更大的组织环境的一部分，这个环境里有市场、销售、合规性和法律， 等等。 这就是我们开始进行最初的PBR的原因。团队先填充商业画布，然后将它们合并为一个。 我们一一讨论了商业模式相关的所有领域。对我们在讨论中出现的错误，产品负责人进行了纠正。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/business-model.png" alt="商业模式">
+  <img src="img/case-studies/mts-kassa/business-model.png" alt="商业模式">
 </figure>
 
 ### 尝试…条目拆分工作坊。
@@ -356,13 +356,13 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 当多个团队处理同一个产品待办列表时，需要统一估算单位。 试点特性团队已经具有相对估算的经验，并且有许多已完成的条目。于是我们创建了一个类比估算网 ，把已完成的条目放进去以作为基准。 然后，我主持了一个工作坊，期间试点特性团队成员向其他开发人员解释了可以**被参考的PBI**，我帮助他们对齐了故事点估算标准。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/estimation-net.png" alt="类比估算网">
+  <img src="img/case-studies/mts-kassa/estimation-net.png" alt="类比估算网">
 </figure>
 
 **引导第一个多团队PBR。** 在LeSS实施之前，团队是从专门的需求分析小组那里获得需求。 现在，他们自己负责澄清每个条目的细节。我们邀请了领域专家到会议室。团队组成混合小组，分布在按不同的墙壁区域划分的四个站点里。 每个站点都有一位专家帮助他们澄清PBI。 25分钟后，每个人都顺时针移动到另一个站点（驻扎站点的专家除外）。上一组已经在大白纸上留下了注释，图表和说明，这对新的一组人确实有帮助。因此，团队需要一个多小时来澄清三个PBI。稍作休息后，我们再次重复该过程。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/first-multi-team-refinement.png" alt="第一次多团队产品待办列表梳理">
+  <img src="img/case-studies/mts-kassa/first-multi-team-refinement.png" alt="第一次多团队产品待办列表梳理">
 </figure>
 
 ## 导入LeSS结构
@@ -370,7 +370,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 还记得产品团队的组件团队结构吗？ 现在，在团队自设计工作坊之后，团队结构发生了变化，开发人员组成了4个新的特性团队。 每个团队都是一个跨组件跨职能的自治单元，可以工作在产品待办列表上的任何一个PBI上。 团队的名字是：“Alfa”，“Vegas”，“ StoreCraft”，“ Hotfixies”（译者注：这里的四个团队的名字跟前文出现的四个团队的名字不一样，咨询了作者后得知这是因为有团队改了名字）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/team-structure.png" alt="团队结构">
+  <img src="img/case-studies/mts-kassa/team-structure.png" alt="团队结构">
 </figure>
 
 在旧的结构中，有一个业务分析师团队，包含四个人。 那些人非常了解产品及其领域。 对于一个来自客户的请求，产品支持人员决定是应该发送给开发小组，还是应该通过调整产品配置项来实现。 他们大部分时间都在编写需求文档然后推向组件团队。
@@ -430,7 +430,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **可视化管理工作协议。** 所有主要的工作协议（DoD，“Ready”等）和回顾会议的产出项与产品待办事项都保存在同一房间。 我们将LeSS的活动时间做成一个可以看到的时间表，并将其挂在走廊的墙上。它旁边还有一个社区活动时间表。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/visual-management.png" alt="可视化管理">
+  <img src="img/case-studies/mts-kassa/visual-management.png" alt="可视化管理">
 </figure>
 
 ### 尝试…可视化会议。
@@ -444,7 +444,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 * 周期性的分散和合并有助于团队从小组讨论和自主讨论中受益，并在整个会议期间与他人保持同步（合并）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/visual-meetings.png" alt="可视化会议">
+  <img src="img/case-studies/mts-kassa/visual-meetings.png" alt="可视化会议">
 </figure>
 
 ### 协调
@@ -471,7 +471,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 * 为整个产品团队定义一个共同的迭代目标 并且/或者 为各个团队定义各自的迭代目标。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/sprint-planning-one.png" alt="迭代计划会议第一部分">
+  <img src="img/case-studies/mts-kassa/sprint-planning-one.png" alt="迭代计划会议第一部分">
 </figure>
 
 
@@ -491,7 +491,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 不要为迭代待办列表使用任何软件工具； 只用使用可视化管理，可能只是贴在墙上的卡片（大规模Scrum：以少为多）
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/sprint-planning-two.png" alt="迭代计划会议第二部分">
+  <img src="img/case-studies/mts-kassa/sprint-planning-two.png" alt="迭代计划会议第二部分">
 </figure>
 
 ### 学习LeSS中的待办列表梳理
@@ -513,7 +513,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 然后进行明确的估算。 如果PBI超过13个点，我们就将其拆分（*实验：尝试…细胞一样的拆分而非树状拆分*）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/overall-product-backlog-refinement.png" alt="整体PBR">
+  <img src="img/case-studies/mts-kassa/overall-product-backlog-refinement.png" alt="整体PBR">
 </figure>
 
 ### 多团队PBR
@@ -527,7 +527,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **基于自组织的协调** 。 团队了解的PBI越多，他们越能够在迭代中互相帮助。 因此，也越容易出现基于自组织的协调。 下面是相关的系统模型：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement-system-model.png" alt="多团队产品待办列表梳理系统模型">
+  <img src="img/case-studies/mts-kassa/multi-team-product-backlog-refinement-system-model.png" alt="多团队产品待办列表梳理系统模型">
 </figure>
 
 ### 多团队PBR的复杂性
@@ -539,7 +539,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **引导** 。 要让数十人参加这个事件并不容易。如果引导不当，则会造成浪费，从而开发人员不再希望参加多团队PBR。 让我们在系统模型中探索一下：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement-complexity-system-model.png" alt="多团队产品待办列表梳理复杂度系统模型">
+  <img src="img/case-studies/mts-kassa/multi-team-product-backlog-refinement-complexity-system-model.png" alt="多团队产品待办列表梳理复杂度系统模型">
 </figure>
 
 ### 多团队PBR引导技巧
@@ -591,7 +591,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 * 专家留在车站，而其他参与者则轮转（世界咖啡），探索由其他小组改进的PBI。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/multi-team-product-backlog-refinement.png" alt="多团队产品待办列表梳理">
+  <img src="img/case-studies/mts-kassa/multi-team-product-backlog-refinement.png" alt="多团队产品待办列表梳理">
 </figure>
 
 我发现，多团队PBR能正确完成后，迭代计划的两个部分都不会超过一个半小时（最多两个小时）。 多团队PBR已成为此导入中的关键事件，因为它是协调，更好地了解产品和适应性的驱动力。
@@ -610,7 +610,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **聚焦整个产品** 。 我注意到，未参与本团队站点的开发人员正积极地在其他站点间走动，并向同行提供了反馈。 他们对其他人的工作变得真正感兴趣。 在这儿或那儿组成了小组，对产品展开了一些有趣的讨论。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/sprint-review.png" alt="迭代评审会议">
+  <img src="img/case-studies/mts-kassa/sprint-review.png" alt="迭代评审会议">
 </figure>
 
 ### 尝试…创新游戏。
@@ -618,7 +618,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 最终用户每两个迭代来访问一次。我们经常使用两个完美互补的创新游戏：“快艇”和“修剪产品树”。 快艇可以很好地识别客户的痛苦和需要完成的工作。 修剪产品树则非常适合为产品待办列表找到更好的解决方案（特性）。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/prune-the-product-tree.png" alt="修剪产品树">
+  <img src="img/case-studies/mts-kassa/prune-the-product-tree.png" alt="修剪产品树">
 </figure>
 
 ### 团队回顾
@@ -628,7 +628,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **系统和团队层面的障碍** 。 在全面回顾期间讨论系统问题时，我总是要求团队将系统障碍与团队障碍分开。 我经常使用*活动影响圈*。在大白纸上画两个圆圈，一个大圆套一个小圆。里面的圆圈可以填充团队可以自行解决的主题，外面的圆圈则填充跨越团队边界的一些问题。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/team-retrospective.png" alt="团队回顾">
+  <img src="img/case-studies/mts-kassa/team-retrospective.png" alt="团队回顾">
 </figure>
 
 
@@ -647,7 +647,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 * 更改发布周期。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/overall-retrospective.png" alt="整体回顾">
+  <img src="img/case-studies/mts-kassa/overall-retrospective.png" alt="整体回顾">
 </figure>
 
 
@@ -664,7 +664,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **不幸的是更多的中间商**。 我之前提到过，导入该技术的主要失败点之一是启用了不支持变革但充当团队和客户之间中间人的人员。团队数量增加了，并且有职能障碍的业务分析组也增加了人员。他们聘请了一位新的业务分析师，主要从事对外的工作。这是当时结构的外观：
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/seven-teams.png" alt="7个团队">
+  <img src="img/case-studies/mts-kassa/seven-teams.png" alt="7个团队">
 </figure>
 
 
@@ -689,7 +689,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 **将社区建议包括PBI在内** 。 会议的结果通常是一组技术性PBI和改进，社区建议团队和产品负责人将其包含在Product Backlog中。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/community-boards.png" alt="社区公告板">
+  <img src="img/case-studies/mts-kassa/community-boards.png" alt="社区公告板">
 </figure>
 
 
@@ -709,7 +709,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 产品负责人现在已经有了新工具，他还看到了愿景、业务目标、客户目标和特性之间的紧密联系。从那时起，我们建议团队对整体PBR和多团队PBR使用不同的形式。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/product-workshop.png" alt="产品工作坊">
+  <img src="img/case-studies/mts-kassa/product-workshop.png" alt="产品工作坊">
 </figure>
 
 ### 调整后的梳理流程
@@ -717,7 +717,7 @@ LeSS的基本原则之一是持续改进以实现[完美愿景](https://less.wor
 在产品工作坊结束后，我们邀请了团队代表（他们每个迭代轮换以避免特权或单一岗位），共同为整体PBR和多团队PBR创建了一个新流程。这就是我们即将看到的。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/adjusted-product-backlog-refinement.png" alt="调整后的梳理流程">
+  <img src="img/case-studies/mts-kassa/adjusted-product-backlog-refinement.png" alt="调整后的梳理流程">
 </figure>
 
 
@@ -769,7 +769,7 @@ DoD和每个迭代透明的可交付增量从来都是Scrum的核心，但在规
 完成的定义（DoD）的初稿被创建后运行了一些迭代，直到我们注意到不是所有的团队都在平等地遵循DoD。 我们开始调查此问题，发现原因是DoD的第一个版本不够详细，可以用不同的方式解释。而且并非所有术语和用词对所有团队都具有相同的含义。所以协议不是100％明确。因此，我们再次合作，对DoD作了澄清，并使其尽可能详细和具体。现在，我建议您使用以下形式定义DoD：将其放在大白纸上并划分为两列。在“活动”列中描述活动本身，在“标准”列中回答问题：我们如何衡量或清楚地知道活动真正地完成了？ 准备好花2-3个小时来澄清DoD，但这是值得的。
 
 <figure>
-  <img src="/img/case-studies/mts-kassa/definition-of-done-format.png" alt="完成的定义的格式">
+  <img src="img/case-studies/mts-kassa/definition-of-done-format.png" alt="完成的定义的格式">
 </figure>
 
 ### 尝试…解释DoD定义适应性
@@ -777,7 +777,7 @@ DoD和每个迭代透明的可交付增量从来都是Scrum的核心，但在规
 我发现许多产品小组只知道DoD是一个正式的检查清单，却不知道DoD其实还定义了他们的适应性。我还发现，当您向团队和业务部门展示DoD其实定义了敏捷性时，他们就开始更加认真地看待DoD。请参照下面的系统模型图例。在这里我在LeSS导入几个月后就做了，以后我将努力在LeSS一开始导入的时候就做。
 
 <figure>
-<img src="/img/case-studies/mts-kassa/definition-of-done-system-model.png" alt="DoD定义适应性的系统模型">
+<img src="img/case-studies/mts-kassa/definition-of-done-system-model.png" alt="DoD定义适应性的系统模型">
 </figure>
 
 ### 尝试…成熟又勇敢的Scrum Master
