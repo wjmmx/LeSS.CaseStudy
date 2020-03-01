@@ -67,19 +67,19 @@
   <img src="img/case-studies/large-dutch-bank/original-spotify-structure.png" alt="原Spotify结构">
 </figure>
 
-### Local Optimization of Squads
+### 小队的局部优化
 
-The tribe consisted of 24 squads. Some squads were dispersed across multiple sites.  Most of the squads were what we call component teams in LeSS.
+部落由24个小队组成。有些小队的成员分散在多个办公地点。大多数的小队就是我们在LeSS中所说的组件团队。
 
-Each squad had a ‘Product Owner’ who were busy with understanding requirements, backlog management, coordinating between teams and team management tasks.
+每个小组都有一个“产品负责人”，他们忙于了解需求，待办列表管理，团队之间的协调以及团队的管理任务。
 
-The squad’s PO optimised locally. I found many examples of this. Here is one: Squad 3 needed changes in an API, and Squad 6 was planning to make those changes. Later Squad 6 decided not to make those changes and Squad 3 could not finish their work. The squads found it very hard to align with the tribe’ vision and overall product goals.
+小队的PO会做优化，但都是本地优化。我发现了很多例子。比如：第3小队需要改动一个API，而第6小队是计划进行更改的团队。但是后来，第6小队决定不做这些更改，因此第3小队就无法完成工作。各个小队发现很难与部落的愿景及整体产品目标保持一致。
 
-Although each squad had a clear purpose, often that purpose was not meaningful to end users. This was clear from the fact that most squads were not able to deliver end-customer value on their own. Separately, these squads were able to do only  a part of a complete feature. Feature dependencies existed between most squads and ranged from around 30% to 80%. Dependencies slow down feature development, increase queues between squads, delay the feedback loop from the market, reduce agility at the tribe level , and make it harder to be predictable at the product level. This is a big problem, and it will rise exponentially when you start adding more and more component teams.
+尽管每个小队都有明确的目标，但该目标通常对最终用户没有意义。从以下事实可以清楚地看出，大多数小队无法独立交付最终客户价值。另外，这些小队只能完成完整特性的一部分。大多数小队之间存在特性间的依赖关系，范围从30％到80％不等。依赖关系会减慢特性开发的速度，增加小队之间的排队，延迟市场反馈回路，降低部落的敏捷性，并且在整个产品级别变得难以预测。这是一个很大的问题，当您开始添加越来越多的组件团队时，问题将指数级地增加。
 
-I considered their way of working an excellent implementation of [Copy Paste scaling](https://agilix.nl/resources/ScaleYourProductNotYourScrum.pdf). A recurring mental model used for scaling Agile, that does not work very well.
+我认为他们的工作方式是对[拷贝粘贴式规模化](https://agilix.nl/resources/ScaleYourProductNotYourScrum.pdf)的完美实现。基于重复的思维模式做规模化敏捷，得不到好的效果。
 
-The recurring problems of unreliable forecasts, poor focus at the tribe level and  inability to react to incoming ideas are strongly related to working in such a system.
+反复出现的问题是，预测不可靠，部落级别的聚焦程度低以及无法对涌现的想法做出响应。而这些都与工作在这样的系统中密切相关。
 
 #### Study how the work works and optimize for what you have most of
 
