@@ -54,16 +54,17 @@
 
 基于所有获得的信息，我对工作经过时间的流逝进行了理解，并利用这种系统的理解提出了以下建议。
 
-### Spotify Inspired Dutch Bank Model
+### 基于Spotify所创造的荷兰银行模式
 
-The product group is called a tribe. The director is from the business and is an expert in the Business Lending market. She is  called the tribe lead. The teams are called squads, and include business (Customer Journey Expert), IT Engineering skills including DevOps knowledge and background. Each squad has a Product Owner (PO) who manages the squad backlog. Skills and competences development of people is the responsibility of Chapter Leads (CL). There are IT as well as business chapter leads.
+产品组称为部落。总监来自于业务方，是熟知企业贷款市场的专家。她被称为部落首领。这些团队称为小队，包括业务人员（客户旅程专家）和IT工程师（拥有DevOps知识和相关背景）。每个小队都有一个产品负责人（PO），负责管理小队的待办事项。人的技能和能力发展是分会负责人（Chapter Leads）的责任。分会同时也有IT部⻔主管和业务部⻔主管。
 
-Agile coaches support the tribe in working according to the standard Dutch Bank Agile way of working. The Product Owner, Chapter Lead and Agile Coach form a triad called the POCLAC. The POCLAC meets regularly to discuss problems and solutions to issues the squads might have.
+敏捷教练支持部落按照荷兰银行敏捷模型的标准工作方式开展工作。产品负责人，分会负责人和敏捷教练组成了一个三元组，称为POCLAC 。
 
-The picture below depicts this organizational structure.
+下图描绘了这种组织结构。
+
 
 <figure>
-  <img src="img/case-studies/large-dutch-bank/original-spotify-structure.png" alt="Original Spotify Structure">
+  <img src="img/case-studies/large-dutch-bank/original-spotify-structure.png" alt="原Spotify结构">
 </figure>
 
 ### Local Optimization of Squads
