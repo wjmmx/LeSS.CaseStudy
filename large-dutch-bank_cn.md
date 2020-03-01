@@ -20,19 +20,15 @@
 大约1.5年前，我（ **总监** ）来领导这个部落。一个由500多人组成，包含业务人员和IT人员的小组来打造一个企业贷款产品，相关客户忠诚度小组所负责的工作也在我们的业务范围之内。以前，我曾参与过从零开始筹建一家零售银行以及按揭贷款方案的开发。在前一份工作中，我集中精力通过引入敏捷的工作方式，打造一个高绩效组织的模型。
 
 最初几周，我决定花些时间做观察。期间，我注意到这些团队很开心，团队目标也似乎与小队的目标保持一致。这些团队是自主的，并通过大量的便签和站会来一起工作。
+一切看上去都还不错，但这时候我们即将推出产品的第一个大版本。
 
-In the first few weeks I decided to spend my time observing the group.
-In my observations I noticed that the teams were having fun and seemed to work in line with the purpose of their squads. The teams were autonomous and organized themselves using lots of sticky notes and standup meetings.
-All seemed okay, but this was about to change as we approached our first big product release.
+我们每6个月可以交付一个产品版本。在这些版本发布之后，会有2个月进行缺陷修复，等待该产品稳定后将其发布到市场。我们在这些版本中包含了很多功能，但并非一定是正确的解决方案。漫⻓的发布周期和充满了惊叹号的缺陷修复期使我们很难为客户或董事会提供可靠的市场预测。
 
-We delivered our product in 6 month releases. Those releases were followed up by 2 months of bug-fixing to stabilize the product so it could be released to the market. We provided lots of functionality in these releases, but not always the right solutions. The long release cycle and the bug fixing period full of surprises made it very hard for us to provide reliable market forecasts to our customers or the board.
+我受命对这个痛苦的发布周期进行改进。我与来自部落各条战线的人们进行了各种会谈以提出改进措施。业务人员指出，IT人员无法交付高质量的代码。反过来，IT人员指出，业务人员并不了解他们的客户，提供了错误的需求。因此，我们开始组织一些会议进行共同学习；所有希望能从我们的错误中学习的人共坐一堂分享他的理解，思考和观点。这是打开人们心态的第一大步。我们认识到我们都必须实质性地改变一些东⻄。
 
-I was determined to improve this painful release cycle. I organized various sessions with people from all parts of the tribe to come up with improvement actions. The business people would point out that the IT people were not able to deliver quality code. In turn, the IT people pointed out that the business people did not understand their customer journeys and provided wrong inputs. So we started to work with learning sessions; all people together who wanted to share views, ideas and perspectives  to learn from our mistakes. This was the first big step in opening up the mindset of our people. Recognizing we all had to step in to substantially change something.
+我邀请了新人们（在这个部落工作了不到6个月的人）与我分享他们的观点和看法。他们指出的一个问题是业务与IT之间缺乏尊重。他们提出的另一个问题是当小队们（团队）在实现他们的小队目标的时候，是否实际上也在为我们的客户和部落提供最重要的功能。
 
-I invited my newbies (working for less than 6 months in this tribe) to share their views and observations with me. One issue they pointed out was the lack of respect between the business and IT. They also raised the question whether squads (teams) were actually working on the most important functionality to our clients and tribe, when it satisfied their individual squad purpose.
-
-At the same time I had challenges in building a target platform for Belgium and the Netherlands, where I did not have the required capabilities present in each country, and the mindset was still very much “them vs us”. How to bring all of this together?
-
+同时，在为比利时和荷兰搭建目标平台时，我也遇到了挑战。两个国家的团队都不拥有所需的能力，而且思维上仍然是很强的“他们？还是我们？”模式。如何才能将所有这些结合在一起？
 ### Helplines: Once Upon a Time...
 
 I did not know what to do, and started looking for help. Luckily, around that time, an IT director visited our learning session, and I shared my situation with him. He pointed out that he might know someone who could help, and who even did a Go See of my teams previously; he introduced me to Cesario.
