@@ -1,23 +1,25 @@
-# Large Dutch Bank - Our Journey Towards Agility at Scale
+# 荷兰大型银行-我们迈向规模化敏捷的旅程
 
-This case study is written by Cesario together with a Product Area Lead, a Director, an an IT Area Lead from the Large Dutch Bank. The real name of the people and the bank are left out for legal reasons.
+本案例由Cesario与该荷兰大型银行的一位需求领域产品负责人，一位总监，及一位IT区域主管共同撰写。出于法律相关考虑，本文中的人及银行的名字均已隐去。
 
-## Introduction
+## 介绍
 
-This article is about how we improved on the Spotify inspired model in one tribe inside a Large Dutch Bank.
+本文是关于我们如何在荷兰大型银行的一个部落中改进其基于Spotify所创造的模型的。
 
-Our Business Lending product is being developed by more than 20 teams spread across 3 sites. Each team contains business, IT and operations skills. In this configuration we are able to deliver valuable product increment to our customers every 2 weeks. We achieved this by adopting LeSS principles to further optimise our existing Spotify inspired way of working.
+我们的企业贷款产品由3个地点的20多个团队开发。每个团队都包含业务，IT和运营技能。在这种配置下，我们能够每2周向客户交付有价值的产品增量。我们通过采用LeSS原则进一步优化了我们现有的受Spotify模型启发的工作方式，从而实现了这一目标。
 
-In this writing we share our story from 4 different perspectives:
+在这里，我们从4个不同的⻆度分享我们的故事：
 
-* The director of the tribe.
-* The consultant.
-* The head of IT.
-* The Product Owner of the Product Area related to all customer journeys.
+* 部落的负责人。
+* 顾问。
+* IT主管。
+* 与所有客户相关的区域的产品负责人。
 
-## Observations: Why did we do this?
+## 观察：我们为什么这样做？
 
-Around 1.5 years ago I ( **director here** ) came to lead the tribe; a 500+ people group where business and IT people work together in squads to create the business lending product, and where the related customer loyalty teams are within our scope. Previously, I was involved in setting up a retail bank from scratch and in the development of mortgages solutions. During my previous job I worked intensively in tuning the agile way of working into a model for the performance organisation.
+大约1.5年前，我（ **总监** ）来领导这个部落。一个由500多人组成，包含业务人员和IT人员的小组来打造一个企业贷款产品，相关客户忠诚度小组所负责的工作也在我们的业务范围之内。以前，我曾参与过从零开始筹建一家零售银行以及按揭贷款方案的开发。在前一份工作中，我集中精力通过引入敏捷的工作方式，打造一个高绩效组织的模型。
+
+最初几周，我决定花些时间做观察。期间，我注意到这些团队很开心，团队目标也似乎与小队的目标保持一致。这些团队是自主的，并通过大量的便签和站会来一起工作。
 
 In the first few weeks I decided to spend my time observing the group.
 In my observations I noticed that the teams were having fun and seemed to work in line with the purpose of their squads. The teams were autonomous and organized themselves using lots of sticky notes and standup meetings.
