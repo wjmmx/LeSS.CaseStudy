@@ -93,29 +93,29 @@
 
 研究的结果表明，蓝色小队1、2、3、4、5、7、8、16和 21应该在同一产品上协同工作，因为几乎所有功能都需要这些小队。
 
-### Single function managers and the POCLAC
+### 单一职能经理和POCLAC
 
-The Chapter Leads acted as single function managers. For example there were IT chapter leads for specific technologies like Pega or Java. Single function managers encouraged people to grow in single-skill career paths. They did not promote mutli-skill growth of people, which is required for creating adaptive teams.
+分会负责人担任单一职能经理。例如，有针对特定技术（例如Pega或Java）的IT分会负责人。单一职能经理鼓励人们在单一技能的职业道路上发展。他们不去促进人员的多技能发展，而这恰恰是创建适应性团队所必需的。
 
-Team issues were often not discussed by the teams or with the teams directly. Instead, the issues were discussed by the Product Owner, Agile Coach and Chapter lead in POCLAC meetings. Such meetings take away ownership of the process, autonomy of decisions, and self-organization on how to do things, from the teams. Exactly the opposite effect in case you want to have continuously improving teams. It was no surprise that team ownership decreased over time and ‘POCLAC’ activities increased a lot.
+团队的问题通常不是由团队讨论，或者与团队一起直接讨论。相反，产品负责人，敏捷教练和分会负责人在POCLAC（代表Product Owner，Chapter Lead及Agile Coach这三个角色）会议中讨论了这些问题。这样的会议剥夺了团队对流程的所有权，决策的自主权以及如何做事的自组织权利。如果您想要一个不断改进的团队，那么情况恰恰事与愿违。随着时间的流逝，团队所有权会越来越少，“POCLAC”活动也会越来越多。
 
-### Continuous Integration
+### 持续集成
 
-Seventeen squads were working in feature branches. That is, they were working for weeks and sometimes months in isolation without integrating their code with the other squads. I found that there was no good reason for having so many branches other than “ this is  the way things are done over here.”
+17 个小队工作在特性分支（Feature Branch）上。也就是说，他们彼此隔离地工作了数周甚至数月，而没有将代码与其他小组集成。而且我发现，除了“这就是在这儿的工作方式”之外，没有什么充分的理由支持产生这么多的分支。
 
-Branching inhibits coordination and introduces delays, integration problems, reduces refactoring possibilities and causes long lasting, painful stabilisation phases full of surprises.
+分支会抑制协调并导致延迟，引入集成问题，减少重构的可能性，并导致后期持久且痛苦的稳定化阶段充满了诧异。
 
-When there is no Continuous Integration there is poor coordination.It was no surprise that releases were recurrently painful and forecasts unpredictable. (See also [Why Isn't Your Current Approach to Scaling Agility Working?](https://agilix.nl/case-study/why-isnt-your-current-approach-to-scaling-agility-working/)
+如果没有持续集成，协调就会很差。每次发布都是痛苦不堪，预测的结果也无法预计，这些都不足为奇。（另请参⻅[为什么您当前的规模化敏捷方法行不通？](https://agilix.nl/case-study/why-isnt-your-current-approach-to-scaling-agility-working/)）
 
-### Output driven development
+### 输出物驱动的开发
 
-The last observation I want to share is that of output driven development. Every quarter there was a Quarterly Business Review session where the squads were given Epics consisting of stories that needed to be done. Performance was tracked against a number of Epics and stories done. The goal was to deliver all the stories as promised at the beginning of a quarter. The more predictable you were the better the scores.
+我要分享的最后一个观察结果是输出物驱动的开发。每个季度都有一个“季度业务回顾”会议，向小队分派包含了需要完成的用户故事的Epic。绩效就根据完成的Epic和用户故事数量跟踪来进行评价。目标是按照季度初所承诺的那样完成所有的用户故事。您的结果越可预测，您的得分就越高。
 
-There are two main points to be aware of when using this approach. First, the Epics that you want done at the beginning of the quarter might not really solve the customer problem or achieve your business goals. Why? Because you might not know if your solution actually solves a customer problem. Evenmore important, you might be solving the wrong problem for your customers in the first place.
+使用此方法时需要注意到两个要点。首先，您在本季度初希望完成的工作可能并不能真正解决客户的问题或实现您的业务目标。为什么？因为那时候您可能根本不知道您的解决方案是否真正解决了客户问题。更重要的是，您可能首先去为客户解决的是个错误的问题。
 
-So, the goal was to deliver a set of Epics or solutions instead of achieving a specific outcome. The teams were given work to do, instead of problems to solve.
+因此，目标是提供解决方案或相应的一套Epics，而不是实现一个具体的结果。团队面对的只是要做的工作，而非待解决的问题。
 
-Second, with output driven development teams have no incentive to validate any of these assumptions, nor are they encouraged to do so. You run the risk of delivering a lot of solutions but for the wrong problems. The tribe used predictive planning instead of adaptive planning which is required when developing complex software.
+其次，使用输出物驱动的开发，团队没有任何动力去验证假设，他们也不被鼓励去那么做。您冒着风险提供很多解决方案，但是却解决了错误的问题。部落使用的计划方式是预测性的，而不是开发复杂软件时需要的适应性的。
 
 ## Leadership Challenges & Organizational Design
 
