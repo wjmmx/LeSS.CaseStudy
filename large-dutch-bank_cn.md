@@ -42,17 +42,17 @@
 
 所以，几个星期后，我去了这家银行几天进行Go See。
 
-## Understanding the System Dynamics
+## 了解系统动态
 
-I start many engagements with a Go See. I perform Go See sessions to show respect to the teams and leadership, and to understand how the work is working for them at the level of a larger group.
+我的许多活动都是以Go See开始的。我进行Go See会谈，表示了对团队和领导的尊重，并了解工作在整个组织层面是如何展开的。
 
-One of the things I look for are recurring events. Patterns that keep coming back over time. Why? Because patterns are often the result of the organizational structure, processes and policies  people work with. And these systemic issues can probably only be addressed by improving the organizational design. Contrary to common belief, you cannot make substantial improvement on systemic issues by working exclusively on the people.
+在Go See中，我不断寻找的事情之一就是反复发生的事件。随着时间的推移，模​​式会不断重复。为什么？因为模式通常是组织结构，工作流程和政策共同作用的结果。这些系统性问题可能只能通过改进组织设计来解决。与通常的看法相反，您不能通过仅仅关注人来对系统性问题进行实质性改进。
 
-Unfortunately, I cannot be there for the duration of many months to see systemic patterns emerge over time. So instead, I rely on stories from people who work there, on personal observations, asking questions and humble inquiry to get insights into the system dynamics.
+但不幸的是，我不能在那里呆很长时间来观察随着时间的推移所涌现的系统模式。因此，取而代之的是，我依赖于在那里工作的人告诉我的故事，依赖于个人的观察，依赖于提问和谦虚的探询来获得对系统动态的洞察。
 
-I had various conversations and workshops with the development teams and the leadership. I have observed meetings and engineering practices, did pair programming and studied backlogs to understand the work context.
+我与开发团队和领导层进行了各种对话和工作坊。我观察了会议和工程实践，作了结对编程，并研究了待办列表来了解工作环境。
 
-With all this information I created an understanding about how the work works over time, and used that systemic understanding to make the following recommendations.
+基于所有获得的信息，我对工作经过时间的流逝进行了理解，并利用这种系统的理解提出了以下建议。
 
 ### Spotify Inspired Dutch Bank Model
 
