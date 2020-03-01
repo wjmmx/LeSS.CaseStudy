@@ -81,17 +81,17 @@
 
 反复出现的问题是，预测不可靠，部落级别的聚焦程度低以及无法对涌现的想法做出响应。而这些都与工作在这样的系统中密切相关。
 
-#### Study how the work works and optimize for what you have most of
+### 研究工作间的依赖机制并进行最大优化
 
-When I studied the tribe’s overall work that was expected to be done in the coming year, I identified 3 areas of high dependencies, that for the sake of legal reasons, we call blue, grey and orange in this paper. In the blue area we found that the work required over 7 squads full time, while 3 other squads were needed regularly.
+当我研究整个部落预计在来年计划完成的工作时，我识别出3个高度依赖的区域，出于法律原因，在这里让我们将其称为蓝色，灰色和橙色。在蓝色区域，我们发现该工作除了需要7个全职团队外，还定期需要另外3个团队的支持。
 
-In the graphic below you see the results of the dependency study in the 24 squad tribe. The colour section of the circle indicates the percentage of a  squad’s time needed to develop end-customer features in a particular area. A complete blue circle means that a squad is needed 100% of the time in the blue area..
+在下面的图形中，您可以看到24个小队的依赖关系。圆圈的颜色部分表示在特定区域开发最终客户特性所需的时间百分比。一个完整的蓝色圆圈则表示该小队100％的时间都需要投入到蓝色区域中。
 
 <figure>
-  <img src="img/case-studies/large-dutch-bank/dependency-study.png" alt="Result of Dependency Study">
+  <img src="img/case-studies/large-dutch-bank/dependency-study.png" alt="依赖研究的结果">
 </figure>
 
-It turned out the blue squads 1, 2, 3, 4 ,5, 7 ,8, 16 and 21 should work together on the same product, because these squads are needed for almost every feature.
+研究的结果表明，蓝色小队1、2、3、4、5、7、8、16和 21应该在同一产品上协同工作，因为几乎所有功能都需要这些小队。
 
 ### Single function managers and the POCLAC
 
