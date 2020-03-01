@@ -29,17 +29,18 @@
 我邀请了新人们（在这个部落工作了不到6个月的人）与我分享他们的观点和看法。他们指出的一个问题是业务与IT之间缺乏尊重。他们提出的另一个问题是当小队们（团队）在实现他们的小队目标的时候，是否实际上也在为我们的客户和部落提供最重要的功能。
 
 同时，在为比利时和荷兰搭建目标平台时，我也遇到了挑战。两个国家的团队都不拥有所需的能力，而且思维上仍然是很强的“他们？还是我们？”模式。如何才能将所有这些结合在一起？
-### Helplines: Once Upon a Time...
 
-I did not know what to do, and started looking for help. Luckily, around that time, an IT director visited our learning session, and I shared my situation with him. He pointed out that he might know someone who could help, and who even did a Go See of my teams previously; he introduced me to Cesario.
+### 服务热线：很久以前...
 
-I ( **consultant  here** ) came into contact with the Bank while giving a talk at a meetup. My talk was about programmers in large scale development. At the end of my talk, a gentleman approached me and shared with me some challenges he was seeing in his group. He later introduced himself as the director of IT in a Dutch Bank.
+我不知道该从何下手，所以开始寻求帮助。幸运的是，就在那个时候，一位IT主管参观了我们的学习会议，我跟他分享了当时的情况。他说，他认识一个人，可能可以帮上忙，这个人甚至以前还曾对我的团队进行过Go See；于是，他把我介绍给了Cesario。
 
-A couple of days later he called me. He shared that maybe I should come over and have a look at his group. This was in late 2017.
+我（ **顾问** ）与该银行的接触发生在一次聚会上，当时我正做一个演讲。演讲的话题是关于大规模开发中的开发人员的。演讲结束后，一位绅士来到我的身边，与我分享了他在工作中遇到的一些挑战。后来，他介绍说他是一个荷兰大型银行的IT主管。
 
-I was not really interested, so I said that I would sent a proposal later this week. He answered, “hmm, I thought Agile was about Customer Collaboration OVER Contract Negotiation?”... His response made me curious, and I decided to go over to the Bank and have a look.
+几天后，他给我打了电话。他建议说或许我应该过来看看他的团队。那时是2017年末。
 
-So, a couple of weeks later I went over for a Go See for a couple of days.
+我其实并不真正感兴趣，所以我说我将在本周晚些时候给他发一份提议。他回答说：“嗯，我以为敏捷是关于客户合作而不是合同谈判” ......他的回答令我感到好奇，于是我决定去银行看看。
+
+所以，几个星期后，我去了这家银行几天进行Go See。
 
 ## Understanding the System Dynamics
 
