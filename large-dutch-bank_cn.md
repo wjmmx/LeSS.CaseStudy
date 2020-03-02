@@ -240,23 +240,23 @@
   <img src="img/case-studies/large-dutch-bank/product-backlog.png" alt="产品待办列表">
 </figure>
 
-When the coaches asked about this the squads said it was inefficient to pick up middle items because they understood the lower item better.
+当教练问起时，小队说如果工作在放在中间的条目上则会效率不高，因为他们对底部条目的了解更好。
 
-On many occasions, I stayed with the middle items in my hand asking the squads to pick these. Repeatedly saying that it is okay to learn and to broaden the understanding of the whole product. The goal is that any squads can pick up any item from the Product Backlog.  It was hard and took a long time before the squads become comfortable with this new idea. After 1 squad had the courage to pick up these kind of items, soon other squads followed. Especially when the squads who avoided picking up items out of their expertise zone were confronted by the squads who did.
+多数情况下，我都是拿着这些处于中间的条目，请小队们先挑选它们。我反复地告诉大家，这可以促进学习和增进对整个产品的了解。我们的目标是任何一个小队都可以从产品待办列表中拿任何一个条目。这很难并且花了很⻓时间才让小队采纳了这个新想法。 当有1个小队有勇气拿起这类条目之后，很快就有其他小队紧随其后。尤其是当那些避免挑选不在其专业领域的条目的小队遇到了恰恰是另外小队的专业领域的时候。
 
-### To much work for PO
+### PO的工作太多
 
-In the early Sprints I was very eager and did everything to make it work; a period of long days and short nights. Answering questions, talking to lots of users, stakeholders, writing stories, epics, preparing meetings and so on. It was unbearable. This could not be the way to go forward; how could I be the PO for 7 squads?
+在早期的迭代中，我非常渴望并尽一切努力来促使目标达成。那段时间，白天很长夜晚很短。回答问题，与许多用户、干系人沟通，编写用户故事，Epic，准备会议等等。实在无法忍受。不能这么继续下去；否则我怎么能成为7个小队的PO？
 
-I understood that in order to fix this, the squads needed to refine the items by themselves with the customers. I needed to focus on overall planning, work with customers and stakeholders, think about the prioritization of Epics, worry about the expected outcomes of Epics, and express the acceptance criteria from a business point of view. I needed to work more at the strategic level.
+我知道为了解决这个问题，团队需要能自己与客户进行需求条目的梳理。我需要集中精力做总体规划，与客户和干系人一起工作，思考Epics的优先级，操心Epics的预期结果，并从业务的⻆度表述验收标准。我需要在战略层面上做更多的工作。
 
-This changed when we asked people to create story maps to solve our top challenges. The solution became their plan, and this really helped to make the refinings easier and much more effective.
+当我们要求团队创造用户故事地图来解决我们的主要挑战时，情况发生了变化。解决方案成为他们的计划，这确实使得梳理工作更容易，更有效。
 
-### Ownership and Continuous Improvement
+### 所有权和持续改进
 
-Process improvement used to be driven by the team product owners and Agile Coach. And because of their limited reach, the improvements had been mostly local to their teams. Bigger improvements across multiple squads were much harder to realize.
+流程改进以前是由团队PO和敏捷教练推动的。由于他们的影响范围有限，大部分改进只是针对他们的团队的。很难实现跨多个小队的大一些的改进。
 
-Introduction of the overall retrospective changed this dynamic radically. At the end of every Sprint, squad representatives and management come together to discuss problems. The squads are completely free to try improving on anything they want. This has led to numerous improvement actions like having mob-programming sessions to share knowledge, introduce all kinds of standards, change the way the refinements sessions are done, change in squads compositions and even changes to the way the overall retrospectives are done.
+整体回顾会议引入后从根本上改变了这个动态。在每个迭代结束时，小队代表和管理人员就聚在一起讨论发生的问题。小队完全可以尝试他们想要的任何改进。这带来了许多改进行动，例如通过”群殴式编程“来共享知识，引入各种标准，改变梳理会议的方式，改变小队的组成结构，甚至改变做整体回顾的方式。
 
 ## Key Results
 
