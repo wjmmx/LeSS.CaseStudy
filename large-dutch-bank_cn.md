@@ -258,38 +258,47 @@
 
 整体回顾会议引入后从根本上改变了这个动态。在每个迭代结束时，小队代表和管理人员就聚在一起讨论发生的问题。小队完全可以尝试他们想要的任何改进。这带来了许多改进行动，例如通过”群殴式编程“来共享知识，引入各种标准，改变梳理会议的方式，改变小队的组成结构，甚至改变做整体回顾的方式。
 
-## Key Results
+## 关键结果
 
-We have been working in this configuration for over 6 months now, and we got some interesting results as you can see below.
+我们用这样的方式已经工作了6个月以上，并且我们得到了如下一些有趣的结果。
 
-* Epic Completion
-    * Steady increase in achieving planned outcome. From 55% to 80% in 3 quarters.
-* Deliver value in every sprint
-    * Over 50 reviews of valuable functionality to our users / customers. In contrast to less than 10 previously.
-* Improve happiness and Improve/broaden skills
-    * Slight increase in employee satisfaction too. From 5.85 to 6.04.
+* Epic完成率
+    * 实现了计划达成率的稳步增⻓。3个季度从55％升至80％。
+* 每个迭代都交付价值
+    * 做了超过50次对我们的用户/客户有价值的功能的评审。作为对比，以前是少于10次。
+* 提高幸福感并提升/拓宽技能
+    * 员工满意度也略有提高。从5.85提高到6.04。
 
-## Key Insights we want to share
+## 我们想分享的关键洞察
 
-The key insights we think are essential to have achieved what we have now are:
+帮助我们获得现在成绩的关键洞察：
 
-* 1 shared vision, 1 goal is very powerful
-    * Co-creating the product vision with  people over time.
-    * Repeating the product vision over and over again
-    * Understanding purpose increases intrinsic motivation.
-* Reduction of dependencies between squads
-    * We have more autonomous squads because more teams can work on customer facing item independently.
-    * The work of the squads has become more meaningful because their work contributes directly to customer value.
-* Create ownership, do not tell people what to do, ask them to solve problems!
-    * Use all the intelligence that is available in the group.  Set ambitious goals and have  people come up with solutions.
-* Instead of making false predictions , first become more reliable.
-    * Multi Skilled people and cross-component feature teams increase reliability because the squads are better tuned. Measure of progress is transparent because progress is measured at the level of the feature.
-    * Forecasts are hard to make. But having reliable quality of the product reduce the surprises during the stabilization phase.
-    * Continuous integration with automated tests is essential to increase predictability.
-* Working in feature teams revealed that people formerly known as  heros were actually preventing others from developing.
-* It is not about autonomy, but about tuning the teams.
-    * Working together with lots of teams might look the squads have less autonomy. But actually this is a false assumption. Autonomy is about being able to do your work without dependencies. Our configuration reduced the dependencies between the squads.
-    * The key insight is that autonomy is about how the squads are tuned with respect to each other. Moving all autonomous in the same direction requires constant tuning and being aware of the whole product.
+* 1个共同的愿景，1个目标的威力非常强大
 
-We are still struggling and working hard to improve. An important difference is that improvement became everybody’s concern. It feels like the whole group is taking ownership of the process and taking initiatives to improve. This has made work challenging, meaningful and more fun.
+    * 随着时间的推移与人们共同实现产品愿景。
+    * 一遍又一遍地重复产品愿景。
+    * 了解目标会增加内在驱动力。
 
+* 减少小队之间的依赖
+
+    * 我们拥有更多的自主团队，因为更多的团队可以独立处理面向客户的需求条目。
+    * 小队的工作变得更加有意义，因为他们的工作直接体现了客户价值。
+
+* 建立所有权，不要告诉人们该怎么做，要让他们解决问题！
+    
+    * 使用所有可用的智慧。设定雄心大志，让人们自己提出解决方案。
+
+* 先变得更加可靠，而不是做出错误的预测。
+
+    * 多技能的人员和跨组件的特性团队可以提高可靠性，因为这样的团队可以更好地进行适应调整。进度是透明的，因为进度基于对特性的度量。
+    * 预测很难。但是拥有可靠的产品质量可以减少稳定化阶段的意外情况。
+    * 与自动化测试的持续集成在本质上可以提高可预测性。
+
+* 特性团队的工作表明以前被称为英雄的人实际上阻止了其他人的发展。
+
+* 这与团队的自适应有关，而非自治。
+    
+    * 与许多团队一起工作似乎可以让小队拥有更少的自治权。这实际上是一个错误的假设。自治是指无需依赖即可完成工作。我们这样的工作方式减少了小队之间的依赖。
+    * 关键的洞察是，自治是关于小队彼此之间如何自适应调整的。关注产品整体，朝着同一方向自由移动，并不断进行适应调整。
+
+我们仍在不断斗争，努力改进。与以前相比，现在的一个重要的区别是，改进已成为每个人的关注点。感觉就像是整个团队都在掌控流程并主动采取行动来做改进。这让工作具有挑战性，具有意义和乐趣。
