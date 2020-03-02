@@ -183,28 +183,29 @@
 * 没有秉承1个Scrum Master为1..3个团队服务，实际上我们根本没有ScrumMaster。取而代之的是，我们有4名全职的敏捷教练，在多团队的事件中提供帮助。
 * 没有使用LeSS这个词，而是聚焦于挑战。几个月后，我提到我们正在做的是LeSS，他们说，“是的，我们知道，我们并不愚蠢:)”。
 
-## How do we work?
+## 我们如何工作？
 
-Our ( **Product Owner here** ) improvement Goals are:
+我们（ **产品负责人** ）的改进目标是：
 
-* Improve Epic Completion ratio
-    * By increasing focus with 1 product backlog prioritised by the highest customer value
-* Deliver value in every sprint
-    * By cross functional/component teams to be able to deliver shippable products
-* Improve happiness and Improve/broaden skills
-    * By investing in skills and expertise of our people to contribute to target solutions
+* 提高Epic的完成率
+    * 通过聚焦一份以最高客户价值排序的产品待办列表
+* 每个迭代都交付价值
+    * 跨职能/组件团队能够交付可发布的产品
+* 提高幸福感并提升/拓宽技能
+    * 通过投资于员工的技能和专业知识，为目标解决方案做出贡献
 
-The first step of Dutch Bank Business Lending was having 7 squads working with one Product Owner. The squads work in the standard LeSS process. The only thing worth mentioning is the following.
+荷兰银行企业贷款产品的第一步是让7个小队与一名产品负责人一起工作。小队的工作遵循标准的LeSS流程。唯一值得一提的是以下的内容。
 
-All squads participate in multiple synchronous Multi-team Backlog Refinement workshops every Sprint. This increases knowledge sharing & reduces dependencies between teams. People opt-in to share what they know e.g. on Pega development.
+所有小队每个Sprint都参加多次同步多团队待办列表梳理工作坊。这增加了知识共享并减少了团队之间的依赖。人们对他们所了解的进行选择性的分享，例如Pega开发。
 
-All squads travel between countries for Sprint Review. With 2 week Sprints, this means that once a month all NL people travel to Belgium and vice versa. While we are all together we use the whole day to close the Sprint and start the next Sprint.
+所有小队都做国家间的旅行以进行迭代评审。迭代历时2周，这意味着所有的荷兰成员每月去一次比利时，反之亦然。当我们都聚在一起时，会花一整天关闭当前的迭代然后开始下一个迭代。
 
-A typical agenda for the Sprint Review includes: Product vision, sprint goal(s), multiple demonstrations in parallel, converge to work through feedback and outlook for the next Sprints.
+一个典型的迭代评审议程包括：产品愿景，产品目标，并行的团队演示，逐步处理反馈和对下一个迭代的展望通常融合交织在一起。
 
 <figure>
-  <img src="img/case-studies/large-dutch-bank/agenda.png" alt="Agenda for Sprint Planning">
+  <img src="img/case-studies/large-dutch-bank/agenda.png" alt="迭代评审议程" >
 </figure>
+
 
 ## It was hard!
 
