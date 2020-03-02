@@ -117,71 +117,71 @@
 
 其次，使用输出物驱动的开发，团队没有任何动力去验证假设，他们也不被鼓励去那么做。您冒着风险提供很多解决方案，但是却解决了错误的问题。部落使用的计划方式是预测性的，而不是开发复杂软件时需要的适应性的。
 
-## Leadership Challenges & Organizational Design
+## 领导力挑战与组织设计
 
-The approach to redesigning the tribe was two-fold. First, the leadership worked on aligning their goals. What challenges need to be addressed? Second, what organizational design is needed to deal with the challenges.
+重新设计部落的方法有两个方面。首先，领导层致力于对齐目标，他们需要应对什么样的挑战？其次，需要什么样的组织设计来应对这些挑战？
 
-Some of the main challenges were:
+一些主要挑战是：
 
-* How can we become more reliable as a tribe?
-* How to increase focus and alignment within the tribe?
-* How to deal with  development across sites?
+* 作为一个部落，我们如何变得更加可靠？
+* 如何在部落内增强聚焦和一致性？
+* 如何处理跨站点的开发？
 
-The insights we got from the Go See sessions led us in the following direction
+我们在Go See会谈中获得的洞察为我们指引了以下方向
 
-### How can we become more reliable as a tribe?
+### 作为一个部落，我们如何变得更加可靠？
 
-Reliability would probably improve if we had a better understanding of where the tribe was at any point in time with respect to their quarterly goals.
+如果我们在任何时候对部落的季度目标都有更好的了解，那么可靠性就很可能会提高。
 
-We concluded that transparency would increase if we would know every 2 weeks what was done, and was not done at the overall product level.
+我们认为如果每隔两周就知道产品在整体层面上什么完成了，什么没有完成，那么透明性将会提高。
 
-To achieve this we decided to:
+为了实现这一目标，我们决定：
 
-* Try giving the teams problems, instead of telling them what ‘solution’ to implement.
-* Try to have all squads take responsibility for a working product at the end of every Sprint. Instead of only feeling responsible for their part.
-* Try to gradually eliminate all branches. All teams commit to the mainline. Use branches only for product release. This increases coordination, reduces interruptions and increases speed. (At first, the people were very surprised to even consider eliminating all branches to say the least. Doing CI with the current setup and technology seemed close to impossible.)
+* 尝试告诉团队问题，而不是告诉他们要实施什么“解决方案”。
+* 尝试让所有小队在每个Sprint结束时对可工作的产品负责，而不只是为自己工作的那部分负责。
+* 尝试逐步消除所有分支。所有团队都工作在主线上。分支仅仅用于产品的发布版本上。这样可以提高协调性，减少中断并提高速度。（起初，人们对非常惊讶，他们甚至连想都没有想过可以不使用任何分支。基于现有的配置和技术做持续集成似乎是不可能的。）
 
-### How to increase focus and alignment within the tribe?
+### 如何在部落内增强聚焦和一致性？
 
-Based on the Go See results we considered that focus and alignment at the tribe level would probably increase if we reduced the autonomy of the squads by asking them to reach for a common goal every Sprint.
+根据Go See的结果，我们认为如果减少小队的一点自治权，通过要求各个小队每个Sprint达到一个共同的目标来达到，那么在部落层面上的聚焦和对⻬可能会增加。
 
-To achieve this we decided to:
+为了实现这一目标，我们决定：
 
-* Try to form ( the blue squads ) squads focusing on the Customer Proposition area. Have them work from the same backlog etc; this focus increased speed and adaptability.
-* Try to introduce new LeSS areas for the other squads after we verified that the first area would work.
-* Try to do outcome driven planning instead of output driven planning. For example, do not ask the teams to deliver ‘5 Epics’. Instead, ask them to find a solution for reducing the time to approve a loan.
-* Try to integrate the code from all the squads into mainline at least 2 times a day for all squads. This reduces risks of discovering bugs late in development, or even after delivery.
+* 尝试形成小队（蓝色小队）工作聚焦在客户主张领域。让他们共享一份待办列表；这种聚焦将提升速度和适应性。
+* 在我们确认第一个领域可以这么工作了以后，尝试为其他小队引入新的LeSS领域。
+* 尝试做以结果为导向的计划，而不是以输出物为导向的计划。例如，不要要求团队交付“5个Epic”。相反，要求他们找到缩短贷款批准时间的解决方案。
+* 尝试每天至少两次将所有小队的代码集成到主线中。这样可以减少在开发后期甚至交付后发现缺陷的⻛险。
 
-### How to deal with development across sites?
+### 如何处理跨站点的开发？
 
-The squads historically had worked independently across 2 sites, but now we needed to develop a single product. At each site, people only had understanding about their specific product details, specific systems, specific customers and market dynamics. Because of all this there was plenty of duplication in systems, data and processes that needed to migrate into a single place.
+有些小队从形成以来就分在两个站点独立工作，但现在我们需要开发的是一个产品。在每个站点，人们只了解他们所对应的特定的产品详情，特定的系统，特定的客户和市场动态。由于所有这些原因，我们的系统、数据和流程中存在大量的重复，需要迁移到某个单一位置中去。
 
-So, we needed a way to  further develop the product while keeping focus and maintaining reliability at the tribe level. And, we also needed to ensure that the migration of systems and data from one site to the other would keep everybody on board.
+因此，我们需要一种方法来进一步开发产品，同时在部落层面上保持聚焦和可靠性。而且，我们还需要确保每个人都参与到将系统和数据从一个站点迁移到另一个站点的工作中。
 
-To achieve this we decided to:
+为了实现这一目标，我们决定：
 
-* Try to work temporarily with so-called dispersed teams. This means that the squads would consist of people from both sites.
-* Accept the pain of dispersed teams working in a distributed manner for the gain of growing cross tribe understanding and alignment.
+* 尝试暂时的跨站点团队合作模式。这意味着小队将由来自两个站点的成员组成。
+* 接受跨站点团队分布式工作所带来的痛苦，培养⻓期的部落间的理解与对齐。
 
-So, at first, we did not use co-located teams. Instead, we used dispersed teams with people from multiple sites to accelerate learning about cross-country systems, business processes and customers.
+因此，刚开始我们并没有使用同地的团队。而是使用跨站点团队，让来自多个站点的人员进行交流，以加快对跨国系统、业务流程和客户的了解。
 
-### Breaking the Rules
+### 打破规则
 
-You can learn from the things you expect to be correct, and you can learn from doing things you expect to be incorrect. When, for example, you try something that you expect to work and it actually works, you confirm your current assumptions and values. When, on the other hand, you do something you think will not work, but it does work, you just learned that one of your assumptions, values or thinking patterns are incorrect.
+无论与您期待的结果是相符还是相悖，您都可以从做事中学习。例如，当您尝试做某事并收到预期的反馈时，您将能对当前的假设和价值判断进行确认。另一方面，当您认为做某事行不通，但结果却是行得通的时候，您就知道自己的某个假设，价值判断或思考方式是不正确的。
 
-The issue is that in general we prefer to avoid doing things that we expect not to work.
+问题在于，通常我们会避免去做一些我们认为”无用“的事情。
 
-During this adoption we did lots of things I thought would not work,
+在本次导入中，我们做了很多我认为”无用“的事情。
 
-So, we did not follow the conventional ideas on how to approach this. We broke a lot of ‘rules’:
+因此，我们没有遵循传统的方法来解决问题。我们打破了很多“规则”：
 
-* Did not educate everyone about LeSS, actually did not educate anyone. Instead, people learned about the way of working while doing it. By starting every session explaining why, the goal and the tactics. By providing small workshops where people could discuss real life problems they face.
-* Did not use volunteering. Instead, people got invited, and volunteering was possible after experiencing the work for some sprints.
-* Did not eliminate the role of team PO. Instead, teams’ POs volunteered to eliminate their own role after the first Sprint.
-* Did not prepare CI system before flip. Instead, we put Continuous Integration on top of the overall backlog for months. This was now possible because we moved to a single Product Owner.
-* Did not use co-located teams. Instead we used dispersed teams with BE-NL people to accelerate learning about Cross-country systems, business processes and customers.
-* Did not use a Scrum Master for 1..3 teams, actually we did not use any Scrum Masters. Instead, we had 4 full time agile coaches, and brought in help during multi-team events.
-* Did not use the word LeSS. Instead, focused on the challenges. After some months I mentioned that what we are doing is LeSS, and they said, “yeah we know, we are not stupid :) ”.
+* 没有教育所有人LeSS的相关知识，实际上我们没有教育任何人。相反，人们是在工作时了解其工作方式的。通过组织研讨会，解释这么做的原因、目标以及策略。通过开展小型工作坊，期间人们可以讨论他们面临的现实问题。
+* 没有使用志愿者的方式。取而代之的是，人们通过邀请加入。在经历一些迭代之后，才开始让人们自愿参加。
+* 没有取消团队PO这个角色。取而代之的是，团队PO在第一个迭代之后自愿将自己的⻆色抹去了。
+* 在反转之前没有准备持续集成系统（CI）。取而代之的是，我们将CI放在整体待办列表上好几个月。现在这件事情可能发生了，因为我们终于有了单个产品负责人。
+* 没有使用同地团队。取而代之的是，在比利时和荷兰的成员组成了跨站点团队，以加快对跨国系统、业务流程和客户的了解。
+* 没有秉承1个Scrum Master为1..3个团队服务，实际上我们根本没有ScrumMaster。取而代之的是，我们有4名全职的敏捷教练，在多团队的事件中提供帮助。
+* 没有使用LeSS这个词，而是聚焦于挑战。几个月后，我提到我们正在做的是LeSS，他们说，“是的，我们知道，我们并不愚蠢:)”。
 
 ## How do we work?
 
