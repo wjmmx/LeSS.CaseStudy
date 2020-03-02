@@ -206,39 +206,38 @@
   <img src="img/case-studies/large-dutch-bank/agenda.png" alt="迭代评审议程" >
 </figure>
 
+## 好难！
 
-## It was hard!
+过去，小队们工作在属于自己的产品的那部分，流程或客户领域很⻓时间。但一天天，这一切都发生了变化，人们拥有了一些很棒的机会来学习从不同的⻆度看世界。放弃旧习惯和局部优化对人们来说总是很难。以下挑战是我们要分享的：
 
-In the past, the squads worked for a long time on their own piece of the product, process or customer domain. This all changed from one day to the other and brought some great opportunities for learning to see the world from a different perspective. It also was hard for people to let go of their old habits and sub optimized improvements. Below are some of our challenges that we want to share:
+### 我已经知道我需要做的了，为什么我们还要做梳理？
 
-### Why do we need to refine. I already know what I need to do?
+在最初的几个迭代中，有些人认为所有的多团队梳理都是浪费时间。他们的理由是他们已经非常清楚需要做什么了。那么，为什么我们需要与所有的人，包括哪些可能根本不会工作在那些条目的人们再次讨论呢。这是低效的，而且非常浪费。
 
-In the first Sprints some people thought all the multi-team refinements were a waste of time. They argued that they already know exactly what needed to be done. So why do we need to discuss this again with all these people that might not even work on it. This is not efficient and feels very wasteful.
+我会说：“我理解您可能已经了解这个产品待办条目的全部内容了，但是其他的团队成员呢？”
 
-I would say, “I understand that you already know all about this Product Backlog Item, but what about your team members?”
+“我们的目标是所有的小队都需要能够从产品待办列表中挑选任何条目作为迭代目标，可如果是有些条目您知道所有信息但是其他人都不知道，怎么办？”假设您是主题A的专家，而所有其他成员都是主题B的专家，那么当我们的待办列表中仅仅包含主题A的时候，会发生什么？那不是我们想要的。
 
-“How is you knowing everything while others do not, add to our goal that all squads need to be able to pick any item from the Product Backlog?” If you are an expert on topic A and all your team members are experts in topic B, what would happen if we only have topic A in our backlog? That is not what we want.
+### 计划是什么？
 
-### What is the plan?
+传统上，人们使用⻓期计划，而且这些计划是详细的。在新的工作方式中，下季度的计划是详细的，但除此之外，仅仅计划了业务目标。
 
-Traditionally people worked with long term plans, and these plans were detailed. In this new way of working the plan for the coming quarter was detailed, but beyond that only business outcomes were planned.
+我会说：“我们对业务影响做出预估，但是无法预估什么时候交付什么功能（用户故事）。当我们获得并加以研究有关使用情况和业务目标的反馈时，需要的功能就会涌现。”
 
-I would say, “We make business impact estimations, but cannot estimate which functionality (stories) will be delivered when. The exact functionality emerges as we learn and get feedback about useage and  business outcomes.”
+最重要的是，人们还没有习惯被要求去解决问题，而是被要求去做任务。在这种新的思考方式下，他们得到了机会通过自己的技能和创造力为客户定义完美的解决方案。
 
-On top of that, people were not used to being asked to solve problems, but where asked to do tasks. In this new mindset, they got the opportunity to use their skills and creativity to define beautiful solutions for our customers.
+这对于小队的人们以及部落以外的领导者们来说都很难理解。我们仍在与此作斗争。
 
-This was super hard for people in the squads, as well as for the leadership outside the tribe to understand. We are still struggling with this.
+### 排优先级，“我为什么需要工作在这个上面？”
 
-### Prioritize, “why do I need to work on this?”
+小队们共享一份相同的产品待办列表中。优先级排序是基于对部落最有价值的东⻄。这与过去有所不同，过去待办列表的工作是以保持小队忙碌和提高局部效率为目标来排优先级的。
 
-The squads worked from the same Product Backlog. The prioritization was based on what is of most value to the tribe. This was different in the past, where the backlog was prioritised to keep the squads busy and being locally efficient.
+在迭代计划期间，关于本地效率的观念变得清晰起来。在迭代计划期间，小队可以选择他们想要的产品待办列表条目。通常小队会选择他们工作起来更舒适的条目。小队没有按照优先级选择条目。下面的图片展现的是小队挑选完条目后的产品待办列表。
 
-The mindset on local efficiency became clear during Sprint Planning. During Sprint Planning the squads can choose the Product Backlog Items they want to work on. Naturally the squads choose the item they are more comfortable with. The squads did not choose the items in order of prioritization. See the picture of the backlog after the squads had picked their items.
-
-The picture shows the the squads choose the top and the bottom items to work on. They choose bottom lower value items over the middle higher value items.
+小队选择了处于顶部和底部的条目来工作。他们选择了底部较低价值的条目，而不是中间较高价值的条目。
 
 <figure>
-  <img src="img/case-studies/large-dutch-bank/product-backlog.png" alt="Product Backlog">
+  <img src="img/case-studies/large-dutch-bank/product-backlog.png" alt="产品待办列表">
 </figure>
 
 When the coaches asked about this the squads said it was inefficient to pick up middle items because they understood the lower item better.
