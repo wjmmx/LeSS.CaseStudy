@@ -1,36 +1,41 @@
-# Steps Towards a LeSS Adoption in a Large Investment Bank
+# 在大型投资银行中采用LeSS 的步骤
 
-## Background
+## 背景
 
-(VBB is a pseudo name. Corporate policies restrict the usage of the actual company name. All names of individuals in this case study are also pseudo names.)
+（VBB是个代称，公司政策不允许我们使用真实的公司名称。本案例研究中的所有个人名称也是化名。
 
-This report is about a 2015-2016 Large-Scale Scrum (LeSS) adoption experience, shared by the two agile coaches, Sean and Gene, that were hired into VBB to help with an agile transformation. The coaches had some prior understanding of VBB’s internal dynamics.
+此报告是关于VBB在2015-2016年大规模Scrum（LeSS）的应用经验，由两名敏捷教练Sean和Gene分享，他们被VBB雇用帮助其实行敏捷转换。教练们事先对VBB的内部动态有一定的了解。
 
-The product scope for this LeSS adoption was document management for the intake, transmission, and storage of legal and financial documentation.
+此LeSS应用所涉及的产品范畴是一个文件管理系统，用于法律和财务文件的获取，传输和存储。
 
-## Prior Organization
+## 之前的组织结构
 
-VBB departments have a traditional organizational structure, with multiple reporting layers and middlemen. For example,
+VBB具有传统的组织结构，有多层汇报关系和各种中间人。例如：
 
-<u>Development group</u>: There were on average 5-6 reporting layers of management between the overall VBB CIO and real hands-on developers.
-[Business group](http://www.keystepstosuccess.com/wp-content/uploads/2018/09/vbb_case_study_org_design_Biz.jpg): Multiple layers of "translators" and "delegates", such as BAs, PMO, and various engagement managers, in between the real hands-on users of software and the real developers
+开发团队：在负责整体管理的VBB CIO和实际动手的开发人员之间平均有5-6层汇报关系。 
 
-Prior to the LeSS adoption the Development group had component teams. Requirements intake was typically done by Development group business analysts, interfacing with Business Group business analysts, interfacing with either other middlemen or real users.
+[Business group](http://www.keystepstosuccess.com/wp-content/uploads/2018/09/vbb_case_study_org_design_Biz.jpg
 
-### The Component Teams and “Products”
+): 在软件的最终实际用户和做事儿的开发人员之间，存在多层级的“传话人”和“代理人”，比如BA，PMO和各种项目经理。
 
-Prior to the LeSS adoption the document management solution was composed of a few narrowly defined *so-called* “products” that were just components, with component teams attached, and as usual with component teams, none created complete cross-component end-to-end customer-centric features.
+在采用LeSS之前，开发团队被分成了不同的组件团队。
 
-The component teams and related software “products” are shown in Figure 1:
+一般来说，需求获取的工作是由开发团队的业务分析师对接业务团队的业务分析师，然后再对接其他中间人或实际用户来完成。
+
+### 组件团队和产品
+
+在采用LeSS之前，文档管理解决方案是由几个定义狭隘的所谓的产品组成的。而这些“产品”实际上只是组件，有固定的组件团队来负责，自然也就没有哪个组件团队能够独立完成跨组件的以客户为中心的端到端特性。
+
+组件团队与其负责的软件“产品”，见图1：
 
 <figure>
 <img src="img/case-studies/very-big-bank/component-teams-on-fake-products.png" alt="Component Teams as Products">
   <figcaption>Figure 1: Component Teams as Products</figcaption>
 </figure>
 
-* CAP - A newer component for capturing data from another upstream system, external data-feed or manual entry
-* COM - A newer component for communicating captured data from system to system and, ultimately saving it as a document
-* CAR - A legacy component that recorded all documents
+* CAP - 一个较新的组件，用来获取数据，三种渠道：另一个上游系统，外部data-feed，人工输入
+* COM - 一个较新的组件，用来在系统间传输获取的数据，最终将其存为文档
+* CAR - 一个遗留组件，用来记录所有文档
 
 ### Adopting “Faux Scrum”
 
