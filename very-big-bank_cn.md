@@ -37,7 +37,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 * COM - 一个较新的组件，用来在系统间传输获取的数据，最终将其存为文档
 * CAR - 一个遗留组件，用来记录所有文档
 
-### Adopting “Faux Scrum”
+### 应用“伪Scrum”
 
 There had been an initial attempt to implement a faux “Scrum”. Each team member was still a single specialist. There was almost no interest in learning new functional domains or technologies, as everyone's job title was ‘business analyst’, ‘tester’, ‘front-end developer’, ‘manager’, ‘architect’, etc. Lack of motivation by people to learn additional functional and technical skills was driven by the process of individual goal-setting and performance reviews, enforced by line managers. Everyone’s end-of-year performance and discretionary incentives (bonuses, promotions) were based on an individual’s ability to prove that they delivered as per their original job descriptions (and did better than their peers/colleagues). For example, business analysts were measured based on how efficiently they were able to ‘write stories’, testers were measured on how many bugs they were able to discover, and so forth. This also led to *local optimization* by each single function and subsequently, to *sub-optimization* of the overall organizational system.
 
@@ -45,7 +45,7 @@ Because of that, everyone was risk-averse and not willing to experiment with any
 
 Naturally, this “Scrum” adoption with component teams and single-function specialists and traditional manager roles and policies did nothing to increase adaptiveness or quickly deliver end-to-end high-quality features, and it demonstrated massive waste.
 
-### Existing Preconditions Supportive of LeSS Adoption
+### 已有的利于LeSS应用的前提条件 Existing Preconditions Supportive of LeSS Adoption
 
 The following were some internal preconditions within Development that were already supportive of LeSS guides and experiments before the coaches got engaged:
 
@@ -62,7 +62,7 @@ The following were some internal preconditions within Development that were alre
   <figcaption>Figure 2: Centralized vs Decentralized Coaching</figcaption>
 </figure>
 
-## Initial Steps for the LeSS Adoption
+## LeSS应用的初始步骤 Initial Steps for the LeSS Adoption
 
 The coaches limited the scope of the adoption to about 50 Development and 20 Business people.
 
