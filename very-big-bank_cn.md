@@ -37,7 +37,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 应用“伪Scrum”
 
-最初曾尝试过使用"伪Scrum". 每个团队成员仍然只是某一个职能的专家。他们几乎没有兴趣去学习别的职能领域知识或技术，因为他们的职称是“业务分析师”，“测试人员”，“前端开发人员”，“经理”，“架构师”等。导致人们缺乏动力去学习其他职能知识和技术技能的是，由直线经理强制执行的个人目标设定和绩效评估流程。每个人的年终绩效和带有一定主观判断因素的激励措施（奖金，晋升）都是基于对个体能力的评估，每个人要证明他们是按照原始的岗位描述交付了成果（并且比同事做得更好）。例如，要度量业务分析师“编写故事”的效率，要度量测试人员发现错误的数量，依此类推。这也导致了每个职能的 *局部优化* ，以及整个组织系统的 *次优化*
+最初曾尝试过使用"伪Scrum". 每个团队成员仍然只是某一个职能的专家。他们几乎没有兴趣去学习别的职能领域知识或技术，因为他们的职称是“业务分析师”，“测试人员”，“前端开发人员”，“经理”，“架构师”等。受直线经理强制执行的个人目标设定和绩效评估流程所影响，人们缺乏动力去学习其他职能知识和技术技能。每个人的年终绩效和discretionary incentives（奖金，晋升）都是基于对个体能力的评估，每个人要证明他们是按照原始的岗位描述交付了成果（并且比同事做得更好）。例如，要度量业务分析师“编写故事”的效率，要度量测试人员发现错误的数量，依此类推。这也导致了每个职能的 *局部优化* ，以及整个组织系统的 *次优化*
 
 Because of that, everyone was risk-averse and not willing to experiment with anything new or innovative , as it would make them being perceived as ‘less efficient’. This was a class manifestation of [Law # 5 of Larman’s Laws of Organizational behaviour](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior) (“Culture follows Structure”), in which one can’t realistically expect people to behave in a way that is very contrary to the organizational system, especially when it involves salary and career promotion.
 
