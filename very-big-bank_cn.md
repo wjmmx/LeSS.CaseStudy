@@ -22,7 +22,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 组件团队和产品
 
-在采用LeSS之前，文档管理解决方案是由几个定义狭隘的所谓的产品组成的。而这些“产品”实际上只是组件，有固定的组件团队来负责，自然也就没有哪个组件团队能够独立完成跨组件的以客户为中心的端到端特性。
+在采用LeSS之前，文档管理解决方案是由几个定义狭隘的所谓产品组成的。而这些“产品”实际上只是组件，有固定的组件团队来负责，自然也就没有哪个组件团队能够独立完成跨组件的以客户为中心的端到端特性。
 
 组件团队与其负责的软件“产品”，**见图1**：
 
@@ -37,13 +37,13 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 应用“伪Scrum”
 
-There had been an initial attempt to implement a faux “Scrum”. Each team member was still a single specialist. There was almost no interest in learning new functional domains or technologies, as everyone's job title was ‘business analyst’, ‘tester’, ‘front-end developer’, ‘manager’, ‘architect’, etc. Lack of motivation by people to learn additional functional and technical skills was driven by the process of individual goal-setting and performance reviews, enforced by line managers. Everyone’s end-of-year performance and discretionary incentives (bonuses, promotions) were based on an individual’s ability to prove that they delivered as per their original job descriptions (and did better than their peers/colleagues). For example, business analysts were measured based on how efficiently they were able to ‘write stories’, testers were measured on how many bugs they were able to discover, and so forth. This also led to *local optimization* by each single function and subsequently, to *sub-optimization* of the overall organizational system.
+最初曾尝试过使用"伪Scrum". 每个团队成员仍然只是某一个职能的专家。他们几乎没有兴趣去学习别的职能领域知识或技术，因为他们的职称是“业务分析师”，“测试人员”，“前端开发人员”，“经理”，“架构师”等。导致人们缺乏动力去学习其他职能知识和技术技能的是，由直线经理强制执行的个人目标设定和绩效评估流程。每个人的年终绩效和带有一定主观判断因素的激励措施（奖金，晋升）都是基于对个体能力的评估，每个人要证明他们是按照原始的岗位描述交付了成果（并且比同事做得更好）。例如，要度量业务分析师“编写故事”的效率，要度量测试人员发现错误的数量，依此类推。这也导致了每个职能的 *局部优化* ，以及整个组织系统的 *次优化*
 
 Because of that, everyone was risk-averse and not willing to experiment with anything new or innovative , as it would make them being perceived as ‘less efficient’. This was a class manifestation of [Law # 5 of Larman’s Laws of Organizational behaviour](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior) (“Culture follows Structure”), in which one can’t realistically expect people to behave in a way that is very contrary to the organizational system, especially when it involves salary and career promotion.
 
 Naturally, this “Scrum” adoption with component teams and single-function specialists and traditional manager roles and policies did nothing to increase adaptiveness or quickly deliver end-to-end high-quality features, and it demonstrated massive waste.
 
-### 已有的利于LeSS应用的前提条件 Existing Preconditions Supportive of LeSS Adoption
+### 支持采用LeSS的已有前提条件 Existing Preconditions Supportive of LeSS Adoption
 
 The following were some internal preconditions within Development that were already supportive of LeSS guides and experiments before the coaches got engaged:
 
