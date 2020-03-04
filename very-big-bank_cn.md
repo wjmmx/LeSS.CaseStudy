@@ -14,11 +14,6 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 开发团队：在负责整体管理的VBB CIO和实际动手的开发人员之间平均有5-6层汇报关系。 
 
-<figure>
-< img src="img/case-studies/very-big-bank/component-teams-on-fake-products.png" alt="Component Teams as Products">
-  <figcaption>Figure 1: Component Teams as Products</figcaption>
-</figure>
-
 ): 在软件的最终实际用户和做事儿的开发人员之间，存在多层级的“传话人”和“代理人”，比如BA，PMO和各种项目经理。
 
 在采用LeSS之前，开发团队被分成了不同的组件团队。
@@ -29,7 +24,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 在采用LeSS之前，文档管理解决方案是由几个定义狭隘的所谓的产品组成的。而这些“产品”实际上只是组件，有固定的组件团队来负责，自然也就没有哪个组件团队能够独立完成跨组件的以客户为中心的端到端特性。
 
-组件团队与其负责的软件“产品”，见图1：
+组件团队与其负责的软件“产品”，**见图1**：
 
 <figure>
 <img src="img/case-studies/very-big-bank/component-teams-on-fake-products.png" alt="Component Teams as Products">
