@@ -14,7 +14,10 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 开发团队：在负责整体管理的VBB CIO和实际动手的开发人员之间平均有5-6层汇报关系。 
 
-[Business group](http://www.keystepstosuccess.com/wp-content/uploads/2018/09/vbb_case_study_org_design_Biz.jpg
+<figure>
+< img src="img/case-studies/very-big-bank/component-teams-on-fake-products.png" alt="Component Teams as Products">
+  <figcaption>Figure 1: Component Teams as Products</figcaption>
+</figure>
 
 ): 在软件的最终实际用户和做事儿的开发人员之间，存在多层级的“传话人”和“代理人”，比如BA，PMO和各种项目经理。
 
