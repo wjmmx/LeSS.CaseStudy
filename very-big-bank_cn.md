@@ -37,13 +37,13 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 应用“伪Scrum”
 
-最初曾尝试过使用"伪Scrum". 每个团队成员仍然只是某一个职能的专家。他们几乎没有兴趣去学习别的职能领域知识或技术，因为他们的职称是“业务分析师”，“测试人员”，“前端开发人员”，“经理”，“架构师”等。受直线经理强制执行的个人目标设定和绩效评估流程所影响，人们缺乏动力去学习其他职能知识和技术技能。每个人的年终绩效和discretionary incentives（奖金，晋升）都是基于对个体能力的评估，每个人要证明他们是按照原始的岗位描述交付了成果（并且比同事做得更好）。例如，要度量业务分析师“编写故事”的效率，要度量测试人员发现错误的数量，依此类推。这也导致了每个职能的 *局部优化* ，以及整个组织系统的 *次优化*
+最初曾尝试过使用"伪Scrum". 每个团队成员仍然只是某一个职能的专家。他们的职称是“业务分析师”，“测试人员”，“前端开发人员”，“经理”，“架构师”等等，所以他们几乎没有兴趣去学习别的职能领域知识或技术技能，这也是受到由直线经理强制执行的个人目标设定和绩效评估流程所影响。每个人的年终绩效和discretionary incentives（奖金，晋升）都是基于对个体能力的评估，个人要证明他们是按照最初的岗位描述交付了成果（并且比同事做得更好）。例如，要度量业务分析师“编写故事”的效率，要度量测试人员发现错误的数量，依此类推。这也导致了每个职能的 *局部优化* ，以及整个组织系统的 *次优化*
 
-Because of that, everyone was risk-averse and not willing to experiment with anything new or innovative , as it would make them being perceived as ‘less efficient’. This was a class manifestation of [Law # 5 of Larman’s Laws of Organizational behaviour](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior) (“Culture follows Structure”), in which one can’t realistically expect people to behave in a way that is very contrary to the organizational system, especially when it involves salary and career promotion.
+因此，每个人都会规避风险，并且不愿意去尝试新的或创新的东西，因为这会使他们看起来“效率低下”。这是【拉曼组织行为法则的第5条】（“文化遵循结构”）的一种经典表现，其中指出我们不能在实际中期望人们的举止与组织系统背道而驰，特别是当它涉及工资和职业晋升时。
 
-Naturally, this “Scrum” adoption with component teams and single-function specialists and traditional manager roles and policies did nothing to increase adaptiveness or quickly deliver end-to-end high-quality features, and it demonstrated massive waste.
+自然地，这种具有组件团队、单一职能专家、传统的经理角色的“Scrum”应用，以及对应的策略，对增加适应性没有任何效果，也没有加速端到端高质量功能的交付，反而显示出巨大的浪费。
 
-### 支持采用LeSS的已有前提条件 Existing Preconditions Supportive of LeSS Adoption
+### 支持采用LeSS的已有前提条件
 
 The following were some internal preconditions within Development that were already supportive of LeSS guides and experiments before the coaches got engaged:
 
@@ -381,3 +381,5 @@ The following challenges remained unresolved at the time both coaches departed:
 * People that were displaced because their original roles became no longer required in LeSS (e.g. business analysts, project managers, and manual testers) were not effectively accommodated by other parts of VBB. Effective cross-training to acquire additional skills (and hence work as an effective flexible team member) was not offered either. Therefore, displaced people continued to put up hidden resistance to the LeSS adoption.
 * Self-management remained a challenge. For example, individuals were still required to “work with their managers” on individual career plans, even in situations when managers had little influence on decisions.
 * Performance reviews and subjective bonuses continued to affect individuals' morale, even though their importance was trivialized: complete decoupling of performance reviews from subjective monetary incentives did not happen
+
+
