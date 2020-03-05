@@ -66,7 +66,7 @@ The coaches limited the scope of the adoption to about 50 Development and 20 Bus
 
 This was consistent with one of [three LeSS adoption principles](https://less.works/less/adoption/three-principles.html) that states that for a successful organizational adoption of LeSS, it must be “*deep narrow over broad and shallow*”. To take this further, one of LeSS guides also suggests that when adopting LeSS, organizations must “..*focus LeSS adoption effort on one product group, give them all the support they need, and ensure they work really well*....”
 
-### Defining a Broader Product Definition
+### 扩展产品定义 Defining a Broader Product Definition
 
 Consistent with the LeSS rule to define a software product as broad as possible, the CAP, COM, and CAR components were merged into one broader product definition. Why not broader? This was the limit of scope of influence of the management involved in the LeSS adoption.
 
@@ -80,7 +80,7 @@ The coaches recognized that merging the CAP, COM, and CAR components into one br
 
 However, that broader definition was not yet possible.
 
-### Moving towards Feature Teams
+### 向特性团队迈进 Moving towards Feature Teams
 
 Since component teams are not consistent with global adaptiveness, working on highest value, or low total end-to-end cycle time, they had to be replaced with cross-component feature teams, reflecting the LeSS rule that the *majority of teams are end-to-end feature teams*.
 
@@ -101,7 +101,7 @@ The coaches also suggested that corporate attorneys should be invited to future 
 
 The coaches also organized **a <u>full-group training workshop</u>.** The coaches covered basic tenets of Scrum and LeSS. Particular focus was put on the difference between Scrum and LeSS, with respect to roles, events and artifacts. In training, developers were mixed with business people and managers at tables, for better collaboration and learning (there was no ‘developers-only’ table, or ‘managers-only’ table). During the workshop the coaches covered all LeSS rules and principles. They also discussed LeSS guides and provided some examples of documented LeSS experiments. The audience was also introduced to LeSS Huge but it was made clear that it would not be necessary in this adoption (since there was less than “8” feature teams).
 
-#### Self-Designing Teams Meeting
+#### 自设计团队会议 Self-Designing Teams Meeting
 
 Before facilitating a self-designing teams meeting, both coaches studied [one of the older case studies](https://less.works/blog/2018/12/27/how-to-form-teams-a-story-of-self-designing-teams.html), that described a similar event at another large bankfinancial company). This was helpful as the coaches got to read about some practical techniques that could be used with the teams.
 
@@ -119,7 +119,7 @@ Of course, the key activity of the meeting was that people self-organized into n
 
 Finally, three collocated feature teams were formed to work on the same product, sharing one Product Backlog.
 
-### The Initial PBR Workshop
+### 初始PBR工作坊
 
 Before starting Sprint 1, the product group decided to follow one of LeSS guides and hold an *initial* Product Backlog Refinement (PBR) workshop, during which the scope and vision of the product were clarified, key people required for work selected, highest priority features identified, and an initial Definition of Done clarified.
 
@@ -129,7 +129,7 @@ Here is an example of the vision statement for CAPCOMCAR:
 
 During the workshop both business and development stakeholders agreed on the high-level product themes and strategic, long-term goals. Facilitated by the coaches, this was done by using a combination of user journey identification and story mapping techniques and helped visualize *big work* that had strategic meaning. All future work was captured in one shared Product Backlog.
 
-### Finding a Product Owner and Domain Experts
+### 找到一个产品负责人和领域专家
 
 Identifying someone for the role of Product Owner was challenging. It was practically impossible to find a person that would have a sufficient strategic vision and enough organizational empowerment to set priorities for multiple teams. Finally, such a person was found in the business group.
 
@@ -137,7 +137,7 @@ But then another challenge was faced: she did not have any knowledge of basic Sc
 
 Lastly, the product group was directly introduced to *real hands-on internal users* that were asked to be available to provide clarifications and details to the teams. Special care was exercised in selecting these people and making sure that they were not middlemen, delegates, or proxies. Three individuals were identified that had a lot of hands-on knowledge with each one of the above mentioned components (and related steps in the Document Management process): CAP, COM, CAR.
 
-### Forming Communities
+### 形成社区
 
 In line with the LeSS guide and experiments, several communities were created. (*LeSS experiment: Try... Cultivate Communities of Practice. Try... Use CoPs for functional learning.*)
 
@@ -145,7 +145,7 @@ This started with a **Scrum Master Community**. Emphasis was made on improving f
 
 There was a lack of maturity in automated testing. To remediate this a **Test Automation community** was created. This allowed experience to be shared and establish better testing practices. This gave birth to gradual absorption of test automation activities into the teams.
 
-### Flattening Organizational Structure and Communication
+### 使组织结构和沟通扁平化
 
 (*LeSS Experiment: Try... Keep the organization as flat as possible*)
 
@@ -163,9 +163,9 @@ Below (**Figure 3**), is a graphic illustration that was used to educate the org
   <figcaption>Figure 3: Organizational Flattening</figcaption>
 </figure>
 
-## The Early Sprints
+## 早期迭代
 
-### Running a Sprint in LeSS
+### 运行LeSS的Sprint
 
 The following was implemented by the teams:
 
@@ -174,7 +174,7 @@ The following was implemented by the teams:
 * Sprint Review - Attended by all teams with Product Owner, users, and stakeholders.
 * Retrospectives - There were team-specific Retrospectives attended by Scrum Masters and teams only. There was an Overall Retrospective attended by Product Owner, team members, and Development managers. The latter was invited to learn and take responsibility for removing organization-level impediments.
 
-### Early Results and Perceptions by Business
+### 早期成果和业务感知
 
 The first step of the LeSS adoption to a broader product and feature teams impressed the users enough to ask for *more*. In short, they said, “*we really like what you have been producing and we want more of it. What would it take to have more features delivered to us, more frequently*”?
 
@@ -184,7 +184,7 @@ Why were the users pleased with the *initial* results of the LeSS adoption?
 * Second, thanks to teams’ improved design and stability, consistency of delivery was increased. It further led to improved ability to forecast delivery of features to users.
 * Third, and as a result to the first two points, overall relationship between business and technology improved. Trust and respect started building up.
 
-### Expanding from Three to Five Feature Teams
+### 特性团队从三个扩展为五个
 
 Because of the benefits and also the desire for more features, two more teams were created with developers from the same technology space, and put through some initial preparatory steps.
 
@@ -196,15 +196,15 @@ A few senior developers from the first three teams were asked to temporarily tak
 
 To speed the process of assimilation with more experienced teams, all teams agreed that both *new* teams would be coming to multi-team LeSS events (Sprint Planning 1, multi-team PBR) in *full*, whereas the three seasoned teams would be sending just representatives. Also, for a few initial Sprints, the two new teams went into multi-team Sprint Planning 2 with at least one of the original three teams. This approach was used for a few Sprints until everyone gained confidence that the newly joined teams became comfortable enough with the process of the LeSS events.
 
-#### Changes in Running a Sprint with Five Teams
+#### 在运行五个团队Sprint时的调整 Changes in Running a Sprint with Five Teams
 
 Sprint Planning - Part 1 (“what”) and 2 (“how”) became more clearly distinguished in purpose and attendance. Part 1 had just *representatives* from the three mature teams, plus *all members* from the newly added teams. Having all new team members made sense: while planning sessions did not get too crowded, newbies benefited from attending and learning together.
 
 In Sprint Planning Part 2, the goal of each team was to define its own Sprint Backlog. Given the nature of work and the preference to discuss technical solutions of backlog items together - something that would increase domain knowledge and mutual understanding of the work, as well as allow leaving decisions about which team picks up which Product Backlog item until the last possible moment, the 5 teams would typically do planning *together* (*LeSS Guide: Multi-Team Sprint Planning Two*). Rarely, the teams split up into two teams + three teams sub-groups for planning .
 
-## Organizational Elements That Limited Improvement
+## 限制改进的组织元素
 
-### Finance and Budgeting Policies
+### 财务和预算政策
 
 (**LeSS Experiment**: *Try... Beyond budgeting*)
 
@@ -233,15 +233,15 @@ Although the coaches *were* able to develop appreciation by management for these
 
 However, the *limited victory* that the coaches had was convincing the management to consult more frequently and directly with teams with respect to forecasting, and with the Product Owner with respect to emerging needs and (re)prioritization. These conversations started happening every month (after every second Sprint).
 
-### Product Owner Availability
+### 产品负责人 Availability
 
 One issue was continuous unavailability of one of the key stakeholders, whose input to Product Owner and the teams was critical. This person was continuously travelling and not too keen to attend Sprint Reviews. Instead, she would send delegates to ‘*represent her views*’. This was not sufficient, since information was often skewed and twisted in translation. Senior management took necessary steps to ensure that the required person became available in future Sprint Reviews.
 
-### Existing Reporting Structure
+### 现有的汇报结构
 
 While the LeSS structure prevailed, and the self-formed teams were also self-managing, without any apparent interference from first-line management, the formal traditional reporting relationships were *not* officially eliminated. This was primarily due to the twice-annual performance-review process forced by HR. This led to a variety of wastes and some conflicts.
 
-### Managers Going Around the Product Owner
+### 产品负责人身边的经理们
 
 Even after CAPCOMCAR product was properly defined, teams properly structured and Product Owner elected, there was still one issue remaining: *communication*.
 
@@ -251,7 +251,7 @@ Given the potentially unpleasant implications to developers (e.g. accusing them 
 
 On a few occasions, line management was invited in PBR sessions as guests where they were asked to state their most pressing needs explicitly and candidly, in front of Product Owner and some key stakeholders. This was discussed in the context of the teams’ capacity and priorities coming from the business. Very diplomatically, line management was put in a situation, when they had to negotiate *not* with the teams but with Product Owner directly - what priorities should be. The teams merely observed and contributed to a dialogue in various ways (e.g. clarifying capabilities, limitations, dependencies, etc). By removing themselves from potentially unsafe negotiations, the teams were able to focus more on work and less on politics. This approach has worked, as the teams were no longer as exposed and were out of harm’s way.
 
-#### Minimizing Side-work and Supporting Single Product Backlog
+#### 最小化副作用，而且支持单一产品订货单 Minimizing Side-work and Supporting Single Product Backlog 
 
 Due to a significant amount of interruptions it became critical to increase transparency on the associated dollar-cost of unplanned/”hidden”/side-work. As it is often the case within large enterprise organisations, facilitating big changes required an empirical approach. For this, the teams were advised to *stop using a separate backlog to manage interruptions and side-work*, and instead keep all of their work in one shared Product Backlog. This allowed the Product Owner to refer to one single “source of truth”, instead of multiple independent “containers of wishes” - to see the overall amount of work the teams were asked to deliver, with conflicting priorities, and by doing so, set real priorities.
 
@@ -259,7 +259,7 @@ Taking into account inevitable work interruptions, helped manage the teams’ ca
 
 This led to making some hard, but necessary, decisions: to mandate from requesting individuals and business groups that tried to put their priorities on top of and around Product Owner’s priorities, to stop doing so. It was discussed and agreed upon by the heads of Development and Business organizational structures that requests would go through the Product Owner.
 
-### Traditional Management Communication Pathways
+### 传统管理沟通途径 
 
 As mentioned above, the hierarchy of VBB was such that it led to command and control behaviours between reporting layers. Any action that, rightly or wrongly, deviated from the path dictated by management lines, or challenged existing norms and order, was often seen as risky and was discouraged.
 
@@ -275,7 +275,7 @@ The management was encouraged to start coming down to teams’ area, and talk to
 
 The management also decided to resort to various discrete escalation techniques that would encourage individuals from lower organizational levels communicate directly to higher organizational levels. The “IRS” (Impediment Removal Service) was introduced, as a means of safer escalation of problems from teams and Scrum Masters to senior management. It came in the form of a dedicated internal email address alias that anyone could submit their personal challenge/problem in the form of a community discussion.
 
-### Manager Component Owners
+### 管理Manager Component Owners
 
 The manager component owners were a source of initial resistance against forming cross-component feature teams. Why? For component owners, *ownership* meant personal visibility, power and control and, therefore, a better chance to be promoted and better compensated.
 
@@ -317,7 +317,7 @@ Still the Development architecture group did not dissolve and so there were cont
 
 In addition to architecture groups, technical managers also wanted to dictate architectural decisions, since their traditional positions were based on these kinds of actions. A Development manager introduced (without consultation with the teams) a weekly “Design meeting”. This had the effect of severely hampering in-flight and future work, and was a source of conflict for the developers across all teams. Because it was imposed by a middle manager, this was difficult to abolish. It took a number of Sprints until the problem was recognized by senior management (Scrum Masters escalated this problem and qualified it as an organizational impediment) and this low-level centralized decision-making attempt was abolished.
 
-### HR Policies
+### HR政策
 
 During the faux “Scrum” adoption, each team member was still officially a single specialist. There was almost no interest in learning new functional domains or technologies, as everyone's job title was ‘business analyst’, ‘tester’, ‘front-end developer’, ‘manager’, ‘architect’, etc. Lack of motivation by people to learn additional functional and technical skills was driven by the process of individual goal-setting and performance reviews, by line managers. Everyone’s end-of-year performance and discretionary incentives (bonuses, promotions) were based on an individual’s ability to prove that they delivered as per their original job descriptions (and did *better than* their peers/colleagues). For example, business analysts were measured based on how efficiently they were able to ‘write stories’, testers were measured on how many bugs they were able to discover, and so forth. This also led to local optimization by each single function and subsequently, to *sub-optimization* of the overall organizational system.
 
@@ -327,7 +327,7 @@ The partial success that the coaches were able to achieve was to persuade manage
 
 A few years after the coaches disengaged, their prior effort to improve job roles finally paid off: A more general “developer” role with broad skills was introduced, and the job title of *Scrum Master* was added VBB-wide. This is a classic example that a coaching impact may have a delayed effect.
 
-### Culture is Influenced by Organizational Design
+### 文化受组织设计影响
 
 One of the most challenging aspects of organizational culture that the coaches had to face was the amount of emphasis that was put on *individual performance*. There was a deep systemic problem that had to be addressed, organization-wide.
 
@@ -365,7 +365,7 @@ Above all, a strong emphasis was made on customer happiness with the overall LeS
 
 Although at the end of the year each Development employee was still given a year-end review and “report card”, it had much less bearing on how an employee was rewarded financially. Individual adherence and genuine support of agile transformation efforts and LeSS adoption were valued more than individual delivery and heroics. Letter-grading was still assigned informally by managers (it was entered in a centralized system of record, as it was required by HR) but everyone understood and spoke freely about the fact that it had practically no value to anyone. This illustrated the LeSS experiment *Try... Fill in the forms*, meaning that when it isn’t possible to eliminate wasteful HR processes, then just play the game by inputting the essentially meaningless information with the least effort, and focus instead on the important real work of improving how to delight the customer.
 
-## Conclusion
+## 结论
 
 The LeSS adoption had some positive impacts:
 

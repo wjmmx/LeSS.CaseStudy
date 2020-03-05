@@ -378,3 +378,5 @@ The following challenges remained unresolved at the time both coaches departed:
 * People that were displaced because their original roles became no longer required in LeSS (e.g. business analysts, project managers, and manual testers) were not effectively accommodated by other parts of VBB. Effective cross-training to acquire additional skills (and hence work as an effective flexible team member) was not offered either. Therefore, displaced people continued to put up hidden resistance to the LeSS adoption.
 * Self-management remained a challenge. For example, individuals were still required to “work with their managers” on individual career plans, even in situations when managers had little influence on decisions.
 * Performance reviews and subjective bonuses continued to affect individuals' morale, even though their importance was trivialized: complete decoupling of performance reviews from subjective monetary incentives did not happen
+
+
