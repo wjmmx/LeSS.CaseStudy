@@ -45,7 +45,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 有利于LeSS实施的前提条件
 
-以下是在教练入场之前，开发内部已有的支持LeSS指南和实验的前提条件:
+以下是在教练入场之前，开发内部已具备的支持LeSS指南和实验的前提条件:
 
 * PMO，作为一个组织单位已经被解散。一些剩余的类似于PMO的职能（例如：排期，预测，工作分配，进度监视）被开发团队和业务人员吸收。（LeSS实验：*避免... 项目管理办公室*, *避免... 所谓的敏捷PMO*）
 * 大家有清楚的认知，认为让Scrum Masters对团队成员进行绩效评估会带来严重的功能障碍。(LeSS实验: *避免... Scrum Masters 做绩效评估*)
@@ -53,7 +53,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 * 开发团队每个人都明白将“假”团队成员（例如项目经理，“powerpoint架构师”）添加到团队中无济于事，相反，这只会创造一种”大团队“的假象。(LeSS实验: *避免... 假的团队成员*)
 * 资深经理们很乐意被称为并提供“障碍消除服务”，而不是“变革管理团队”。(LeSS实验: *尝试... 障碍服务而不是变革管理*). 例如，某个资深经理接到团队成员的关于某个问题的电话或邮件，他不会委托下属处理，而是召集一个会议。
 * 通过利用一些简单的工具和视频设备，多站点的计划扑克已经有效运作（LeSS实验：*尝试...眼见为实-无处不在的廉价视频技术和视频文化。* *尝试...多站点计划扑克（估算扑克）* ）。 例如，每个团队的个人公共区域都配备了摄像机，扬声器和小白板。 这使得可以使用物理计划扑克卡（无需用更复杂的软件乱搞），因为每个团队成员都可以将其物理表决卡展示给房间里的人，也可以给摄像头对面的人。 白板用来做快速笔记，以便房间里的人和通过摄像头参会的人都可以看到信息。
-* [中央（组织）教练部门]（https://www.infoq.com/articles/centralized-decentralized-coaching）（例如，所谓的“敏捷卓越中心”）和中心化的敏捷/精益指南已被视为一种伪造的迹象，重新标榜既有现状以及局部优化，最终将导致打造出孤立的孤岛和特权的教练（LeSS实验：*请尝试...偏爱去中心化解决方案胜于中心化解决方案。避免...有正式权威的中央教练组。避免...内部敏捷/精益指南*）。 该组织看到了与团队、业务或产品人员密切合作的深层嵌入式教练的价值。 人们偏爱和嵌入式教练在一个社区里共同努力（右图），胜于隐秘的“首席教练”权力结构。 **见图2**.
+* [中央（组织）教练部门](https://www.infoq.com/articles/centralized-decentralized-coaching)（例如，所谓的“敏捷卓越中心”）和中心化的敏捷/精益指南已被视为一种伪造的迹象，重新标榜既有现状以及局部优化，最终将导致打造出孤立的孤岛和特权的教练（LeSS实验：*请尝试...偏爱去中心化解决方案胜于中心化解决方案。避免...有正式权威的中央教练组。避免...内部敏捷/精益指南*）。 该组织看到了与团队、业务或产品人员密切合作的深层嵌入式教练的价值。 人们偏爱和嵌入式教练在一个社区里共同努力（右图），胜于隐秘的“首席教练”权力结构。 **见图2**.
 
 <figure>
 <img src="img/case-studies/very-big-bank/centralized-vs-decentralized-coaching.jpg" alt="Centralized vs Decentalized Coaching">
@@ -62,23 +62,23 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ## LeSS应用的初始步骤 Initial Steps for the LeSS Adoption
 
-The coaches limited the scope of the adoption to about 50 Development and 20 Business people.
+教练限制了初始采用LeSS的人数，开发大概50人，业务人员20人。
 
-This was consistent with one of [three LeSS adoption principles](https://less.works/less/adoption/three-principles.html) that states that for a successful organizational adoption of LeSS, it must be “*deep narrow over broad and shallow*”. To take this further, one of LeSS guides also suggests that when adopting LeSS, organizations must “..*focus LeSS adoption effort on one product group, give them all the support they need, and ensure they work really well*....”
+这与[三项LeSS采用原则](https://less.works/less/adoption/three-principles.html)之一一致，该原则指出，为了成功地组织级采用LeSS，必须要“*深而窄优于宽而浅*”。进一步，LeSS指南之一还建议组织在采用LeSS时必须“ .. *将采用LeSS的工作重点放在某一个产品团队上，为他们提供所需的所有支持，并确保他们工作得很好* .... ”
 
 ### 扩展产品定义 Defining a Broader Product Definition
 
-Consistent with the LeSS rule to define a software product as broad as possible, the CAP, COM, and CAR components were merged into one broader product definition. Why not broader? This was the limit of scope of influence of the management involved in the LeSS adoption.
+符合LeSS尽可能扩大软件产品定义范围的规则，CAP，COM和CAR组件被合并成一个更宽泛的产品定义。 为什么没有定义更宽的范围？ 这是受到参与到本次LeSS采用中的管理层其影响范围的限制。
 
-The coaches recognized that merging the CAP, COM, and CAR components into one broader product definition still did not create a complete end-to-end customer-journey software product. In order for the software to be a complete end-to-end, it would actually have to include other software components (and teams) in the bank, such as:
+教练们意识到，将CAP，COM和CAR组件合并到一个更广泛的产品定义中，仍然不能创造完整端到端客户体验的软件产品。 为了使该软件成为完整的端到端软件，它实际上必须包括银行系统中的其它软件组件（和团队），例如：
 
-* **Regulatory** components
-* **Client on-boarding** components
-* **Legal** components
-* **HR and Recruitment** components
-* **Purchasing** components
+* **监管**组件
+* **客户登入**组件
+* **法律**组件
+* **人力资源和招聘**组件
+* **采购**组件
 
-However, that broader definition was not yet possible.
+然而，目前还做不到。
 
 ### 向特性团队迈进 Moving towards Feature Teams
 
