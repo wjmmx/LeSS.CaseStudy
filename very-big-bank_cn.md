@@ -45,7 +45,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 有利于LeSS实施的前提条件
 
-以下是在教练入场之前，开发内部已具备的支持LeSS指南和实验的前提条件:
+以下是在教练入场之前，开发内部有利于LeSS指南和实验的前提条件:
 
 * PMO，作为一个组织单位已经被解散。一些剩余的类似于PMO的职能（例如：排期，预测，工作分配，进度监视）被开发团队和业务人员吸收。（LeSS实验：*避免... 项目管理办公室*, *避免... 所谓的敏捷PMO*）
 * 大家有清楚的认知，认为让Scrum Masters对团队成员进行绩效评估会带来严重的功能障碍。(LeSS实验: *避免... Scrum Masters 做绩效评估*)
@@ -80,11 +80,11 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 然而，目前还做不到。
 
-### 向特性团队迈进 Moving towards Feature Teams
+### 向特性团队迈进
 
-Since component teams are not consistent with global adaptiveness, working on highest value, or low total end-to-end cycle time, they had to be replaced with cross-component feature teams, reflecting the LeSS rule that the *majority of teams are end-to-end feature teams*.
+由于组件团队的存在与提高全局适应性、从最高价值入手、缩短端到端的响应时间的目标不一致，因此必须换成跨组件的特性团队，这反映了LeSS规则，即“大多数团队都是端到端特性团队*。
 
-The coaches facilitated a *pre-workshop activity* with senior management and stakeholders, representing all three components. A couple of visualization techniques (business value flow, customer journey, story mapping) were used to engage participants in a dialogue and a series of use case simulations that revealed that neither of the individual components represented a complete end-to-end customer or user feature.
+在教练的引导下，代表了所有三个组件的高级管理人员和利益相关者一起进行了“工作坊准备活动”。使用了几种可视化技术（业务价值流，用户体验地图，用户故事地图）来吸引参与者进入对话和一系列用例模拟，这些用例模拟揭示了，没有哪个组件能代表完整的端到端客户或用户特性。
 
 Perhaps the most important education activity during this step in preparing to create feature teams was the following:
 
