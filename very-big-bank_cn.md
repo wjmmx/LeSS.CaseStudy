@@ -64,7 +64,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 教练限制了初始采用LeSS的人数，开发大概50人，业务人员20人。
 
-这与[三项LeSS采用原则](https://less.works/less/adoption/three-principles.html)之一一致，该原则指出，为了成功地组织级采用LeSS，必须要“*深而窄优于宽而浅*”。进一步，LeSS指南之一还建议组织在采用LeSS时必须“ .. *将采用LeSS的工作重点放在某一个产品团队上，为他们提供所需的所有支持，并确保他们工作得很好* .... ”
+这与[三项LeSS采用原则](https://less.works/less/adoption/three-principles.html)之一一致，该原则指出，为了成功进行组织的LeSS采用，必须要“*深而窄优于宽而浅*”。进一步，LeSS指南之一还建议组织在采用LeSS时必须“ .. *将采用LeSS的工作重点放在某一个产品团队上，为他们提供所需的所有支持，并确保他们工作得很好* .... ”
 
 ### 扩展产品定义 Defining a Broader Product Definition
 
@@ -84,11 +84,11 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 由于组件团队的存在与提高全局适应性、从最高价值入手、缩短端到端的响应时间的目标不一致，因此必须换成跨组件的特性团队，这反映了LeSS规则，即“大多数团队都是端到端特性团队*。
 
-在教练的引导下，代表了所有三个组件的高级管理人员和利益相关者一起进行了“工作坊准备活动”。使用了几种可视化技术（业务价值流，用户体验地图，用户故事地图）来吸引参与者进入对话和一系列用例模拟，这些用例模拟揭示了，没有哪个组件能代表完整的端到端客户或用户特性。
+在教练的引导下，代表了三个组件的高级管理人员和利益相关者一起进行了“工作坊前的准备活动”。他们使用了几种可视化技术（业务价值流，用户体验地图，用户故事地图）来吸引参与者进入对话和一系列用例模拟，这些用例模拟揭示了，没有哪个组件能代表完整的端到端客户或用户特性。
 
-Perhaps the most important education activity during this step in preparing to create feature teams was the following:
+在准备创建特性团队的这个步骤中，最重要的教育活动可能是：
 
-**Managers had to learn to see that component-team development was the root cause of integration and excessive cross-team coordination problems.**
+**经理必须学会明白组件团队的发展是集成问题和过多的跨团队协调问题的根本原因。**
 
 It was important that they understood some organizational implications of moving from component teams to feature teams. Specifically, with feature-team development, the control by existing VBB “component owners” would need to be eliminated. As will be explored later, this issue will become one source of dysfunction in the adoption.
 
