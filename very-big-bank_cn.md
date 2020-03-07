@@ -261,7 +261,7 @@ This led to making some hard, but necessary, decisions: to mandate from requesti
 
 ### 传统管理沟通途径 
 
-As mentioned above, the hierarchy of VBB was such that it led to command and control behaviours between reporting layers. Any action that, rightly or wrongly, deviated from the path dictated by management lines, or challenged existing norms and order, was often seen as risky and was discouraged.
+As mentioned above, the hierarchy of VBB was such that it led to command and control behaviors between reporting layers. Any action that, rightly or wrongly, deviated from the path dictated by management lines, or challenged existing norms and order, was often seen as risky and was discouraged.
 
 Most attempts to put to light underlying problems and impediments went in vain. This was indicative of an endemic problem, as historically, the company actively resisted changes.
 
