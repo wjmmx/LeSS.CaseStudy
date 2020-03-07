@@ -90,16 +90,16 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 **经理必须学会明白组件团队的发展是集成问题和过多的跨团队协调问题的根本原因。**
 
-It was important that they understood some organizational implications of moving from component teams to feature teams. Specifically, with feature-team development, the control by existing VBB “component owners” would need to be eliminated. As will be explored later, this issue will become one source of dysfunction in the adoption.
+他们能够了解一些从组件团队到特性团队的组织影响，这是很重要的。具体来说，随着特性团队的发展，需要消除现有VBB“组件所有者”的控制权。正如后面将要探讨的那样，这个事情将成为这次应用紊乱的一个问题来源。
 
-The original CAR component team was in an external (and very remote) vendor company. It added an additional degree of complexity: time zones, vendor middlemen, handovers, and above all, commercial contracts influencing dysfunctional to internal behavioral “contracts”. As a part of moving towards feature teams, it was decided that vendor developers would be mixed with internal developers, in ways that would de-emphasize belonging to different companies and emphasize belonging to the same feature teams. A series of meetings with VBB and vendor managers were held about the importance of having legal contracts written in ways that supports agile ways of working Some LeSS experiments were presented and discussed in the context of what was known about the existing organizational dynamics:
+最初的CAR组件团队在一家外部（且非常远程）的供应商公司中。它增加了额外的复杂度：时区，供应商中间商，移交，尤其是影响内部行为“合同”功能失调的商业合同。作为向功能团队迈进的一部分，决定将供应商开发人员与内部开发人员混合使用，从而不再强调属于不同公司并强调属于同一功能团队。与VBB和供应商经理举行了一系列会议，讨论以支持敏捷工作方式的方式编写法律合同的重要性。在了解了现有组织动态的背景下，介绍并讨论了一些LeSS实验：
 
-* *Try...Lawyers study problems arising from silo mentality and lack of systems thinking*
-* *Try...Lawyers study agile, iterative, & systems-thinking concepts*
+* *尝试...律师研究由筒仓心态和缺乏系统思维引起的问题*
+* *尝试...律师学习敏捷、迭代和系统思考的概念*
 
-The coaches also suggested that corporate attorneys should be invited to future training and coaching sessions. )
+教练还建议应邀请公司律师参加未来的培训和辅导课程。
 
-The coaches also organized **a <u>full-group training workshop</u>.** The coaches covered basic tenets of Scrum and LeSS. Particular focus was put on the difference between Scrum and LeSS, with respect to roles, events and artifacts. In training, developers were mixed with business people and managers at tables, for better collaboration and learning (there was no ‘developers-only’ table, or ‘managers-only’ table). During the workshop the coaches covered all LeSS rules and principles. They also discussed LeSS guides and provided some examples of documented LeSS experiments. The audience was also introduced to LeSS Huge but it was made clear that it would not be necessary in this adoption (since there was less than “8” feature teams).
+教练还组织了** <u>全体培训工作坊</ u>。**教练们介绍了Scrum和LeSS的基本原理。 就角色，事件和工件方面，特别聚焦在Scrum和LeSS之间的区别。 在培训中，每桌由开发人员与业务人员、经理们混合组成，以实现更好的协作和学习（没有“仅开发人员使用”表或“仅管理人员使用”表）。 在研讨会期间，教练们介绍了LeSS的所有规则和原则。 他们还讨论了LeSS指南，并提供了已记录的LeSS实验的案例。 还向听众介绍了LeSS Huge，但显然这次不会采用（因为少于“ 8”个特性团队）。
 
 #### 自设计团队会议 Self-Designing Teams Meeting
 
