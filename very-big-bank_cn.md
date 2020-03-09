@@ -111,17 +111,15 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 在会议期间，一些经理随时待命，解决出现的组织问题。 具体来说，在参加本次会议时，有一些担忧：
 
-During the meeting some managers were on standby to address organizational issues, should those arise. Specifically, going into this meeting, there were some concerns about:
+* 前面设计团队的尝试会影响后面的决定
+* 按照现有的汇报关系或者单组件（比如，UI或DB团队）来构建团队
+* 人们不想和不喜欢的人在一个团队，等等
 
-* attempts by prior designated team leads to influence decisions of others
-* building teams around existing reporting lines and/or single components (e.g. UI or DB team)
-* persons not wanting to be on the same team with someone else because personal dislikes, etc.
+经理们被明确要求不要参与自设计团队会议，除非这些担忧成为现实。幸运的事，唯一需要经理参与的工作是提供有关几个最新招聘的开发人员的信息，他们几周内会加入团队中。 另一个管理层的输入是，新成立的团队将长期存在。
 
-Managers were explicitly asked to stay out of the self-designing teams meeting unless concerns became true risks. Luckily the only manager involvement that was necessary was providing some information about a small handful of newly hired but not yet on-boarded developers that would be added to the team within weeks. Another managerial input was reinforcing that the newly formed teams would be long-lived.
+当然，会议的关键活动是人们自组织成新的团队。 这是通过所有人聚在一起讨论最佳的方法来组建可以交付端到端特性的团队来完成的。 这里使用了LeSS“使用志愿服务”的采用原则。 一开始，通过确保每个团队在同一地点，跨职能，熟悉多个组成部分，使每个人都意识到产品和研讨会的目标，以及组建结构合理的团队的含义， 自我管理，可容纳3至9人，寿命长。
 
-Of course, the key activity of the meeting was that people self-organized into new teams. This was done with all people coming together and discussing best ways to cluster into teams to deliver end-to-end features. The LeSS “use volunteering” adoption principle was used. At the beginning, everyone was reminded of the goals of the product and the workshop, as well as what it would mean to form well-structured teams, by ensuring that each team is co-located, cross-functional, knowledgeable of several components, self-managed, sized between 3 to 9 people, and long-lived.
-
-Finally, three collocated feature teams were formed to work on the same product, sharing one Product Backlog.
+最后，形成了三个在同一地点的特性团队，做同一产品，并共享一个产品待办事项列表。
 
 ### 初始PBR工作坊
 
