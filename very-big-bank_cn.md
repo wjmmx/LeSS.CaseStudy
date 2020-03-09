@@ -123,13 +123,13 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 初始PBR工作坊
 
-Before starting Sprint 1, the product group decided to follow one of LeSS guides and hold an *initial* Product Backlog Refinement (PBR) workshop, during which the scope and vision of the product were clarified, key people required for work selected, highest priority features identified, and an initial Definition of Done clarified.
+在开始Sprint 1之前，产品组决定遵循LeSS指南之一，举行一个*“初始” *产品待办事项列表梳理（PBR）工作坊，期间澄清了产品的范围和愿景，选择了工作所需的关键人员，识别出了最高优先级的特性，并阐明了初始“完成的定义”。
 
-Here is an example of the vision statement for CAPCOMCAR:
+以下是CAPCOMCAR愿景声明的例子：
 
-> “VBB employees and external clients will prefer to use our document capture platform as the most efficient solution that enables timely setup and management of products and accounts and conforms with global, legal, regulatory and control requirements. The process will include information capture, communication and storage”
+>“ VBB员工和外部客户将更喜欢使用我们的文档捕获平台作为最有效的解决方案，该解决方案能够及时设置和管理产品和帐户，并符合全球，法律，法规和控制要求。该过程将包括信息捕获，通信和存储”。
 
-During the workshop both business and development stakeholders agreed on the high-level product themes and strategic, long-term goals. Facilitated by the coaches, this was done by using a combination of user journey identification and story mapping techniques and helped visualize *big work* that had strategic meaning. All future work was captured in one shared Product Backlog.
+在研讨会上，业务和开发利益相关者都同意了高层的产品主题和战略，和长期目标。在教练的协助下，这是通过结合用户旅程识别和故事地图绘制技术来完成的，并有助于可视化具有战略意义的“大工作”。将来的所有工作都记录在一个共享的产品待办列表中。
 
 ### 找到一个产品负责人和领域专家
 
