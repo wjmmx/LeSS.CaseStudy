@@ -99,13 +99,17 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 教练还建议应邀请公司律师参加未来的培训和辅导课程。
 
-教练还组织了** <u>全体培训工作坊</ u>。**教练们介绍了Scrum和LeSS的基本原理。 就角色，事件和工件方面，特别聚焦在Scrum和LeSS之间的区别。 在培训中，每桌由开发人员与业务人员、经理们混合组成，以实现更好的协作和学习（没有“仅开发人员使用”表或“仅管理人员使用”表）。 在研讨会期间，教练们介绍了LeSS的所有规则和原则。 他们还讨论了LeSS指南，并提供了已记录的LeSS实验的案例。 还向听众介绍了LeSS Huge，但显然这次不会采用（因为少于“ 8”个特性团队）。
+教练还组织了**<u>全体培训工作坊</u>。** 教练们介绍了Scrum和LeSS的基本原理。 就角色，事件和工件方面，特别聚焦在Scrum和LeSS之间的区别。 在培训中，每桌由开发人员与业务人员、经理们混合组成，以实现更好的协作和学习（没有“仅开发人员使用”表或“仅管理人员使用”表）。 在研讨会期间，教练们介绍了LeSS的所有规则和原则。 他们还讨论了LeSS指南，并提供了已记录的LeSS实验的案例。 还向听众介绍了LeSS Huge，但显然这次不会采用（因为少于“8”个特性团队）。
 
 #### 自设计团队会议 Self-Designing Teams Meeting
 
-Before facilitating a self-designing teams meeting, both coaches studied [one of the older case studies](https://less.works/blog/2018/12/27/how-to-form-teams-a-story-of-self-designing-teams.html), that described a similar event at another large bankfinancial company). This was helpful as the coaches got to read about some practical techniques that could be used with the teams.
+在引导自设计团队会议之前，两个教练学习了[之前的一个案例研究](https://less.works/blog/2018/12/27/how-to-form-teams-a-story-of-self-designing-teams.html)，它描述了在另一家大型银行金融公司的类似事件. This was helpful as the coaches got to read about some practical techniques that could be used with the teams.
 
-Graphic illustration of key elements of the new product group was visualized on giant whiteboards: the components, other supporting applications outside the group, individual skills and domain expertise required, and geographic locations. A few additional graphic illustrations were written on flip-charts of historical learnings of shortcomings of working in siloed ways, to remind people ‘the WHYs’ behind the exercise.
+这很有帮助，因为教练了解到一些可以在团队应用的实用技术。
+
+新产品团队的关键元素在在巨型白板上用图形可视化的方式进行展示，包括：组件、组外的其他支持应用，所需的个人技能和领域专业知识，以及地理位置。另外几个白板纸上画了一些插图，展示了从历史教训中学到的仓筒工作模式的缺点，来提醒人们该实践背后的“原因”。
+
+在会议期间，一些经理随时待命，解决出现的组织问题。 具体来说，在参加本次会议时，有一些担忧：
 
 During the meeting some managers were on standby to address organizational issues, should those arise. Specifically, going into this meeting, there were some concerns about:
 
