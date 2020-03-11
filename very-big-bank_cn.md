@@ -141,24 +141,24 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 形成社区
 
-In line with the LeSS guide and experiments, several communities were created. (*LeSS experiment: Try... Cultivate Communities of Practice. Try... Use CoPs for functional learning.*)
+根据LeSS指南和实验，创建了几个社区。 （*LeSS实验：尝试...培养实践社区。尝试...使用CoP促进技能学习。*）
 
-This started with a **Scrum Master Community**. Emphasis was made on improving facilitation skills of Scrum Masters and their ability to distinguish between team-level (internal) impediments and organizational (external) impediments. Based on the community involvement it was easy to differentiate between individuals that could become great candidates for the role of Scrum Master and those that would not. Through the community, Scrum Masters were able to further develop.
+首先是“ Scrum Master社区”。重点是提高Scrum Master的引导技能及其区分团队级别（内部）障碍和组织（外部）障碍的能力。通过观察其社区参与情况，很容易识别哪些人可以成为Scrum Master角色的优秀候选人，哪些人不能。通过社区，Scrum Masters能够进一步成长。
 
-There was a lack of maturity in automated testing. To remediate this a **Test Automation community** was created. This allowed experience to be shared and establish better testing practices. This gave birth to gradual absorption of test automation activities into the teams.
+自动化测试的成熟度较低。 为了对此进行补救，创建了一个**测试自动化社区**。 这样可以共享经验，提高测试实践水平。 这催生了将测试自动化活动逐渐吸收到团队中的过程。
 
 ### 使组织结构和沟通扁平化
 
-(*LeSS Experiment: Try... Keep the organization as flat as possible*)
+(*LeSS实验: 尝试... 尽可能使组织扁平化*)
 
-A key message that was frequently delivered to management was that *organizational design is the first order (key) factor* that influences organizational culture and individual behaviours, and the behavior of the overall organizational system. Various coaching tools and techniques were used to help people see this: causal-loop diagrams, surveys, discussions. As a result some steps were taken to improve dynamics within Development:
+经常向管理层传递的一个关键信息是：影响组织文化和个人行为以及整个组织系统行为的*首要因素是组织设计*。人们使用了各种辅导工具和技术来帮助大家了解这一点：因果关系图，问卷调查，讨论会。因此，采用了以下措施来改善开发团队的情况：
 
-* Strong messages were delivered by senior management that becoming a ‘line manager’ (by title) and acquiring reportees did not equate to a guarantee of promotion or salary increase
-* The number of people reporting to the same manager was increased to the upper recommended level of about 20-25.
-* Individuals were encouraged *not* to perceive their immediate line manager as an impermeable layer, above and beyond which they were forbidden to go. On the contrary, a series of meetings with line-manager+1 were instituted.
-* To strengthen the message that line managers were *not* the only channel for communication, more senior management (at the recommendation of the coaches) instituted the Impediments Removal Service (“IRS”) so that any team member could escalate their problem.
+* 高级管理层向大家传达了强烈的信息，成为“直线经理”（按职称）、增加下属数量并不能确保晋升或加薪
+* 建议每位经理的汇报人数上限提高到20-25。
+* 鼓励个人*不要*将其直线经理视为不可逾越的层级，*不要*将接触更上级的经理视为禁忌。相反，管理者发起了一系列员工与跨级经理的会议。
+* 为了强化说明直线经理*不是*唯一的沟通渠道，更多的高级管理人员（在教练的建议下）建立了障碍清除服务（“IRS”），以便任何团队成员都可以升级他们的问题。
 
-Below (**Figure 3**), is a graphic illustration that was used to educate the organization on the concept of organizational flattening that was required for scaling organizational adaptiveness:
+下图（**图3**）是用来向组织讲解，组织扁平化的概念是规模化组织适应性所需的：
 
 <figure>
 <img src="img/case-studies/very-big-bank/organizational-flattening.png" alt="Organizational Flattening">
@@ -169,22 +169,22 @@ Below (**Figure 3**), is a graphic illustration that was used to educate the org
 
 ### 运行LeSS的Sprint
 
-The following was implemented by the teams:
+这些团队实施了以下内容：
 
-* Sprint Planning - Multi-team with whole teams in attendance.
-* PBR - *Overall* Product Backlog Refinement (PBR) sessions were followed by *multi-team* PBRs, during which the teams discussed low-level implementation details. The coaches made it explicit that having single-team PBRs would be undesirable, because it would lead to creating separate “implicit” Product Backlogs per team and local optimizations.
-* Sprint Review - Attended by all teams with Product Owner, users, and stakeholders.
-* Retrospectives - There were team-specific Retrospectives attended by Scrum Masters and teams only. There was an Overall Retrospective attended by Product Owner, team members, and Development managers. The latter was invited to learn and take responsibility for removing organization-level impediments.
+* 迭代计划会 - 多个团队全体参与。
+* PBR - *总体*产品待办事项列表梳理（PBR）会议之后是*多团队* PBR，团队讨论了底层实施细节。教练明确指出，采用单团队PBR是不可取的，因为这将导致每个团队分别创建“隐式”产品待办事项列表和本地优化。
+* 迭代评审 - 所有团队、产品负责人、用户以及利益相关者一起参加。
+* 回顾会议 - 有仅需要Scrum Master和团队参加的团队回顾会议。也有全体回顾会议，需要产品负责人，团队成员和开发经理都参加。后者被邀请来学习并承担消除组织级障碍的责任。
 
 ### 早期成果和业务感知
 
-The first step of the LeSS adoption to a broader product and feature teams impressed the users enough to ask for *more*. In short, they said, “*we really like what you have been producing and we want more of it. What would it take to have more features delivered to us, more frequently*”?
+采用LeSS的第一步是扩展产品定义和打造特性团队，这给用户留下了深刻的印象，并要求*更多*。简而言之，他们说：“*我们真的很喜欢你们这些产出，我们想要更多。需要做哪些事情才能够让你们更频繁地交付更多功能*？
 
-Why were the users pleased with the *initial* results of the LeSS adoption?
+用户为什么对采用LeSS的*初始*结果感到满意？
 
-* First, they were able to see more complete features at the end of each Sprint, not just disjointed components that require further integration.
-* Second, thanks to teams’ improved design and stability, consistency of delivery was increased. It further led to improved ability to forecast delivery of features to users.
-* Third, and as a result to the first two points, overall relationship between business and technology improved. Trust and respect started building up.
+* 首先，他们能够在每个Sprint的末尾看到更完整的功能，而不仅仅是需要进一步集成的相互分离的组件。
+* 其次，由于团队改进了设计和稳定性，交付的一致性得到了提高。从而，进一步提高了向用户交付功能的预测能力。
+* 第三，由于前两点，业务和技术之间的整体关系得到了改善。 信任和尊重开始建立。
 
 ### 特性团队从三个扩展为五个
 
