@@ -129,15 +129,15 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 >“ VBB员工和外部客户将更喜欢使用我们的文档捕获平台作为最有效的解决方案，该解决方案能够及时设置和管理产品和帐户，并符合全球，法律，法规和控制要求。该过程将包括信息捕获，通信和存储”。
 
-在研讨会上，业务和开发利益相关者都同意了高层的产品主题和战略，和长期目标。在教练的协助下，这是通过结合用户旅程识别和故事地图绘制技术来完成的，并有助于可视化具有战略意义的“大工作”。将来的所有工作都记录在一个共享的产品待办列表中。
+在研讨会上，业务和开发利益相关者都同意了高层的产品主题和战略，和长期目标。在教练的协助下，这是通过结合用户旅程识别和故事地图绘术来完成的，并有助于可视化具有战略意义的“大工作”。将来的所有工作都记录在一个共享的产品待办事项列表中。
 
 ### 找到一个产品负责人和领域专家
 
-Identifying someone for the role of Product Owner was challenging. It was practically impossible to find a person that would have a sufficient strategic vision and enough organizational empowerment to set priorities for multiple teams. Finally, such a person was found in the business group.
+确定谁来担任产品负责人的角色是有难度的。实践中几乎不可能找到一个具有足够战略眼光并能得到足够的组织授权来为多个团队设定优先级的人。最后，在业务组中找到了这样的人。
 
-But then another challenge was faced: she did not have any knowledge of basic Scrum (let alone LeSS), and thus, of the role of Product Owner. This was addressed by helping her through Scrum training followed by personal continuous coaching support by one of the coaches.
+但是随后面临另一个挑战：她不了解基本的Scrum（更不用说LeSS），所以也不了解产品负责人这个角色。这个问题通过让她参加Scrum培训然后安排一位教练提供持续的个人辅导来解决的。
 
-Lastly, the product group was directly introduced to *real hands-on internal users* that were asked to be available to provide clarifications and details to the teams. Special care was exercised in selecting these people and making sure that they were not middlemen, delegates, or proxies. Three individuals were identified that had a lot of hands-on knowledge with each one of the above mentioned components (and related steps in the Document Management process): CAP, COM, CAR.
+最后，给产品组直接引荐了*实际上手的内部用户*，并要求他们安排时间为团队澄清需求，提供详细信息。我们特别小心地选择这些人，确保他们不是中间人、代表或代理人。确定了三个人，他们对前面提到的三个组件（以及文档管理过程中的相关步骤）都具有丰富的实践知识：CAP、COM、CAR。
 
 ### 形成社区
 
