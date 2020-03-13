@@ -188,11 +188,11 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 ### 特性团队从三个扩展为五个
 
-Because of the benefits and also the desire for more features, two more teams were created with developers from the same technology space, and put through some initial preparatory steps.
+由于这些益处以及对更多特性的渴望，又新组建了两个特性团队，成员是来自于同一技术领域的开发人员。然后进行了一些的初始准备工作。
 
-These steps included: a refresher training on basic Scrum, introduction to LeSS, familiarizing new teams with the Product Backlog, priorities and strategic goals, and then bringing them into the LeSS product group for an upcoming Sprint.
+这些工作包括：关于基础Scrum的进修培训，LeSS简介，使新团队熟悉产品待办事项列表，优先级和战略目标，然后将他们纳入LeSS产品组加入下一个Sprint。
 
-One of the experienced Scrum Masters from the first three teams was asked to serve the new teams, and the other Scrum Master served the original three teams. Now the product group of five teams had two Scrum Masters. This was in line with a LeSS rule: “*A Scrum Master is a dedicated full-time role. One Scrum Master can serve 1-3 teams*”.
+前面三个团队中一位经验丰富的Scrum Master被要求服务新团队，另一位Scrum Master则为最初的三个团队服务。现在，由五个团队组成的产品组拥有两个Scrum Master。这符合LeSS规则：“*Scrum Master是专注的全职工作。一个Scrum Master可以为1-3个团队服务*”。
 
 A few senior developers from the first three teams were asked to temporarily take on the role of <u>developers-travelers</u> (*LeSS experiment: Try... Travelers*), and join the new teams, to lead by example and provide some guidance. The travelers temporarily became a *pivot* for each of the newly created teams by teaching new members not just the dynamics of LeSS but also certain nuances of different components that the new teams did not know.
 
