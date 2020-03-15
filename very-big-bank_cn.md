@@ -192,7 +192,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 这些工作包括：关于基础Scrum的进修培训，LeSS简介，使新团队熟悉产品待办事项列表，优先级和战略目标，然后将他们纳入LeSS产品组加入下一个Sprint。
 
-前面三个团队中一位经验丰富的Scrum Master被要求服务新团队，另一位Scrum Master则为最初的三个团队服务。现在，由五个团队组成的产品组拥有两个Scrum Master。这符合LeSS规则：“*Scrum Master是专注的全职工作。一个Scrum Master可以为1-3个团队服务*”。
+前面三个团队中有一位经验丰富的Scrum Master被要求服务新团队，另一位Scrum Master则为最初的三个团队服务。现在，由五个团队组成的产品组拥有两个Scrum Master。这符合LeSS规则：“*Scrum Master是专注的全职工作。一个Scrum Master可以为1-3个团队服务*”。
 
 A few senior developers from the first three teams were asked to temporarily take on the role of <u>developers-travelers</u> (*LeSS experiment: Try... Travelers*), and join the new teams, to lead by example and provide some guidance. The travelers temporarily became a *pivot* for each of the newly created teams by teaching new members not just the dynamics of LeSS but also certain nuances of different components that the new teams did not know.
 
