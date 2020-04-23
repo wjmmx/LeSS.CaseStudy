@@ -43,17 +43,17 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 
 自然地，这种具有组件团队、单一职能专家、传统的经理角色的“Scrum”应用，以及对应的策略，对增加适应性没有任何效果，也没有加速端到端高质量功能的交付，反而显示出巨大的浪费。
 
-### 支持采用LeSS的已有前提条件
+### 有利于LeSS实施的前提条件
 
-The following were some internal preconditions within Development that were already supportive of LeSS guides and experiments before the coaches got engaged:
+以下是在教练入场之前，开发内部有利于LeSS指南和实验的前提条件:
 
-* PMO, as an organizational unit, was dissolved and some remaining PMO-like functions were reabsorbed by teams (e.g. scheduling, forecasting, work assignment, progress monitoring) and business people. (LeSS experiments: *Avoid... Project Management Office*, *Avoid... So-called Agile PMO*)
-* There was a clear understanding that having Scrum Masters doing performance appraisals on team members would be a serious dysfunction. (LeSS experiment: *Avoid... Scrum Masters do performance appraisals*)
-* Even with initial adoption of faux “Scrum”, teams started to define and adhere to a (very incomplete) Definition of Done with each Sprint. (LeSS guides: *Creating the Definition of Done. Evolve the Definition of Done*)
-* In the Development group everyone understood that adding 'fake' team members (e.g. project managers, “powerpoint architects”) to teams would not help. Instead, it would just create an illusion of having a ‘bigger team’ (LeSS experiment: *Avoid... Fake team members*)
-* Senior managers were comfortable to be referred to and acting as “IRS” (Impediments Removal Service), rather than as a “change management group” (LeSS experiment: *Try... Impediments service rather than change management*). For example, a senior manager when receiving a call or email from a team member with a problem would not delegate, but rather offered a meeting.
-* Multisite planning poker was already effectively used by leveraging some simple tools and video equipment (LeSS experiment: * Try... Seeing is believing—ubiquitous cheap video technology and video culture.* *Try... Multisite planning poker (estimation poker)*). For example, each team had its personal common area equipped with a video camera, speakers, and a small whiteboard. This made the use of physical planning poker cards possible (no need to mess with more complicated software), as each team member could flash their physical voting card to people in the room as well as to the camera. Whiteboards were used to do quick note-taking so that people in the room and through video camera could see information.
-* [Centralized (organizational) coaching departments](https://www.infoq.com/articles/centralized-decentralized-coaching) (e.g. so-called “agile center of excellence”) and centralized agile/lean cookbooks were already viewed as a sign of faking, re-labeling the status quo, and local optimization that would eventually lead to building silos of disconnected and privileged coaches (LeSS experiments: *Try... Prefer decentralization solutions over centralization ones. Avoid... Central coaching group with formal authority.' Avoid... Internal agile/lean cookbooks*). The organization saw value in deeply embedded coaches that worked closely with teams and business or product people. People preferred embedded coaches working together as a community (image on right) over secluded power structures of ‘chiefs-coaches’. **See Figure 2**.
+* PMO，作为一个组织单位已经被解散。一些剩余的类似于PMO的职能（例如：排期，预测，工作分配，进度监视）被开发团队和业务人员吸收。（LeSS实验：*避免... 项目管理办公室*, *避免... 所谓的敏捷PMO*）
+* 大家有清楚的认知，认为让Scrum Masters对团队成员进行绩效评估会带来严重的功能障碍。(LeSS实验: *避免... Scrum Masters 做绩效评估*)
+* 即使在最初采用”伪Scrum“时，团队已经开始定义并遵守每个Sprint的（非常不完善）完成的定义。 (LeSS指南: *创造完成的定义，完善完成的定义*)
+* 开发团队每个人都明白将“假”团队成员（例如项目经理，“powerpoint架构师”）添加到团队中无济于事，相反，这只会创造一种”大团队“的假象。(LeSS实验: *避免... 假的团队成员*)
+* 资深经理们很乐意被称为并提供“障碍消除服务”，而不是“变革管理团队”。(LeSS实验: *尝试... 障碍服务而不是变革管理*). 例如，某个资深经理接到团队成员的关于某个问题的电话或邮件，他不会委托下属处理，而是召集一个会议。
+* 通过利用一些简单的工具和视频设备，多站点的计划扑克已经有效运作（LeSS实验：*尝试...眼见为实-无处不在的廉价视频技术和视频文化。* *尝试...多站点计划扑克（估算扑克）* ）。 例如，每个团队的个人公共区域都配备了摄像机，扬声器和小白板。 这使得可以使用物理计划扑克卡（无需用更复杂的软件乱搞），因为每个团队成员都可以将其物理表决卡展示给房间里的人，也可以给摄像头对面的人。 白板用来做快速笔记，以便房间里的人和通过摄像头参会的人都可以看到信息。
+* [中央（组织）教练部门](https://www.infoq.com/articles/centralized-decentralized-coaching)（例如，所谓的“敏捷卓越中心”）和中心化的敏捷/精益指南已被视为一种伪造的迹象，重新标榜既有现状以及局部优化，最终将导致打造出孤立的孤岛和特权的教练（LeSS实验：*请尝试...偏爱去中心化解决方案胜于中心化解决方案。避免...有正式权威的中央教练组。避免...内部敏捷/精益指南*）。 该组织看到了与团队、业务或产品人员密切合作的深层嵌入式教练的价值。 人们偏爱和嵌入式教练在一个社区里共同努力（右图），胜于隐秘的“首席教练”权力结构。 **见图2**.
 
 <figure>
 <img src="img/case-studies/very-big-bank/centralized-vs-decentralized-coaching.jpg" alt="Centralized vs Decentalized Coaching">
@@ -62,220 +62,225 @@ The following were some internal preconditions within Development that were alre
 
 ## LeSS应用的初始步骤 Initial Steps for the LeSS Adoption
 
-The coaches limited the scope of the adoption to about 50 Development and 20 Business people.
+教练限制了初始采用LeSS的人数，开发大概50人，业务人员20人。
 
-This was consistent with one of [three LeSS adoption principles](https://less.works/less/adoption/three-principles.html) that states that for a successful organizational adoption of LeSS, it must be “*deep narrow over broad and shallow*”. To take this further, one of LeSS guides also suggests that when adopting LeSS, organizations must “..*focus LeSS adoption effort on one product group, give them all the support they need, and ensure they work really well*....”
+这与[三项LeSS采用原则](https://less.works/less/adoption/three-principles.html)之一一致，该原则指出，为了成功进行组织的LeSS采用，必须要“*深而窄优于宽而浅*”。进一步，LeSS指南之一还建议组织在采用LeSS时必须“ .. *将采用LeSS的工作重点放在某一个产品团队上，为他们提供所需的所有支持，并确保他们工作得很好* .... ”
 
-### Defining a Broader Product Definition
+### 扩展产品定义 Defining a Broader Product Definition
 
-Consistent with the LeSS rule to define a software product as broad as possible, the CAP, COM, and CAR components were merged into one broader product definition. Why not broader? This was the limit of scope of influence of the management involved in the LeSS adoption.
+符合LeSS尽可能扩大软件产品定义范围的规则，CAP，COM和CAR组件被合并成一个更宽泛的产品定义。 为什么没有定义更宽的范围？ 这是受到参与到本次LeSS采用中的管理层其影响范围的限制。
 
-The coaches recognized that merging the CAP, COM, and CAR components into one broader product definition still did not create a complete end-to-end customer-journey software product. In order for the software to be a complete end-to-end, it would actually have to include other software components (and teams) in the bank, such as:
+教练们意识到，将CAP，COM和CAR组件合并到一个更广泛的产品定义中，仍然不能创造完整端到端客户体验的软件产品。 为了使该软件成为完整的端到端软件，它实际上必须包括银行系统中的其它软件组件（和团队），例如：
 
-* **Regulatory** components
-* **Client on-boarding** components
-* **Legal** components
-* **HR and Recruitment** components
-* **Purchasing** components
+* **监管**组件
+* **客户登入**组件
+* **法律**组件
+* **人力资源和招聘**组件
+* **采购**组件
 
-However, that broader definition was not yet possible.
+然而，目前还做不到。
 
-### Moving towards Feature Teams
+### 向特性团队迈进
 
-Since component teams are not consistent with global adaptiveness, working on highest value, or low total end-to-end cycle time, they had to be replaced with cross-component feature teams, reflecting the LeSS rule that the *majority of teams are end-to-end feature teams*.
+由于组件团队的存在与提高全局适应性、从最高价值入手、缩短端到端的响应时间的目标不一致，因此必须换成跨组件的特性团队，这反映了LeSS规则，即“大多数团队都是端到端特性团队*。
 
-The coaches facilitated a *pre-workshop activity* with senior management and stakeholders, representing all three components. A couple of visualization techniques (business value flow, customer journey, story mapping) were used to engage participants in a dialogue and a series of use case simulations that revealed that neither of the individual components represented a complete end-to-end customer or user feature.
+在教练的引导下，代表了三个组件的高级管理人员和利益相关者一起进行了“工作坊前的准备活动”。他们使用了几种可视化技术（业务价值流，用户体验地图，用户故事地图）来吸引参与者进入对话和一系列用例模拟，这些用例模拟揭示了，没有哪个组件能代表完整的端到端客户或用户特性。
 
-Perhaps the most important education activity during this step in preparing to create feature teams was the following:
+在准备创建特性团队的这个步骤中，最重要的教育活动可能是：
 
-**Managers had to learn to see that component-team development was the root cause of integration and excessive cross-team coordination problems.**
+**经理必须学会明白组件团队的发展是集成问题和过多的跨团队协调问题的根本原因。**
 
-It was important that they understood some organizational implications of moving from component teams to feature teams. Specifically, with feature-team development, the control by existing VBB “component owners” would need to be eliminated. As will be explored later, this issue will become one source of dysfunction in the adoption.
+他们能够了解一些从组件团队到特性团队的组织影响，这是很重要的。具体来说，随着特性团队的发展，需要消除现有VBB“组件所有者”的控制权。正如后面将要探讨的那样，这个事情将成为这次应用紊乱的一个问题来源。
 
-The original CAR component team was in an external (and very remote) vendor company. It added an additional degree of complexity: time zones, vendor middlemen, handovers, and above all, commercial contracts influencing dysfunctional to internal behavioral “contracts”. As a part of moving towards feature teams, it was decided that vendor developers would be mixed with internal developers, in ways that would de-emphasize belonging to different companies and emphasize belonging to the same feature teams. A series of meetings with VBB and vendor managers were held about the importance of having legal contracts written in ways that supports agile ways of working Some LeSS experiments were presented and discussed in the context of what was known about the existing organizational dynamics:
+最初的CAR组件团队在一家外部（且非常远程）的供应商公司中。它增加了额外的复杂度：时区，供应商中间商，移交，尤其是影响内部行为“合同”功能失调的商业合同。作为向功能团队迈进的一部分，决定将供应商开发人员与内部开发人员混合使用，从而不再强调属于不同公司并强调属于同一功能团队。与VBB和供应商经理举行了一系列会议，讨论以支持敏捷工作方式的方式编写法律合同的重要性。在了解了现有组织动态的背景下，介绍并讨论了一些LeSS实验：
 
-* *Try...Lawyers study problems arising from silo mentality and lack of systems thinking*
-* *Try...Lawyers study agile, iterative, & systems-thinking concepts*
+* *尝试...律师研究由筒仓心态和缺乏系统思维引起的问题*
+* *尝试...律师学习敏捷、迭代和系统思考的概念*
 
-The coaches also suggested that corporate attorneys should be invited to future training and coaching sessions. )
+教练还建议应邀请公司律师参加未来的培训和辅导课程。
 
-The coaches also organized **a <u>full-group training workshop</u>.** The coaches covered basic tenets of Scrum and LeSS. Particular focus was put on the difference between Scrum and LeSS, with respect to roles, events and artifacts. In training, developers were mixed with business people and managers at tables, for better collaboration and learning (there was no ‘developers-only’ table, or ‘managers-only’ table). During the workshop the coaches covered all LeSS rules and principles. They also discussed LeSS guides and provided some examples of documented LeSS experiments. The audience was also introduced to LeSS Huge but it was made clear that it would not be necessary in this adoption (since there was less than “8” feature teams).
+教练还组织了**<u>全体培训工作坊</u>。** 教练们介绍了Scrum和LeSS的基本原理。 就角色，事件和工件方面，特别聚焦在Scrum和LeSS之间的区别。 在培训中，每桌由开发人员与业务人员、经理们混合组成，以实现更好的协作和学习（没有“仅开发人员使用”表或“仅管理人员使用”表）。 在研讨会期间，教练们介绍了LeSS的所有规则和原则。 他们还讨论了LeSS指南，并提供了已记录的LeSS实验的案例。 还向听众介绍了LeSS Huge，但显然这次不会采用（因为少于“8”个特性团队）。
 
-#### Self-Designing Teams Meeting
+#### 自设计团队会议 Self-Designing Teams Meeting
 
-Before facilitating a self-designing teams meeting, both coaches studied [one of the older case studies](https://less.works/blog/2018/12/27/how-to-form-teams-a-story-of-self-designing-teams.html), that described a similar event at another large bankfinancial company). This was helpful as the coaches got to read about some practical techniques that could be used with the teams.
+在引导自设计团队会议之前，两个教练学习了[之前的一个案例研究](https://less.works/blog/2018/12/27/how-to-form-teams-a-story-of-self-designing-teams.html)，它描述了在另一家大型银行金融公司的类似事件. This was helpful as the coaches got to read about some practical techniques that could be used with the teams.
 
-Graphic illustration of key elements of the new product group was visualized on giant whiteboards: the components, other supporting applications outside the group, individual skills and domain expertise required, and geographic locations. A few additional graphic illustrations were written on flip-charts of historical learnings of shortcomings of working in siloed ways, to remind people ‘the WHYs’ behind the exercise.
+这很有帮助，因为教练了解到一些可以在团队应用的实用技术。
 
-During the meeting some managers were on standby to address organizational issues, should those arise. Specifically, going into this meeting, there were some concerns about:
+新产品团队的关键元素在在巨型白板上用图形可视化的方式进行展示，包括：组件、组外的其他支持应用，所需的个人技能和领域专业知识，以及地理位置。另外几个白板纸上画了一些插图，展示了从历史教训中学到的仓筒工作模式的缺点，来提醒人们该实践背后的“原因”。
 
-* attempts by prior designated team leads to influence decisions of others
-* building teams around existing reporting lines and/or single components (e.g. UI or DB team)
-* persons not wanting to be on the same team with someone else because personal dislikes, etc.
+在会议期间，一些经理随时待命，解决出现的组织问题。 具体来说，在参加本次会议时，有一些担忧：
 
-Managers were explicitly asked to stay out of the self-designing teams meeting unless concerns became true risks. Luckily the only manager involvement that was necessary was providing some information about a small handful of newly hired but not yet on-boarded developers that would be added to the team within weeks. Another managerial input was reinforcing that the newly formed teams would be long-lived.
+* 前面设计团队的尝试会影响后面的决定
+* 按照现有的汇报关系或者单组件（比如，UI或DB团队）来构建团队
+* 人们不想和不喜欢的人在一个团队，等等
 
-Of course, the key activity of the meeting was that people self-organized into new teams. This was done with all people coming together and discussing best ways to cluster into teams to deliver end-to-end features. The LeSS “use volunteering” adoption principle was used. At the beginning, everyone was reminded of the goals of the product and the workshop, as well as what it would mean to form well-structured teams, by ensuring that each team is co-located, cross-functional, knowledgeable of several components, self-managed, sized between 3 to 9 people, and long-lived.
+经理们被明确要求不要参与自设计团队会议，除非这些担忧成为现实。幸运的事，唯一需要经理参与的工作是提供有关几个最新招聘的开发人员的信息，他们几周内会加入团队中。 另一个管理层的输入是，新成立的团队将长期存在。
 
-Finally, three collocated feature teams were formed to work on the same product, sharing one Product Backlog.
+当然，会议的关键活动是人们自组织成新的团队。 这是通过所有人聚在一起讨论最佳的方法来组建可以交付端到端特性的团队来完成的。 这里使用了LeSS“使用志愿服务”的采用原则。 一开始，通过确保每个团队在同一地点，跨职能，熟悉多个组成部分，使每个人都意识到产品和研讨会的目标，以及组建结构合理的团队的含义， 自我管理，可容纳3至9人，寿命长。
 
-### The Initial PBR Workshop
+最后，形成了三个在同一地点的特性团队，做同一产品，并共享一个产品待办事项列表。
 
-Before starting Sprint 1, the product group decided to follow one of LeSS guides and hold an *initial* Product Backlog Refinement (PBR) workshop, during which the scope and vision of the product were clarified, key people required for work selected, highest priority features identified, and an initial Definition of Done clarified.
+### 初始PBR工作坊
 
-Here is an example of the vision statement for CAPCOMCAR:
+在开始Sprint 1之前，产品组决定遵循LeSS指南之一，举行一个*“初始” *产品待办事项列表梳理（PBR）工作坊，期间澄清了产品的范围和愿景，选择了工作所需的关键人员，识别出了最高优先级的特性，并阐明了初始“完成的定义”。
 
-> “VBB employees and external clients will prefer to use our document capture platform as the most efficient solution that enables timely setup and management of products and accounts and conforms with global, legal, regulatory and control requirements. The process will include information capture, communication and storage”
+以下是CAPCOMCAR愿景声明的例子：
 
-During the workshop both business and development stakeholders agreed on the high-level product themes and strategic, long-term goals. Facilitated by the coaches, this was done by using a combination of user journey identification and story mapping techniques and helped visualize *big work* that had strategic meaning. All future work was captured in one shared Product Backlog.
+>“ VBB员工和外部客户将更喜欢使用我们的文档捕获平台作为最有效的解决方案，该解决方案能够及时设置和管理产品和帐户，并符合全球，法律，法规和控制要求。该过程将包括信息捕获，通信和存储”。
 
-### Finding a Product Owner and Domain Experts
+在研讨会上，业务和开发利益相关者都同意了高层的产品主题和战略，和长期目标。在教练的协助下，这是通过结合用户旅程识别和故事地图绘术来完成的，并有助于可视化具有战略意义的“大工作”。将来的所有工作都记录在一个共享的产品待办事项列表中。
 
-Identifying someone for the role of Product Owner was challenging. It was practically impossible to find a person that would have a sufficient strategic vision and enough organizational empowerment to set priorities for multiple teams. Finally, such a person was found in the business group.
+### 找到一个产品负责人和领域专家
 
-But then another challenge was faced: she did not have any knowledge of basic Scrum (let alone LeSS), and thus, of the role of Product Owner. This was addressed by helping her through Scrum training followed by personal continuous coaching support by one of the coaches.
+确定谁来担任产品负责人的角色是有难度的。实践中几乎不可能找到一个具有足够战略眼光并能得到足够的组织授权来为多个团队设定优先级的人。最后，在业务组中找到了这样的人。
 
-Lastly, the product group was directly introduced to *real hands-on internal users* that were asked to be available to provide clarifications and details to the teams. Special care was exercised in selecting these people and making sure that they were not middlemen, delegates, or proxies. Three individuals were identified that had a lot of hands-on knowledge with each one of the above mentioned components (and related steps in the Document Management process): CAP, COM, CAR.
+但是随后面临另一个挑战：她不了解基本的Scrum（更不用说LeSS），所以也不了解产品负责人这个角色。这个问题通过让她参加Scrum培训然后安排一位教练提供持续的个人辅导来解决的。
 
-### Forming Communities
+最后，给产品组直接引荐了*实际上手的内部用户*，并要求他们安排时间为团队澄清需求，提供详细信息。我们特别小心地选择这些人，确保他们不是中间人、代表或代理人。确定了三个人，他们对前面提到的三个组件（以及文档管理过程中的相关步骤）都具有丰富的实践知识：CAP、COM、CAR。
 
-In line with the LeSS guide and experiments, several communities were created. (*LeSS experiment: Try... Cultivate Communities of Practice. Try... Use CoPs for functional learning.*)
+### 形成社区
 
-This started with a **Scrum Master Community**. Emphasis was made on improving facilitation skills of Scrum Masters and their ability to distinguish between team-level (internal) impediments and organizational (external) impediments. Based on the community involvement it was easy to differentiate between individuals that could become great candidates for the role of Scrum Master and those that would not. Through the community, Scrum Masters were able to further develop.
+根据LeSS指南和实验，创建了几个社区。 （*LeSS实验：尝试...培养实践社区。尝试...使用CoP促进技能学习。*）
 
-There was a lack of maturity in automated testing. To remediate this a **Test Automation community** was created. This allowed experience to be shared and establish better testing practices. This gave birth to gradual absorption of test automation activities into the teams.
+首先是“ Scrum Master社区”。重点是提高Scrum Master的引导技能及其区分团队级别（内部）障碍和组织（外部）障碍的能力。通过观察其社区参与情况，很容易识别哪些人可以成为Scrum Master角色的优秀候选人，哪些人不能。通过社区，Scrum Masters能够进一步成长。
 
-### Flattening Organizational Structure and Communication
+自动化测试的成熟度较低。 为了对此进行补救，创建了一个**测试自动化社区**。 这样可以共享经验，提高测试实践水平。 这催生了将测试自动化活动逐渐吸收到团队中的过程。
 
-(*LeSS Experiment: Try... Keep the organization as flat as possible*)
+### 使组织结构和沟通扁平化
 
-A key message that was frequently delivered to management was that *organizational design is the first order (key) factor* that influences organizational culture and individual behaviours, and the behavior of the overall organizational system. Various coaching tools and techniques were used to help people see this: causal-loop diagrams, surveys, discussions. As a result some steps were taken to improve dynamics within Development:
+(*LeSS实验: 尝试... 尽可能使组织扁平化*)
 
-* Strong messages were delivered by senior management that becoming a ‘line manager’ (by title) and acquiring reportees did not equate to a guarantee of promotion or salary increase
-* The number of people reporting to the same manager was increased to the upper recommended level of about 20-25.
-* Individuals were encouraged *not* to perceive their immediate line manager as an impermeable layer, above and beyond which they were forbidden to go. On the contrary, a series of meetings with line-manager+1 were instituted.
-* To strengthen the message that line managers were *not* the only channel for communication, more senior management (at the recommendation of the coaches) instituted the Impediments Removal Service (“IRS”) so that any team member could escalate their problem.
+经常向管理层传递的一个关键信息是：影响组织文化和个人行为以及整个组织系统行为的*首要因素是组织设计*。人们使用了各种辅导工具和技术来帮助大家了解这一点：因果关系图，问卷调查，讨论会。因此，采用了以下措施来改善开发团队的情况：
 
-Below (**Figure 3**), is a graphic illustration that was used to educate the organization on the concept of organizational flattening that was required for scaling organizational adaptiveness:
+* 高级管理层向大家传达了强烈的信息，成为“直线经理”（按职称）、增加下属数量并不能确保晋升或加薪
+* 建议每位经理的汇报人数上限提高到20-25。
+* 鼓励个人*不要*将其直线经理视为不可逾越的层级，*不要*将接触更上级的经理视为禁忌。相反，管理者发起了一系列员工与跨级经理的会议。
+* 为了强化说明直线经理*不是*唯一的沟通渠道，更多的高级管理人员（在教练的建议下）建立了障碍清除服务（“IRS”），以便任何团队成员都可以升级他们的问题。
+
+下图（**图3**）是用来向组织讲解，组织扁平化的概念是规模化组织适应性所需的：
 
 <figure>
 <img src="img/case-studies/very-big-bank/organizational-flattening.png" alt="Organizational Flattening">
   <figcaption>Figure 3: Organizational Flattening</figcaption>
 </figure>
 
-## The Early Sprints
+## 早期迭代
 
-### Running a Sprint in LeSS
+### 运行LeSS的Sprint
 
-The following was implemented by the teams:
+这些团队实施了以下内容：
 
-* Sprint Planning - Multi-team with whole teams in attendance.
-* PBR - *Overall* Product Backlog Refinement (PBR) sessions were followed by *multi-team* PBRs, during which the teams discussed low-level implementation details. The coaches made it explicit that having single-team PBRs would be undesirable, because it would lead to creating separate “implicit” Product Backlogs per team and local optimizations.
-* Sprint Review - Attended by all teams with Product Owner, users, and stakeholders.
-* Retrospectives - There were team-specific Retrospectives attended by Scrum Masters and teams only. There was an Overall Retrospective attended by Product Owner, team members, and Development managers. The latter was invited to learn and take responsibility for removing organization-level impediments.
+* 迭代计划会 - 多个团队全体参与。
+* PBR - *总体*产品待办事项列表梳理（PBR）会议之后是*多团队* PBR，团队讨论了底层实施细节。教练明确指出，采用单团队PBR是不可取的，因为这将导致每个团队分别创建“隐式”产品待办事项列表和本地优化。
+* 迭代评审 - 所有团队、产品负责人、用户以及利益相关者一起参加。
+* 回顾会议 - 有仅需要Scrum Master和团队参加的团队回顾会议；也有全体回顾会议，需要产品负责人，团队成员和开发经理都参加。开发经理被邀请来学习并承担消除组织级障碍的责任。
 
-### Early Results and Perceptions by Business
+### 早期成果和业务感知
 
-The first step of the LeSS adoption to a broader product and feature teams impressed the users enough to ask for *more*. In short, they said, “*we really like what you have been producing and we want more of it. What would it take to have more features delivered to us, more frequently*”?
+采用LeSS的第一步是扩展产品定义和打造特性团队，这给用户留下了深刻的印象，并要求*更多*。简而言之，他们说：“*我们真的很喜欢你们这些产出，我们想要更多。需要做哪些事情才能够让你们更频繁地交付更多功能*？
 
-Why were the users pleased with the *initial* results of the LeSS adoption?
+用户为什么对采用LeSS的*初始*结果感到满意？
 
-* First, they were able to see more complete features at the end of each Sprint, not just disjointed components that require further integration.
-* Second, thanks to teams’ improved design and stability, consistency of delivery was increased. It further led to improved ability to forecast delivery of features to users.
-* Third, and as a result to the first two points, overall relationship between business and technology improved. Trust and respect started building up.
+* 首先，他们能够在每个Sprint的末尾看到更完整的功能，而不仅仅是需要进一步集成的相互分离的组件。
+* 其次，由于团队改进了设计和稳定性，交付的一致性得到了提高。从而，进一步提高了向用户交付功能的预测能力。
+* 第三，由于前两点，业务和技术之间的整体关系得到了改善。 信任和尊重开始建立。
+ 
+### 特性团队从三个扩展为五个
 
-### Expanding from Three to Five Feature Teams
+由于这些益处以及对更多特性的渴望，又新组建了两个特性团队，成员是来自于同一技术领域的开发人员。然后进行了一些的初始准备工作。
 
-Because of the benefits and also the desire for more features, two more teams were created with developers from the same technology space, and put through some initial preparatory steps.
+这些工作包括：关于基础Scrum的进修培训，LeSS简介，使新团队熟悉产品待办事项列表，优先级和战略目标，然后将他们纳入LeSS产品组加入下一个Sprint。
 
-These steps included: a refresher training on basic Scrum, introduction to LeSS, familiarizing new teams with the Product Backlog, priorities and strategic goals, and then bringing them into the LeSS product group for an upcoming Sprint.
+前面三个团队中有一位经验丰富的Scrum Master被要求服务新团队，另一位Scrum Master则为最初的三个团队服务。现在，由五个团队组成的产品组拥有两个Scrum Master。这符合LeSS规则：“*Scrum Master是专注的全职工作。一个Scrum Master可以为1-3个团队服务*”。
 
-One of the experienced Scrum Masters from the first three teams was asked to serve the new teams, and the other Scrum Master served the original three teams. Now the product group of five teams had two Scrum Masters. This was in line with a LeSS rule: “*A Scrum Master is a dedicated full-time role. One Scrum Master can serve 1-3 teams*”.
+前三个团队的几位高级开发人员被要求暂时扮演<u>开发人员-旅行者</u>的角色（*LeSS 实验：尝试...旅行者*），并加入新的团队，以身作则，提供一些指导。旅行者通过不仅向新成员传授LeSS动态，还教授新团队所不知道的不同组件的某些细微差别，从而暂时成为每个新创建的团队的"支点"。
 
-A few senior developers from the first three teams were asked to temporarily take on the role of <u>developers-travelers</u> (*LeSS experiment: Try... Travelers*), and join the new teams, to lead by example and provide some guidance. The travelers temporarily became a *pivot* for each of the newly created teams by teaching new members not just the dynamics of LeSS but also certain nuances of different components that the new teams did not know.
+为了加快与更有经验的团队的同化进程，所有团队都同意，两个*新*团队*全体*参加多团队LeSS活动（Sprint计划一，多团队PBR），而三个经验丰富的团队将只派代表参加。此外，对于最初几个Sprint，两个新团队至少与最初的三个团队中的一个团队进行多团队Sprint计划二。这种方法使用了几个Sprint，直到每个人都确信新加入的团队已经对LeSS事件的流程感到足够舒适。
 
-To speed the process of assimilation with more experienced teams, all teams agreed that both *new* teams would be coming to multi-team LeSS events (Sprint Planning 1, multi-team PBR) in *full*, whereas the three seasoned teams would be sending just representatives. Also, for a few initial Sprints, the two new teams went into multi-team Sprint Planning 2 with at least one of the original three teams. This approach was used for a few Sprints until everyone gained confidence that the newly joined teams became comfortable enough with the process of the LeSS events.
+#### 在运行五个团队Sprint时的调整 Changes in Running a Sprint with Five Teams
 
-#### Changes in Running a Sprint with Five Teams
+Sprint计划一（”做什么“）二（“怎么做”）在目的和出席人员的方面区分得更清楚了。出席计划一的，只有三个成熟团队的代表，以及所有新增加的团队的*全体成员*。让所有新团队成员参加是有意义的：只要计划会议现场不过于拥挤，新人就会从参与和共同学习中受益。
 
-Sprint Planning - Part 1 (“what”) and 2 (“how”) became more clearly distinguished in purpose and attendance. Part 1 had just *representatives* from the three mature teams, plus *all members* from the newly added teams. Having all new team members made sense: while planning sessions did not get too crowded, newbies benefited from attending and learning together.
+在Sprint计划会第二部分中，团队的目标是定义自己的Sprint待办事项列表。 考虑到工作的性质以及一起讨论技术解决方案的偏好（这将提高大家的领域知识以及对工作的彼此了解，也就使将哪个团队来选择哪个代办事项的决定推迟到最后一刻成为可能），这5个团队通常会*一起*进行计划（* LeSS指南：多团队参加的Sprint计划二*）。 而很少将团队分为2+3的小组来做计划。
 
-In Sprint Planning Part 2, the goal of each team was to define its own Sprint Backlog. Given the nature of work and the preference to discuss technical solutions of backlog items together - something that would increase domain knowledge and mutual understanding of the work, as well as allow leaving decisions about which team picks up which Product Backlog item until the last possible moment, the 5 teams would typically do planning *together* (*LeSS Guide: Multi-Team Sprint Planning Two*). Rarely, the teams split up into two teams + three teams sub-groups for planning .
+## 限制改进的组织元素
 
-## Organizational Elements That Limited Improvement
+### 财务和预算政策
 
-### Finance and Budgeting Policies
-
-(**LeSS Experiment**: *Try... Beyond budgeting*)
+(**LeSS实验**: *尝试... 超越预算*)
 
 At VBB, there is a strong belief that “*everyone must follow the plan and say on-budget*”, as opposed to “*everyone needs to be able to respond to changes, and take advantage of newly raising opportunities*”. As such, budgeting is still done traditionally by once-a-year allocating a fixed amount to new projects (with fixed timeline and scope), basing decisions on a prior year’s expenditures and coarse-grained estimates from hands-off Development managers.
 
-With this approach, the following challenges are constantly in faced:
+在VBB，人们坚信“每个人都必须遵循计划并在预算内”，而不是“每个人都必须能够应对变化并抓住新的机会*”。因此，按照惯例，预算仍然是每年进行一次，即每年将一个固定金额分配给新项目（具有固定的时间表和范围），然后根据前一年的支出做出决定，并由不负责任的开发经理进行粗粒度的估算。
 
-* Of course very broadly, delivering the wrong thing and not responding to changes and learning, because of a *project* model rather than a *product* model.
-* Decisions about what to do made by Development managers, rather than a business-side Product Owner.
-* Inacuracy of estimated budgets are translated unexpectedly de-scoping critical features, and by doing so, upsetting users.
-* Rushing to deliver fast, without proper testing, and by doing so, compromising product quality.
-* Terminating good but more expensive developers and hiring cheap low-quality developers.
-* Related to the all above, process-heavy budget-extension requests that are frequently accompanied by finger-pointing between Development and Business, leading to relationship deterioration.
-* Fea by developers to experiment and innovate, because experimentation and innovations are not budgeted for.
-* In some cases if an allocated budget is not fully spent by year-end, ‘burning’ it on something unimportant. Otherwise risking not getting the same amount the following year.
+采用这种方法，不断面临以下挑战：
 
-The coaches organized a workshop to educate managers in
+* 当然，由于采用的是项目模型而不是产品模型，普遍存在交付错误的情况，以及对变化和学习没有反应
+* 由开发经理而不是业务端的产品负责人决定要做什么。
+* 预算估计的不准确会导致意料之外的关键功能范围缩减，从而使用户不满意。
+* 急于在没有进行适当测试的情况下快速交付产品，从而损害了产品质量
+* 终止优秀但更贵的开发人员，雇用廉价的低水平开发人员
+* 与上述所有情况相关，流程复杂的的增加预算的申请经常伴随着开发与业务之间的相互指责，从而导致关系恶化。
+* 开发人员没有能力进行试验和创新，因为试验和创新未列入预算。
+* 在某些情况下，如果分配的预算到年底仍未完全用完，则将其“消耗”在不重要的事情上。否则，第二年就有可能得不到相同的金额。
 
-* adaptive budget planning
-* work on a *product* with continuous adaptive delivery rather than on *projects*
-* differences between output and outcome
+教练们组织了一个工作坊来教育管理人员，内容涉及：
+* 自适应预算计划
+* 在具有连续自适应交付功能的*产品*上工作，而不是*项目*
+* 产出与结果之间的差异
 
-One of LeSS experiments “*Try... Beyond Budgeting*” was introduced and explained by leveraging industry examples described in “Implementing Beyond Budgeting” by Bjarte Bogsnes (selected <u>excerpts</u> from the author’s book were reviewed).
+通过Bjarte Bogsnes的“实施超越预算”中所述的行业案例（讨论学习了书中部分<u>摘录</ u>），引入了LeSS实验之一的“ *尝试...超越预算” *。
 
-Although the coaches *were* able to develop appreciation by management for these ideas, unfortunately, conventional top-down fiscal year planning remained the official approach to do budgeting during the LeSS adoption.
+尽管教练*能够*在这些想法上赢得管理层的赞赏，但不幸的是，在LeSS采用的过程中，会计年度计划仍然是采用了官方既定的常规的自上而下方法来做预算。
 
-However, the *limited victory* that the coaches had was convincing the management to consult more frequently and directly with teams with respect to forecasting, and with the Product Owner with respect to emerging needs and (re)prioritization. These conversations started happening every month (after every second Sprint).
+而教练的“有限胜利”是，说服了管理层在预算预测层面与团队更频繁地直接协商，在新需求和（重新）设定优先级方面与产品负责人协商。这些对话每个月（每隔一个Sprint）有一次。
 
-### Product Owner Availability
+### 保证投入 Availability
 
-One issue was continuous unavailability of one of the key stakeholders, whose input to Product Owner and the teams was critical. This person was continuously travelling and not too keen to attend Sprint Reviews. Instead, she would send delegates to ‘*represent her views*’. This was not sufficient, since information was often skewed and twisted in translation. Senior management took necessary steps to ensure that the required person became available in future Sprint Reviews.
+有个问题是：某个重要的利益相关人一直没有时间，他的输入对产品负责人和团队至关重要。此人一直在出差，并不热衷于参加Sprint评审会。 相反，她会派代表参加“*代表她的观点*”，这是不够的，因为信息在传递中经常被歪曲和扭曲。资深管理层采取了必要步骤，以确保必要的人员能参加未来的Sprint评审会。
 
-### Existing Reporting Structure
+### 现有的汇报结构
 
-While the LeSS structure prevailed, and the self-formed teams were also self-managing, without any apparent interference from first-line management, the formal traditional reporting relationships were *not* officially eliminated. This was primarily due to the twice-annual performance-review process forced by HR. This led to a variety of wastes and some conflicts.
+尽管LeSS结构占了上风，并且自组建的团队也进行了自我管理，没有一线管理人员的明显干预，但是正式的传统报告关系并未*正式被消除。 这主要是由于人力资源部门强制的每年两次的绩效评审流程。这导致了各种浪费和一些冲突。.
 
-### Managers Going Around the Product Owner
+### 产品负责人身边的经理们
 
-Even after CAPCOMCAR product was properly defined, teams properly structured and Product Owner elected, there was still one issue remaining: *communication*.
+即使在正确定义了CAPCOMCAR产品、合理安排了团队结构，选出了产品负责人后，仍然存在一个问题：*沟通*。
 
-There were still attempts by technical managers of Development, that were outside of LeSS product group, to request technical improvements and “side work” from teams, without cleaning it first with the Product Owner - and justifying their actions by perceived urgency. For some time, it continued, despite strong recommendations by the coaches not to do so and follow LeSS the advice in the “Getting Started” guide instead: “*only the Product Owner provides work for the teams*” and “*keep project managers away from the teams*”.
+在LeSS产品组之外的开发技术经理仍在尝试要求团队做一些技术改进和"编外工作"，而没有事先和产品负责人协调（并用感知到的紧迫性为其行为辩护）。这种情况持续了一段时间，尽管教练们强烈建议不要这样做，而且LeSS"入门"指南中建议的是："*只有产品负责人为团队提供工作*"和"*让项目经理远离团队*"。
 
-Given the potentially unpleasant implications to developers (e.g. accusing them in not respecting subordination boundaries, leading to low performance appraisals), of refusing to obey hierarchical lines, an experiment was attempted by the teams to* inform* the Product Owner of such managerial “emergency changes”. This was done implicitly, rather than explicitly, to avoid inflaming situations, and as follows:
+鉴于拒绝遵守上下级汇报关系对开发人员可能产生令人不快的影响（例如，指责他们不尊重下属的边界，导致低绩效评估），团队尝试了一项实验，他们向产品负责人通报了此类管理"紧急变更"。这是隐式而不是显式进行的，以避免陷入尴尬的局面，具体如下：
 
-On a few occasions, line management was invited in PBR sessions as guests where they were asked to state their most pressing needs explicitly and candidly, in front of Product Owner and some key stakeholders. This was discussed in the context of the teams’ capacity and priorities coming from the business. Very diplomatically, line management was put in a situation, when they had to negotiate *not* with the teams but with Product Owner directly - what priorities should be. The teams merely observed and contributed to a dialogue in various ways (e.g. clarifying capabilities, limitations, dependencies, etc). By removing themselves from potentially unsafe negotiations, the teams were able to focus more on work and less on politics. This approach has worked, as the teams were no longer as exposed and were out of harm’s way.
+鉴于拒绝遵守上下级汇报关系对开发人员可能产生令人不快的影响（例如，指责他们不尊重下属的边界，导致低绩效评估），团队尝试了一项实验，他们向产品负责人通报了此类管理"紧急变更"。这是隐式而不是显式进行的，以避免陷入尴尬的局面，具体如下：
 
-#### Minimizing Side-work and Supporting Single Product Backlog
+有几次PBR会议，直线经理被邀请作为客人，在产品负责人和一些关键利益相关人面前明确、坦率地说明他们最紧迫的需求。这是在团队的能力和来自业务的优先事项的上下文中来讨论的。非常外交地讲，直线管理被置于一种情况，他们不得不直接和产品负责人协商优先级，而*不是*和团队协商。团队只需要观察，并通过各种方式来协助这个对话（比如：澄清团队能力、限制、依赖等）。通过摆脱潜在的不安全谈判，团队能够更多地专注于工作，而较少关注政治。这种方法行之有效，因为团队不再那么暴露，而且不会被伤害。
 
-Due to a significant amount of interruptions it became critical to increase transparency on the associated dollar-cost of unplanned/”hidden”/side-work. As it is often the case within large enterprise organisations, facilitating big changes required an empirical approach. For this, the teams were advised to *stop using a separate backlog to manage interruptions and side-work*, and instead keep all of their work in one shared Product Backlog. This allowed the Product Owner to refer to one single “source of truth”, instead of multiple independent “containers of wishes” - to see the overall amount of work the teams were asked to deliver, with conflicting priorities, and by doing so, set real priorities.
+#### 最小化编外工作，支持单一产品代办事项列表 Minimizing Side-work and Supporting Single Product Backlog 
 
-Taking into account inevitable work interruptions, helped manage the teams’ capacity and better reflect it during planning. After several Sprints, senior management was presented with the data that illustrated how ad-hoc, unplanned/interruptive work diluted the teams’ attention and shifted their focus away from planned and forecasted product-centric work. The main way to illustrate the problem was data collected from cumulative flow diagrams (CFD) that exposed how long Sprint work, on average, spent in each status. Overall, WIP for each Sprint backlog item was very high and it was mainly due to frequent interruptions (start-stop-start-stop), caused by new, unplanned work, being forced into a Sprint by managers.
+由于存在大量的打断，提高计划外的/“隐藏的”/编外工作的成本透明度就变得至关重要。 在辅导大型企业组织变革过程中，通常需要采用经验主义方法。为此，我们建议团队*停止使用单独的待办事项列表来管理打断和额外工作*，而应将所有工作放在一个共享的产品待办事项列表中。 这样，产品负责人就可以参考一个单一的“事实来源”而不是多个彼此独立的“愿望容器”，来了解团队被要求交付的总体工作量，还有优先级冲突，通过这种方式可以解决。
 
-This led to making some hard, but necessary, decisions: to mandate from requesting individuals and business groups that tried to put their priorities on top of and around Product Owner’s priorities, to stop doing so. It was discussed and agreed upon by the heads of Development and Business organizational structures that requests would go through the Product Owner.
+把不可避免的工作中断纳入管理，有助于团队的容量管理，并更好地反映在计划中。几个Sprint之后，高级管理层看到了数据，这些数据说明了临时的、计划外的中断性工作是如何影响团队专注力的，这使他们偏离了计划好的以产品为中心的工作。用来阐述问题的主要方式是通过从累积流程图（CFD）收集的数据，这些数据揭示了Sprint里的工作在每种状态下平均花费的时间。 总体来说，每个Sprint待办事项的WIP很高，这主要是由于频繁的中断（启动-停止-启动-停止）所致，这些中断是由经理强行加入Sprint的计划外工作导致的。
 
-### Traditional Management Communication Pathways
+这导致做出一些艰难而又必要的决定：强制要求那些试图将其优先事项放在产品负责人优先事项之上的个人和业务组，马上停止这样做。 开发和业务团队的负责人们对此进行了讨论并达成了共识，所有请求都要经过产品负责人。
 
-As mentioned above, the hierarchy of VBB was such that it led to command and control behaviours between reporting layers. Any action that, rightly or wrongly, deviated from the path dictated by management lines, or challenged existing norms and order, was often seen as risky and was discouraged.
+### 传统管理沟通途径 
 
-Most attempts to put to light underlying problems and impediments went in vain. This was indicative of an endemic problem, as historically, the company actively resisted changes.
+如上所述，VBB的管理等级导致了上下级之间的命令和控制行为。无论正确或错误，任何偏离上级经理管理方针或挑战现有规范和秩序的行动，通常被视为冒险且不鼓励。
 
-The coaches faced the dilemma: “*how to help senior management admit that problems exist and require attention, and then make everyone else comfortable to step up, speak up and engage?*”
+揭露潜在问题和障碍的大多数尝试都是徒劳的。这表明公司自身存在一些问题，因为从历史上看，该公司积极抵制变革。
 
-To overcome this barrier, a compromise solution was proposed. It provided at least a safety-net for some more courageous individuals, who would otherwise have had only the option of escalating through the hierarchy and putting themselves at risk, to get their observations and concerns brought to light and to senior management.
+教练们面临两难的境地：“*如何帮助高级管理人员承认问题是存在的，而且需要被关注，然后让其他人都愿意站出来，讲出来并参与进来？*”
 
-As an experiment, the coaches have conducted a few sessions with senior management, educating them on the benefits of *gemba/go-see*. Specifically, managers were informed (based on the LeSS Guide “Go See”) that the purpose of go-see was not to micromanage, give orders or attempt to solve problems for teams. Rather, the purpose of *go-see* was to learn/understand teams’ problems and teach them how to solve problems independently of managerial control.
+为了克服这一障碍，教练们提出了一种折衷方案。它至少为一些更有勇气的人提供了一个安全保障，否则，他们只有选择通过等级制度升级问题来将自己的观察和顾虑说出来，让高级管理层知晓，这将使其处于危险之中。
 
-The management was encouraged to start coming down to teams’ area, and talk to individuals in their work area/seats, and ask questions about concerns, solicit feedback. Management was guided specifically *not* to *push back* problems back onto teams and *not* to try to *solve* problems for teams. Instead, the management was guided to *teach* teams how to solve problems independently.
+作为实验，教练们与高级管理人员进行了几次会议，向他们介绍了“ gemba /go-see *”的好处。告知经理们（基于LeSS指南“Go See”），go-see的目的不是微管理，不是下达指令，也不是直接尝试解决团队的问题。相反，“go-see”的目的是学习/理解团队的问题，并教他们如何在管理控制之外独立解决问题。
 
-The management also decided to resort to various discrete escalation techniques that would encourage individuals from lower organizational levels communicate directly to higher organizational levels. The “IRS” (Impediment Removal Service) was introduced, as a means of safer escalation of problems from teams and Scrum Masters to senior management. It came in the form of a dedicated internal email address alias that anyone could submit their personal challenge/problem in the form of a community discussion.
+我们鼓励管理层深入团队工区，在其工位上与个人交谈，询问工作上的顾虑，征求反馈。教练们特别指导管理人员，不要将问题推回团队，也不要尝试直接解决团队的问题。取而代之的是，管理层被引导去“教导”团队如何独立解决问题。
 
-### Manager Component Owners
+管理层还决定采用各种分散式的升级问题的方法，以鼓励较低级的个人直接与较高级的经理进行沟通。还引入了“ IRS”（Impediment Removal Service），作为一个将问题从团队和Scrum Masters升级到高级管理层的安全方式。它以专用内部电子邮件地址别名的形式出现，任何人都可以以社区讨论的形式提交其个人挑战/问题。
+
+### 经理兼任组件负责人 Manager Component Owners
 
 The manager component owners were a source of initial resistance against forming cross-component feature teams. Why? For component owners, *ownership* meant personal visibility, power and control and, therefore, a better chance to be promoted and better compensated.
 
@@ -317,7 +322,7 @@ Still the Development architecture group did not dissolve and so there were cont
 
 In addition to architecture groups, technical managers also wanted to dictate architectural decisions, since their traditional positions were based on these kinds of actions. A Development manager introduced (without consultation with the teams) a weekly “Design meeting”. This had the effect of severely hampering in-flight and future work, and was a source of conflict for the developers across all teams. Because it was imposed by a middle manager, this was difficult to abolish. It took a number of Sprints until the problem was recognized by senior management (Scrum Masters escalated this problem and qualified it as an organizational impediment) and this low-level centralized decision-making attempt was abolished.
 
-### HR Policies
+### HR政策
 
 During the faux “Scrum” adoption, each team member was still officially a single specialist. There was almost no interest in learning new functional domains or technologies, as everyone's job title was ‘business analyst’, ‘tester’, ‘front-end developer’, ‘manager’, ‘architect’, etc. Lack of motivation by people to learn additional functional and technical skills was driven by the process of individual goal-setting and performance reviews, by line managers. Everyone’s end-of-year performance and discretionary incentives (bonuses, promotions) were based on an individual’s ability to prove that they delivered as per their original job descriptions (and did *better than* their peers/colleagues). For example, business analysts were measured based on how efficiently they were able to ‘write stories’, testers were measured on how many bugs they were able to discover, and so forth. This also led to local optimization by each single function and subsequently, to *sub-optimization* of the overall organizational system.
 
@@ -327,7 +332,7 @@ The partial success that the coaches were able to achieve was to persuade manage
 
 A few years after the coaches disengaged, their prior effort to improve job roles finally paid off: A more general “developer” role with broad skills was introduced, and the job title of *Scrum Master* was added VBB-wide. This is a classic example that a coaching impact may have a delayed effect.
 
-### Culture is Influenced by Organizational Design
+### 文化受组织设计影响
 
 One of the most challenging aspects of organizational culture that the coaches had to face was the amount of emphasis that was put on *individual performance*. There was a deep systemic problem that had to be addressed, organization-wide.
 
@@ -365,8 +370,9 @@ Above all, a strong emphasis was made on customer happiness with the overall LeS
 
 Although at the end of the year each Development employee was still given a year-end review and “report card”, it had much less bearing on how an employee was rewarded financially. Individual adherence and genuine support of agile transformation efforts and LeSS adoption were valued more than individual delivery and heroics. Letter-grading was still assigned informally by managers (it was entered in a centralized system of record, as it was required by HR) but everyone understood and spoke freely about the fact that it had practically no value to anyone. This illustrated the LeSS experiment *Try... Fill in the forms*, meaning that when it isn’t possible to eliminate wasteful HR processes, then just play the game by inputting the essentially meaningless information with the least effort, and focus instead on the important real work of improving how to delight the customer.
 
-## Conclusion
+## 结论
 
+LeSS采用有以下正面影响：
 The LeSS adoption had some positive impacts:
 
 * Users were pleased with frequent delivery of useful features. They could forecast better.. Also, the level of transparency and predictability brought by the LeSS adoption has grown much higher. Relationships between technology and business were at their best during the LeSS adoption .
