@@ -282,15 +282,15 @@ At VBB, there is a strong belief that “*everyone must follow the plan and say 
 
 ### 经理兼任组件负责人 Manager Component Owners
 
-The manager component owners were a source of initial resistance against forming cross-component feature teams. Why? For component owners, *ownership* meant personal visibility, power and control and, therefore, a better chance to be promoted and better compensated.
+经理组件所有者是最初抵制形成跨组件特征团队的根源。为什么？对于组件所有者而言，[所有权]意味着展现个人重要性的机会、权力和控制力，从而，有利于个人升迁和薪资增长。
 
-So the more senior managers needed to figure out a way to ensure that prior component owners were removed from the organization during LeSS adoption. How could this be done swiftly?
+因此，更高级的经理们需要找出一种方法，以确保在采用LeSS期间将先前的组件所有者的角色从组织中去除。怎么能迅速做到这一点？
 
-Component owners that still possessed strong technical skills were offered an opportunity to join teams and become hands-on contributors. They were also offered the role of *component mentors* whose responsibility would be to teach other developers.
+仍拥有强大技术技能的组件所有者可以参加团队并成为实际贡献者，还可以选择做“组件导师”，其职责是教授其他开发人员。
 
-The other component owners were moved to other parts of the organization.
+剩下的组件所有者被转岗到其他部门。
 
-In order for the above changes not to cause too much unest, senior managers conducted a round of discussions with all prior component owners and explained to them that going forward, their individual contribution and performance would be measured based less on *owning, doing and telling* others what to do and more on teaching/mentoring. People were given assurance that by educating their teammates, prior component owners would be neither reducing their own importance, nor putting their own jobs at risk. LeSS Guide: “Job Safety but not Role Safety” - was leveraged for this.
+为了避免上述的变化造成太多麻烦，高级经理们与之前的组件所有者进行了一轮讨论，向他们解释说：今后，他们的个人贡献和绩效评估会降低在*组件所有权、自己做事、和告诉他人做*方面的考量，提高在*教学/指导他人做*方面的考量。他们得到管理层的保证：通过培训队友，之前的组件所有者不会使自己的重要性降低，也不会使自己的工作面临风险。 LeSS指南：“工作安全而不是角色安全” --- 被用于此。
 
 ### Management and Engineering Practices
 
