@@ -294,18 +294,18 @@ At VBB, there is a strong belief that “*everyone must follow the plan and say 
 
 ### Management and Engineering Practices
 
-**LeSS Test** - “*Avoid... Test department* - *Avoid... Separate test automation team* - *Try... Zero tolerance on open defects* - *Try... Acceptance test-driven development* - *Avoid... Traditional requirement handoff*”
+**LeSS测试** - “*避免... 测试部门* - *避免... 单独的自动化测试团队* - *尝试... 对发现的缺陷零容忍* - *尝试... 接收测试驱动开发* - *避免... 传统的需求交接*”
 
-Unfortunately, manual testing practices were long-established within VBB and this meant manual testers were distributed across newly formed teams. To remediate this weakness, test automation and sharing of good engineering practices was strongly encouraged across the teams. This advice was supported with training and coaching by one of the coaches (Sean). The primary vehicle for this focus was via an Engineering Community (see the LeSS Guide: *Communities*) and targeted training was also provided when particular needs came up. Teams were encouraged to transition from the traditional process of “testing a release candidate” using manual testing to manual or automated testing of features as part of the Definition of Done.
+遗憾的是，手动测试在 VBB 中早已存在很久，这意味着新组建的团队中也有手动测试人员。为了对此进行补救，整个团队开始大力推动测试自动化和优秀工程实践的分享。教练（Sean）的培训和辅导对此提供了支持。主要的承载工具是工程社区（参见LeSS指南：*社区*) ，并在出现特定需求时提供有针对性的培训。鼓励团队从传统的"测试待发布版本"流程过渡到作为"完成定义"的一部分的特性测试，可以是手动或自动。
 
-**Figure 4** shows the Definition of Ready/Done/Undone derived by all teams in one of the kickoff workshops. Unfortunately, notice the *initial* continued inclusion of manual testing in the DoD, even though some automated testing was introduced in the LeSS adoption.
+**图4**显示了所有团队在其中一个启动研讨会中派生的就绪/完成/未完成的定义。遗憾的是，请注意，尽管在 LeSS采用中引入了一些自动测试，但DoD中仍继续包含*初始*手动测试。
 
 <figure>
 <img src="img/case-studies/very-big-bank/definition-of-done.png" alt="Definition of Done">
   <figcaption>Figure 4: Definition of Done</figcaption>
 </figure>
 
-Why? Unfortunately manual testing remained in two cases, both at the request of the teams:
+为什么？很不幸，在以下两种情况，应团队的要求，手动测试仍然存在：
 
 1. The first was Integration Testing performed by the team in all environments
 2. The second was User Acceptance Testing (UAT) performed by an external, separate group with their own cadence.
