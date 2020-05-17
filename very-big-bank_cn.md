@@ -305,10 +305,10 @@ At VBB, there is a strong belief that “*everyone must follow the plan and say 
   <figcaption>Figure 4: Definition of Done</figcaption>
 </figure>
 
-为什么？很不幸，在以下两种情况，应团队的要求，手动测试仍然存在：
+很不幸，应团队的要求，以下两种情况仍然使用手动测试：
 
-1. The first was Integration Testing performed by the team in all environments
-2. The second was User Acceptance Testing (UAT) performed by an external, separate group with their own cadence.
+1. 第一种是团队在所有环境里执行的集成测试
+2. 第二种是一个独立的外部团队执行的用户接收测试，他们有自己的节奏。
 
 Both the teams and technology/business managers felt it was important to continue this practice until trust was built in an automated toolset. As mentioned in the above Definition of Done picture, manual integration testing continued across a minimum of two testing environments for any deployment including DEV, UAT and Production. For example, this included a deployment to DEV environments at the end of each Sprint. Deployment to UAT would then occur as Undone work that carried over to the subsequent Sprint. This resulted in significant ongoing wastes. Interruptions to the teams existed because of slow feedback and a plethora of release related sign-off meetings that made it very difficult to facilitate positive change across the board fast. For example, teams would typically wait weeks for UAT sign-off after a feature was accepted by the Product Owner. Any feedback from the UAT team that required code changes would manifest as urgent interruptions to the development team. After passing UAT, releases into Production would require coordination and more manual testing across each application and was only allowed to occur in restricted time-windows. Of course, this led to the continuation of massive wastes.
 
