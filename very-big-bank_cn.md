@@ -329,24 +329,24 @@ VBB的另一个功能障碍是在存在单独的架构组（经理希望维持�
 
 ### 文化受组织设计影响
 
-One of the most challenging aspects of organizational culture that the coaches had to face was the amount of emphasis that was put on *individual performance*. There was a deep systemic problem that had to be addressed, organization-wide.
+教练必须面对的组织文化中最具挑战性的方面之一是对*个人表现*的重视程度。在组织范围内，存在着一个深层的系统性问题，必须被解决。
 
-Historically, VBB, had a culture that encouraged super-heroics and internal competition. People were primarily driven by extrinsic motivation and a desire to outperform their colleagues, competing for bonuses, promotions, and other perks. Individual performance appraisals and end-of-year reviews defined individuals’ behaviours and often led to system gaming, especially at year-end. *This culture of heroics and internal competition was strongly influenced by the* **organizational design**.
+从历史上看，VBB有着鼓励超级英雄和内部竞争的文化。人们主要受到外在动机和超越同事的渴望，竞争奖金、晋升和其他福利。个人绩效评估和年终评审定义了个人行为，并经常导致系统游戏，尤其是在年底。*这种英雄文化和内部竞争的文化受到* **组织设计** *的强烈影响*。
 
-Such culture was not conducive to ways of working expected of teams in LeSS.
+这种文化不利于形成LeSS团队所期望的工作方式。
 
-As an example, the below causal loop diagram (**Figure 5**) uncovers underlying system dynamics that involved individual performance evaluation process, and how it adversely impacted basic Scrum dynamics within the Development group (reminder: a faux “Scrum” had been already introduced before the coaches joined).
+例如，下面的因果循环图（**图5**）揭示了涉及个人绩效评估过程的基本系统动态，以及它是如何对开发组内的基本Scrum动态产生不利影响（提醒：在教练加入之前已经引入了伪"Scrum"）。
 
 <figure>
 <img src="img/case-studies/very-big-bank/individual-performance-evaluation-systems-model.jpg" alt="Individual Performance Review Systems Model">
   <figcaption>Figure 5: Individual Performance Reviews Systems Model</figcaption>
 </figure>
 
-To alleviate this problem within the LeSS product group, the coaches decided to leverage the following LeSS experiment: "*Avoid... Incentives linked to performance*", and "*Try... De-emphasize incentives*.” The goal was *not* to change norms and standards globally for the whole enterprise. Rather, the goal was to educate influential management to act locally by taking actions that would lead to changing individuals’ attitudes and behaviour, to make individuals more respectful of collective ownership and willing to cultivate “us- together” mentality. More about this effort below.
+为了缓解LeSS产品组中的问题，教练决定利用以下LeSS实验："*避免...与绩效相关的奖励*，和"*尝试...淡化奖励*。目标是*不改变*整个企业的规范和标准。相反，目标是教育有影响力的管理层采取改变行动，来改变每个人的态度和行为，使个体更加尊重集体所有制，并愿意培养"我们一起"的心态。详见下文。
 
-**LeSS Experiments**: *Try... De-emphasize incentives* - *Avoid... Putting incentives on productivity measures* - *Try... Team incentives instead of individual incentives* - *Try... Team-based targets without rewards* - *Avoid... Performance appraisals*
+**LeSS 实验**： *尝试...淡化奖励* - *避免...针对生产率度量的激励* - *尝试...团队激励，而不是个人激励* - *尝试...没有物质奖励的基于团队的目标* - *避免...绩效评估*
 
-The Development management involved in the process of appraisals and rewards was educated on the harmful impact of these. How? A few workshops were conducted for managers and HR representatives to discuss:
+就评估和奖励过程的有害影响，我们对参与其过程的开发团队管理层进行了教育。如何？我们为管理人员和人力资源代表举办了几次工作坊，讨论：
 
 * Research and studies of how individual performance appraisals and their linkage to monetary incentives can cause harm to employees and organizations (summarized, as [case 1](http://www.keystepstosuccess.com/2016/02/quotes-from-get-rid-of-the-performance-review-how-companies-can-stop-intimidating-start-managing-and-focus-on-what-really-matters-by-culbert-samuel-a-laurence-rout/) and [case 2](http://www.keystepstosuccess.com/2016/02/quotes-from-punished-by-rewards-the-trouble-with-gold-stars-incentive-plans-as-praise-and-other-bribes-by-alfie-cohn/))
 * Systemic cause and effect relationships between individual performance appraisals/bonuses and health of Scrum dynamics. Below (**Figure 7**) is an example of a causal loop diagram that was produced during one of the discussions with managers to visualize the problem and educate people towards better behaviours.
@@ -367,7 +367,7 @@ Although at the end of the year each Development employee was still given a year
 
 ## 结论
 
-LeSS采用有以下正面影响：
+LeSS导入有以下正面影响：
 The LeSS adoption had some positive impacts:
 
 * Users were pleased with frequent delivery of useful features. They could forecast better.. Also, the level of transparency and predictability brought by the LeSS adoption has grown much higher. Relationships between technology and business were at their best during the LeSS adoption .
