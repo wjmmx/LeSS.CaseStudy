@@ -351,19 +351,21 @@ VBB的另一个功能障碍是在存在单独的架构组（经理希望维持�
 * 个人绩效评估及其与金钱激励的联系是如何对员工和组织造成伤害的相关研究（正如以下案例总结的，[case 1](http://www.keystepstosuccess.com/2016/02/quotes-from-get-rid-of-the-performance-review-how-companies-can-stop-intimidating-start-managing-and-focus-on-what-really-matters-by-culbert-samuel-a-laurence-rout/) 和 [case 2](http://www.keystepstosuccess.com/2016/02/quotes-from-punished-by-rewards-the-trouble-with-gold-stars-incentive-plans-as-praise-and-other-bribes-by-alfie-cohn/))
 * 个人绩效评估/奖金与Scrum动态运行状况之间的系统因果关系。下图（**图7**）是在和管理者讨论的过程中产出的因果循环图，用于把问题可视化，并帮助人们有更好的行为。
 
-The scope of these changes were of course local to Development. The LeSS adoption within Development was an experiment of organizational restructuring inside a *bank*, that — as in all banks that we have coached within — has deeply rooted traditional, hierarchical, top-down command & control culture aimed at shifting large cash bonuses to bank managers. So were not under a fantasy that these changes could be extended beyond our boundaries, and just sought to ring fence them locally.
+这些变革的范围当然是局限在开发团队。开发团队的LeSS导入是"银行"内部组织重组的一个实验，正如我们在银行内部指导的所有银行一样，它深深植根于传统、等级、自上而下的指挥和控制文化，旨在将巨额现金奖金转移给银行经理。因此，我们并不幻想这些变革可以扩展到边界之外，所以试图用栅栏把这些变革隔离在本地。
 
-One example of a locally controlled norm was emphasis on team-level ownership, responsibility and performance, rather than individual-level. Although the bank-wide process of individual performance appraisal still existed, Development management informally trivialized its importance. Valuing (and praising) team performance over individual performance became more of the norm. Eliminating the dysfunction-generating policy of appraisals and bonuses was not possible, but with the support of management what was possible was to reduce the harm and shift the emphasis.. This illustrated the LeSS experiment “*Try... Reduce harm of policies that cannot yet be removed*”
+本地控制范式的一个例子是强调团队级的所有权、责任和绩效，而不是个人层面。虽然全银行的个人绩效评估过程仍然存在，但开发团队管理层非正式地淡化了其重要性。重视（和赞扬）团队绩效胜于个人绩效越来越成为主流范式。消除评估奖和奖金的机能障碍政策是不可能的，但在管理层的支持下，有可能减少危害，转移重点。这阐释了LeSS实验“*尝试...减少尚无法删除的策略的危害*"
 
-So within the organizational constraints the management tried to create an environment conducive to improved behaviour by developers. The following was made clear and continually stressed during Development events and regular communication:
+因此，在组织约束下，管理层试图创造有利于改善开发人员行为的环境。在开发团队组织的活动中和定期沟通中，明确并持续强调以下要点：
 
-* Importance of becoming T-shaped workers
-* Benefits of learning new development tools and techniques
-* Behaving towards other teammates in supportive, team-like fashion, as well as valuing team performance over individual performance.
+• 成为T形人才的重要性
+• 学习新的开发工具和技术的好处
+• 以支持他人的方式对待其他队友，重视团队绩效胜于个人表现。
 
-Above all, a strong emphasis was made on customer happiness with the overall LeSS delivery being the most influential factor that identified financial rewarding of teams, and subsequently, individuals.
+最重要的是，管理者强调LeSS的整体交付情况会是确定团队以及随后个人财务回报的最有影响力的因素，这增强了客户幸福感。
 
-Although at the end of the year each Development employee was still given a year-end review and “report card”, it had much less bearing on how an employee was rewarded financially. Individual adherence and genuine support of agile transformation efforts and LeSS adoption were valued more than individual delivery and heroics. Letter-grading was still assigned informally by managers (it was entered in a centralized system of record, as it was required by HR) but everyone understood and spoke freely about the fact that it had practically no value to anyone. This illustrated the LeSS experiment *Try... Fill in the forms*, meaning that when it isn’t possible to eliminate wasteful HR processes, then just play the game by inputting the essentially meaningless information with the least effort, and focus instead on the important real work of improving how to delight the customer.
+虽然在年底，开发团队的每个员工仍会有年终审核和"成绩单"，但它对员工获得财务奖励的影响要小很多。个人坚持并真正支持敏捷转型工作和LeSS导入比个体交付和英雄主义更有价值。
+
+信件分级（绩效评估定级）仍由管理人员非正式地分配（按照人力资源部的要求，在集中记录系统中输入），但每个人都理解并并畅所欲言地谈起定级对大家没有什么价值。这说明了LeSS实验*尝试...填写表格*，这意味着当无法消除浪费的人力资源流程时，只需以最少的精力投入来提供基本上毫无意义的信息来玩游戏，而真正专注于改进如何取悦客户的重要实际工作。
 
 ## 结论
 
