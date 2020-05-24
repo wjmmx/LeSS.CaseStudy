@@ -60,7 +60,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
   <figcaption>Figure 2: Centralized vs Decentralized Coaching</figcaption>
 </figure>
 
-## LeSS导入的初始步骤 Initial Steps for the LeSS Adoption
+## LeSS导入的初始步骤
 
 教练限制了初始采用LeSS的人数，大约开发50人，业务人员20人。
 
