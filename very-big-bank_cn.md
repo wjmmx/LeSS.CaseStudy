@@ -359,9 +359,9 @@ VBB的另一个功能障碍是在存在单独的架构组（经理希望维持�
 
 • 成为T形人才的重要性
 • 学习新的开发工具和技术的好处
-• 以支持他人的方式对待其他队友，重视团队绩效胜于个人表现。
+• 以支持他人的方式对待其他队友，重视团队绩效胜于个人表现
 
-最重要的是，管理者强调LeSS的整体交付情况会是确定团队以及随后个人财务回报的最有影响力的因素，这增强了客户幸福感。
+最重要的是，管理者强调了LeSS的整体交付情况会是确定团队以及随后个人财务奖励最有影响力的因素，这有利于增加团队幸福感。
 
 虽然在年底，开发团队的每个员工仍会有年终审核和"成绩单"，但它对员工获得财务奖励的影响要小很多。个人坚持并真正支持敏捷转型工作和LeSS导入比个体交付和英雄主义更有价值。
 
@@ -369,20 +369,18 @@ VBB的另一个功能障碍是在存在单独的架构组（经理希望维持�
 
 ## 结论
 
-LeSS导入有以下正面影响：
-The LeSS adoption had some positive impacts:
+LeSS导入带来了一些积极影响：
 
-* Users were pleased with frequent delivery of useful features. They could forecast better.. Also, the level of transparency and predictability brought by the LeSS adoption has grown much higher. Relationships between technology and business were at their best during the LeSS adoption .
-* On both sides, Development and Business people learned how to identify organizational impediments and relate superficial discoveries to deeper, systemic root causes, that affected a broader system. We believe this learning will stay with people for a long time.
-* The communities helped individual and group learning.
-* Modern engineering practices grew deeper roots into Development and beyond, positively affecting the broader technology group.
-* A handful of seasoned Scrum Masters was nurtured and some of them became so passionate about becoming change agents that they have decided to make this into a career journey.
+* 用户对频繁交付有用的特性感到满意。他们可以更好地预测.. 此外，LeSS导入带来的透明度和可预测性也越来越高。在LeSS导入期间，技术部门与业务之间的关系处于最佳状态。
+* 开发人员和商务人员双方面都学会了如何识别组织障碍，也能够将表面的现象与的深层的系统性根源联系起来，这些根源问题影响到广泛的系统。我们相信这种学习会长期伴随他们。
+* 社区帮助个人和团体学习。
+* 现代工程实践在开发领域内外的根基越来越深，对更多的技术团队产生了积极的影响。
+* 培养了一些经验丰富的Scrum Master，他们中的一些人对成为变革推动者充满热情，以至于他们决定让这一切成为职业之旅。
 
-The following challenges remained unresolved at the time both coaches departed:
+在两位教练离开时，以下挑战仍未解决：
 
-* Component/application *ownership* did not completely transform into *mentorship*. There was still hidden resistance by former application owners to give up control and become mentors.
-* People that were displaced because their original roles became no longer required in LeSS (e.g. business analysts, project managers, and manual testers) were not effectively accommodated by other parts of VBB. Effective cross-training to acquire additional skills (and hence work as an effective flexible team member) was not offered either. Therefore, displaced people continued to put up hidden resistance to the LeSS adoption.
-* Self-management remained a challenge. For example, individuals were still required to “work with their managers” on individual career plans, even in situations when managers had little influence on decisions.
-* Performance reviews and subjective bonuses continued to affect individuals' morale, even though their importance was trivialized: complete decoupling of performance reviews from subjective monetary incentives did not happen
-
+* 组件/应用的*所有权*没有完全转化为*辅导关系*。仍然有旧的组件所有者暗中抵制放弃控制权并成为导师。
+* 在LeSS中不再需要其原始角色的人失去了岗位（例如业务分析师、项目经理和手动测试人员），VBB其它部门并没有进行有效的安置，也没有提供有效的交叉培训，以获得额外的技能（成为一个有用的弹性团队成员）。因此，这些失去岗位的人继续对LeSS导入进行暗中抵制。
+* 自我管理仍然是一个挑战。例如，个人仍然需要*与管理者合作*制定个人职业计划，即使在管理者对其计划决策影响不大的情况下也是如此。
+* 绩效评审和主观奖金继续影响个人的士气，尽管其重要性被轻视：绩效评审与主观货币激励完全脱钩没有发生。
 
