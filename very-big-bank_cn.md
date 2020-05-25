@@ -349,7 +349,7 @@ VBB的另一个功能障碍是在存在单独的架构组（经理希望维持�
 就评估和奖励过程的有害影响，我们对参与其过程的开发团队管理层进行了教育。如何？我们为管理人员和人力资源代表举办了几次工作坊，讨论了以下话题：
 
 * 个人绩效评估及其与金钱激励的联系是如何对员工和组织造成伤害的相关研究（正如以下案例总结的，[案例1](http://www.keystepstosuccess.com/2016/02/quotes-from-get-rid-of-the-performance-review-how-companies-can-stop-intimidating-start-managing-and-focus-on-what-really-matters-by-culbert-samuel-a-laurence-rout/)和[案例2](http://www.keystepstosuccess.com/2016/02/quotes-from-punished-by-rewards-the-trouble-with-gold-stars-incentive-plans-as-praise-and-other-bribes-by-alfie-cohn/))
-* 个人绩效评估/奖金与Scrum动态运行状况之间的系统因果关系。下图（**图7**）是在和管理者讨论的过程中产出的因果循环图，用于把问题可视化，并帮助人们有更好的行为。
+* 个人绩效评估/奖金与Scrum动态运行状况之间的系统因果关系。上图（**图5**）是在和管理者讨论的过程中产出的因果循环图，用于把问题可视化，并帮助人们有更好的行为。
 
 这些变革的范围当然是局限在开发团队。开发团队的LeSS导入是"银行"内部组织重组的一个实验，正如我们在银行内部指导的所有银行一样，它深深植根于传统、等级、自上而下的指挥和控制文化，旨在将巨额现金奖金转移给银行经理。因此，我们并不幻想这些变革可以扩展到边界之外，所以试图用栅栏把这些变革隔离在本地。
 
