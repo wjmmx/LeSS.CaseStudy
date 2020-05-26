@@ -27,7 +27,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 组件团队与其负责的软件“产品”，**见图1**：
 
 <figure>
-<img src="img/case-studies/very-big-bank/component-teams-on-fake-products.png" alt="Component Teams as Products">
+<img src="/img/case-studies/very-big-bank/component-teams-on-fake-products.png" alt="Component Teams as Products">
   <figcaption>图1: Component Teams as Products</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 * [中央（组织）教练部门](https://www.infoq.com/articles/centralized-decentralized-coaching)（例如，所谓的“敏捷卓越中心”）和中心化的敏捷/精益指南已被视为一种对敏捷进行篡改的符号，重新标榜既有现状以及局部优化，最终将导致打造出孤立的筒仓和特权的教练（LeSS实验：*请尝试...偏爱去中心化而非中心化解决方案。避免...有正式权威的中央教练组。避免...内部敏捷/精益指南*）。 该组织看到了与团队、业务或产品人员密切合作的深入型教练的价值。 人们偏爱和深入型教练作为一个社区共同努力（图2中的右图），而非与世隔离的“首席教练”权力结构。 **见图2**
 
 <figure>
-<img src="img/case-studies/very-big-bank/centralized-vs-decentralized-coaching.jpg" alt="Centralized vs Decentalized Coaching">
+<img src="/img/case-studies/very-big-bank/centralized-vs-decentralized-coaching.jpg" alt="Centralized vs Decentalized Coaching">
   <figcaption>图2: 集中式辅导 vs 分散式辅导</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ VBB具有传统的组织结构，有多层汇报关系和各种中间人。例�
 下图（**图3**）是用来向组织讲解，组织扁平化的概念是规模化组织适应性所需要的：
 
 <figure>
-<img src="img/case-studies/very-big-bank/organizational-flattening.png" alt="Organizational Flattening">
+<img src="/img/case-studies/very-big-bank/organizational-flattening.png" alt="Organizational Flattening">
   <figcaption>图3: 组织扁平化</figcaption>
 </figure>
 
@@ -296,7 +296,7 @@ Sprint计划第一部分（”做什么“）和第二部分（“怎么做”�
 **图4**显示了所有团队在其中一个启动工作坊中得到的就绪/完成/未完成的定义。遗憾的是，请注意，尽管在 LeSS导入中引入了一些自动化测试，但完成的定义中仍继续包含*初始*手动测试项。
 
 <figure>
-<img src="img/case-studies/very-big-bank/definition-of-done.png" alt="Definition of Done">
+<img src="/img/case-studies/very-big-bank/definition-of-done.png" alt="Definition of Done">
   <figcaption>图4: 完成的定义</figcaption>
 </figure>
 
@@ -338,7 +338,7 @@ VBB的另一个功能障碍是存在单独的架构组（经理们希望维持�
 例如，下面的因果回路图（**图5**）揭示了涉及个人绩效评估过程的基本系统动态，以及它是如何对开发组内的基本Scrum动态产生不利影响的（提醒：在教练加入之前已经引入了"伪Scrum"）。
 
 <figure>
-<img src="img/case-studies/very-big-bank/individual-performance-evaluation-systems-model.jpg" alt="Individual Performance Review Systems Model">
+<img src="/img/case-studies/very-big-bank/individual-performance-evaluation-systems-model.jpg" alt="Individual Performance Review Systems Model">
   <figcaption>图5：个人绩效考核系统模型</figcaption>
 </figure>
 
