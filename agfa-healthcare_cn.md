@@ -141,61 +141,37 @@
 
 建立好企业待办事项，产品负责人（LeSS中的领域产品负责人）把条目加到他们的产品待办列表（LeSS中的领域待办列表的变种）中。
 
-With the Enterprise Backlog set up, the Product Owners (in LeSS terms, the Area Product Owners) pulled in the items to their Product Backlog (in LeSS terms, a variant of an Area Backlog) to feed their teams.
+每两周（领域）产品待办列表条目会根据团队的容量进行梳理和开发。最多5个Scrum团队共享一份产品待办列表。总共21个产品负责人从企业待办列表中获取条目放入21个产品待办列表中，共有400多研发人员工作在这些列表上。
 
-每两周（领域）产品待办列表条目会根据团队的容量进行梳理和开发。最多5个Scrum团队工作在单一的产品待办列表。总共21个产品负责人从企业待办列表中获得条目放入21个产品待办列表中，400多研发人员工作在这些列表上。
+是的，还是有项目经理存在。为什么？他们把内部工作翻译给外部，帮助生成符合ISO/FDA规定的文档。理论上，产品负责人可以完成这项工作，但是工作量太大，而且不是产品负责人的主要的关注点。组织项目经理用待办列表了解现在的进度以及什么时候可以交付，从而保持敏捷转型前的已有沟通。不同意计算出来的日期（基于团队估算和容量）时，他们立刻知道会有怎样的影响，其他项目经理会内部信息翻译成外界可以理解的信息，因为外界还在用项目的视角来看工作。这就意味着项目经理团队会去找产品负责人，而非一个个项目经理。这样产品负责人面向900多客户和客户顾问委员会的工作会变得简单。
 
-On a two-weekly cycle (Area) Product Backlog items were considered for refinement and execution based on the teams capacity. Up to five Scrum teams consumed a single Product Backlog. In total 21 Product Owners were pulling items from the Enterprise Backlog into 21 Product Backlogs that were consumed by in total 400+ makers (hands-on team members).
-
-是的，还是有项目经理存在。为什么？他们把内部工作翻译给外部，帮助生成符合ISO/FDA规定的文档。理论上，产品负责人可以完成这项工作，但是工作量太大，而且不是产品负责人的主要的关注点。组织项目经理用待办列表了解现在的进度以及什么时候可以交付，从而保持敏捷转型前的已有沟通。不同意计算日期（基于团队估算和容量）时，他们立刻知道会有怎样的影响，其他项目经理会内部信息翻译成外界可以理解的信息，因为外界还在用项目的视角来看工作。这就意味着项目经理团队会去找产品负责人，而非一个个项目经理。这样产品负责人面向900多客户和客户顾问委员会的工作会变得简单。
-
-And yes… There were still project managers. Why? They were needed as the translators of the internal workings to the outside world and helped in generating documents to comply to ISO/FDA regulations. In theory, the Product Owners could have done this work, but it was too much and too “secondary” to consume the time of the Product Owners. Project managers in the organisation would use the organisation its backlog and filter on their projects to get an overview of where things were and when things might be delivered in order to keep existing communication as it was before the transition to Agile. When disagreeing with calculated dates (based on team estimates and capacities) they immediately knew what kind of impact this might have on items expected by the fellow project managers who were also translating internal information to the outside world that viewed things in terms of projects. Which in its turn lead to more of a project management team instead of individuals that were banging on the PO’s door. As such the PO’s job on facilitating outside communication towards 900+ customers and several C.A.B.’s (Customer Advisory Boards) became easier.
-
-企业待办列表还有个好处是可以很容易发现哪些条目带来的麻烦最多，我们可以在新的发布开始时就处理它们，或者挪出某次发布。
-
-And extra benefit we got from our Enterprise Backlog was an easy way to identify which items were causing the most disturbance and then we could decide to get those handled at the start of a new release or push them out of a certain release.
+企业待办列表还有个好处是可以很容易地发现哪些条目带来的麻烦最多，我们可以在新的发布版本刚开始时就处理它们，或者从某次发布版本中移出。
 
 此外，管理层可以看到哪些领域的团队工作不均衡，在它成为问题前就采取行动，要么增加人力，要么把一些人力从一个领域或团队调到另一个领域或团队。
 
-Aside from that the management got a good overview which areas of teams were out of balance and could take action upon this months before it would become an issue, either by hiring extra mind power or by moving mind power from one area or team to another or…
+有足够时间来决定如何采取行动可以产生大量的选项。但与之相反，我们常常惊讶地发现组织的管理层并没有太多选择，只能推迟一些事情并且/或者雇佣更多的人，但是这破坏了组织的平衡，使情况更复杂。
 
-有足够时间来决定如何采取行动可以带来大量的选项。与之相反，我们常见到组织里的“惊喜”没有给管理层太多选择，只能推迟一些事情，或者雇佣更多的人，这破坏了组织的平衡，使情况更复杂。
-
-Having time to decide on actions to take generated a multitude of options. This was in contradiction to the surprises we often see in organisations which leaves the management with no other option quick fixes such as postponing things and/or hiring extra people, which in its turn takes the balance out of an organisation and complicates the situation.
-
-保持事情越小越好，越少越好，越好意味着最后是更多，更多的满意，更多的价值，更多的创新，更多的交互。
-
-Keeping things smaller is better, having less is better and… better will at the end be more… more satisfaction, more value, more innovation, more interaction…
+保持事情越小越好，越少越好，越好意味着最后是更多，更多的满意，更多的价值，更多的创新，更多的交互...
 
 ## 协调
 
 ### 同步的时间盒
 
-整个组织会每两个星期从企业待办列表中获取工作，每一组都在同一时间开始和结束他们的迭代。这对处理团队间的约束至关重要，每个团队在迭代内拥有一致的目标：完成工作！没有理由团队不能一起工作解决团队间的约束问题。
+整个组织会每两个星期从企业待办列表中获取工作，每一组都在同一时间开始和结束他们的迭代。这对处理团队间的约束至关重要，每个团队在迭代内拥有一致的目标：完成工作！没有理由团队们不能一起工作解决团队间的约束问题。
 
-The entire organisation was consuming the Enterprise Backlog on synchronised time boxes of 2 weeks, each group started and ended their iterations on the same date. This was important for handling constraints between the teams, as each team had the same goal at hand within the same iteration: get it done! There was no excuse why teams would not work together on getting the constraints sorted out amongst them.
+约束（或者依赖）是在需求领域级别的产品待办列表中，所以谁需要和谁谈谈来促成事情的解决是很清晰的。如果知道了团队间的约束，可以通过Scrum of Scrum（SoS）来处理，受影响的团队成员可以形成一个SoS节奏，以有效的方式来解决约束。这可以是每天，每周两次，甚至每周一次，只为了一个目标：解决约束，交付价值。
 
-约束（或者依赖）是在需求领域级别的产品待办列表中，所以谁需要和谁谈谈来促成事情的解决是很清晰的。如果知道了团队间的约束，可以通过Scrum of Scrum（SoS）来处理，收影响的团队成员可以形成一个SoS节奏，以有效的方式来解决约束。这可以是每天，每周两次，甚至每周一次，只为了一个目标：解决约束，交付价值。
-
-Constraints (or dependencies) were noted on each area-level Product Backlog item so that it was clear who had to talk to who to get things moving forward. If a constraint was known between teams than this was handled through Scrum of Scrums (SoS) where people in the affected teams would agree on a SoS cadence that made sense to tackle the constraint in a constructive and qualitative manner. This could be daily, twice a week, or even just once a week with a single goal: get the constraint(s) handled and deliver value.
-
-一般来说，SoS节奏是在迭代计划会议第一部分决定的，团队可以同步他们的需要和想法，讨论大体实现方式以及协调计划则在迭代计划会议第二部分和后续迭代执行期间发生。我们认为通过SoS进行类似的协调是处理多团队约束的关键。但另一方面，如果需要SoS持续的发生，则可能意味着团队/领域结构有问题，需要重新调整组织结构来改进交付流程。
-
-In general the SoS cadence was defined during iteration planning 1 where the teams affected would sync on their needs and ideas defining a high level implementation and coordination plan that was taken with them to iteration planning 2 and consequent iteration execution period. We do consider this kind of coordination through SoS as a key factor to handle multi team constraints. On the other hand if one would need SoS on a continuous base this would indicate that team/area structures are not setup correctly and a reorganisation would be required to improve the delivery process.
+一般来说，SoS节奏是在迭代计划会议第一部分决定的，团队可以同步他们的需要和想法，讨论大体实现方式以及协调计划则在迭代计划会议第二部分和后续的迭代执行期间发生。我们认为通过SoS进行类似的协调是处理多团队约束的关键。但另一方面，如果需要SoS持续地发生，则可能意味着团队结构或领域结构有问题，需要重新调整组织结构来改进交付流程。
 
 ### 组织障碍列表
 
 你可以想象大量问题冒出来，团队通过定期的回顾会议检视他们工作的方式并设计改善措施可以解决其中许多问题（并不是说大部分）。我们可以说在团队级别有个2周的改善周期可以解决团队交付过程的大部分问题。
 
-As you can imagine a multitude of issues came to the surface of which many, not to say most, of them were handled within the teams that had regular team retrospectives to inspect their way of working and design improvements. We could say there was a two-week improvement cycle on the team level that took most of the pain out of the team for their delivery process.
-
-越成熟的团队会越能感受组织结构带来的痛苦，这会阻碍他们更进一步改善。因此就有了实践社区（见后续章节），开放空间和一些跨团队回顾，这些活动产生的内容可以加入到组织障碍列表中，敏捷教练可以维护这份列表。这份列表是组织领导层改善系统的主要工具之一。每季度领导团队一起来评估列表，设定优先级并对高优先级项目采取行动。有时需要提供适当的人，有时需要提供资金，有时需要用到他们自己的政治技巧……但是都是为来解决团队提出的问题。
-
-The more mature the teams became, the more they suffered from organisational structures that were hampering them to further improve. This lead to the setup of Communities of Practice (see section below) as well as Open Spaces and some cross team retrospectives that were feeding an organisational impediment list curated by the Agile coaches. This list was one of the main tools used by the organization’s leadership team to help improve the system. On a quarterly basis the leadership team came together to evaluate the list, set priorities and take action on the top items in the list. Sometimes by providing the right people, sometimes providing the right money, sometimes by using their political skills… but all in favor of removing issues raised by the teams.
+越成熟的团队会越能感受组织结构带来的痛苦，这会阻碍他们更进一步改善。因此就有了实践社区（见后续章节），开放空间和一些跨团队回顾，这些活动产生的内容可以加入到组织障碍列表中，敏捷教练可以维护这份列表。这份列表是组织领导层改善系统的主要工具之一。每季度领导团队一起来评估列表，设定优先级并对高优先级项目采取行动。有时需要提供适当的人，有时需要提供资金，有时需要用到他们自己的政治手段……但是都是为来解决团队提出的问题。
 
 ### 集成与完成的定义
 
-我们不得不处理大量的技术债和系统的负责度，持续集成（CI）系统是必须品而非奢侈品！没有像样的CI系统，持续前进并保持较短的反馈周期是很困难的，CI系统对整个组织是十分有价值的，特别是大家有用同步的迭代（统一的起始时间），有的工作依赖于多个团队一起工作（因为还有组件团队）。
+我们不得不处理大量的技术债和系统的复杂度，持续集成（CI）系统是必须品而非奢侈品！没有像样的CI系统，持续前进并保持较短的反馈周期是很困难的，CI系统对整个组织是十分有价值的，特别是大家使用同步的迭代（统一的起始时间），有的工作依赖于多个团队一起工作（因为还有组件团队）。
 
 The fact that we had to handle a lot of technical debt and complexity within the solutions, a Continuous Integration (CI) system became a necessity and not a luxury! Without a decent CI system it would be difficult to keep things moving and keep feedback cycles short and valuable for the entire organisation that in that moment in time already had an agreement on synchronised iterations (same start day, same end day) in order to optimize the work on items with dependencies over multiple teams (which was consequence of still having component teams).
 
