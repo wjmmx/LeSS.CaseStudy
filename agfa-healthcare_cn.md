@@ -199,9 +199,7 @@
 
 ![open-space-invite.png](https://less.works/img/case-studies/agfa/xopen-space-invite.png.pagespeed.ic.AQ4Of4DhOy.webp)
 
-最后有63名参与者来到了波恩（德国），有些是波恩本地的，还有些来自特里尔（德国），维也纳（奥地利），波尔多（法国）和根特（比利时）。他们建立了自己的日程（下面第二张图），这一天大家很开心，也很纠结，讨论了一些非常复杂的问题，结束时（如下图示）大家分享了一天的收获。
-
-At the end we got 63 participants coming to Bonn (DE), some from Bonn itself and others from Trier (DE), Vienna (AT), Bordeaux (FR) and Ghent (BE). They build their agenda for the day (second image below), they had fun, they struggled through some very complex issues and closed the open space (last image below) sharing learnings amongst each other.
+最后有63名参与者来到了波恩（德国），有些是波恩本地的，还有些来自特里尔（德国），维也纳（奥地利），波尔多（法国）和根特（比利时）。他们建立了自己的日程（下面第二张图），这一天大家很开心，也在一些非常复杂的问题上花费了很多精力，结束时（如下图示）大家分享了一天的收获。
 
 ![open-space-marketplace-2.png](https://less.works/img/case-studies/agfa/xopen-space-marketplace-2.png.pagespeed.ic.ybVtcDoZIi.webp)
 
@@ -209,53 +207,31 @@ At the end we got 63 participants coming to Bonn (DE), some from Bonn itself and
 
 2周后管理层得到了一份报告，其中阐述了大家从各地来参加开放空间的价值（考虑到这是时间和钱上的一笔大投资）。下面是些可见的结果，大家投入许多时间和精力来呈现并关联到举办开放空间的初衷。
 
-2 weeks after the Open Space a report was given to management on the value of having the Open Space session with that many people from different locations (considered a big investment in time and money). Below a snapshot of what was achieved as visible results, things people invested even more of their time to make it visible and linked to the initiative.
-
 ![open-space-statistics.png](https://less.works/img/case-studies/agfa/xopen-space-statistics.png.pagespeed.ic.M9y8-pmO--.webp)
 
-当管理层愿意并敢于信任大家做正确的决定，你会发现许多有意思的事情发生！这是组织最振奋的时刻之一，困扰大家多年的多站点问题，我们在很多方面有可见的持续的结果！推荐其他组织都尝试使用开放空间来解决他们的问题。在Agfa企业业务线这项技术在很多地方都在使用，甚至还邀请了客户。
-
-When management is willing and daring to trust their people to make the right decisions you’ll see great things happening! This was one of the most energizing moments for the organisation and provided tangible and sustainable results related to a multi dimensional and multi site problem people were struggling with for multiple years! A success and a recommendation to every organisation out there to try a open space as a technique to solve their issues. Within Agfa Enterprise BU this technique has been and is being used on several occasions, even with customers.
+当管理层愿意并敢于信任大家做正确的决定，你会发现许多有意思的事情发生！困扰了大家多年的多维度多站点问题在很多方面拥有了明显且持续的结果，这是组织最振奋的时刻之一！推荐其他组织都尝试使用开放空间来解决他们的问题。在Agfa各个业务线这项技术得到了广泛的使用，甚至还邀请了客户。
 
 ## 组件团队，跨职能团队和特性团队
 
-你可能注意到在这个案例中，一开始组织是有组件团队的。这导致了许多精益视角中的浪费。当团队组件扩展他们的DoD，测试技能进入了团队，他们也成为了跨职能团队。只有少数情况团队扩展能力是通过增加（测试）人员达到的。大多数时候增加测试技能是让现有团队成员在测试社区（其他团队拥有测试技能的人）帮助下来学习。
-
-As you have noticed before in this experience report, the organisation had component teams in place at the start. And that lead to lots of waste from a Lean perspective on things. While teams were growing their DoD they also became cross-functional in the sense that test skills entered the team. Only in edge cases this kind of extension of skills was done by adding (test) people to the team. Rather, most of the time adding test skills was handled by the existing team members learning more, with help from the Testing CoP (people in other regular teams, with a specialty in testing).
+你可能注意到在这个案例中，一开始组织是有组件团队的。这导致了许多精益视角中的浪费。当团队组件扩展他们的DoD，测试技能进入了团队，他们也成为了跨职能团队。少数情况下，团队扩展能力是通过增加（测试）人员达到的。大多数时候增加测试技能是让现有团队成员在测试社区（其他团队拥有测试技能的人）帮助下来学习。
 
 这曾是（现在依旧是）一个非常大的组织。这种情况下，LeSS不推荐来一次翻天覆地的变化，把组件团队变成特性团队，而更推荐递增式的方式，比如一次一个领域。
 
-This was (and is) a very large group. In this case, LeSS does not recommend a large big-bang component-team to feature-team change, but a more incremental approach, such as in one area at a time.
-
-但即使这样，说比做容易！这里有非常强的依赖关系，大量的技术债和许多其他因素阻碍我们说服组织开始变化。我记得我们只有2个团队以他们的方式贡献给平台团队。如同许多开源项目中的贡献一样，应用团队（交付到最终用户的团队）成员可以贡献平台代码，平台团队成员会评审并提交代码。这是巨大的改进，即使还不是完美的特性团队。但是这是LeSS书中描述的，扩展组件团队代码到更大“开发领域”的重要一步。
-
-But even that is easier said than done! There were strong dependencies, a huge technical debt and many other factors that didn’t help us to convince the organisation to start moving. As I remember we had only 2 teams that worked their way to “contribute” to what were called the platform teams. Contributions as they are happening in many open source projects, the people in the application teams (teams delivering to end users) were allowed to contribute to the platform source code and the people in the platform teams were reviewing and committing the code. This was a huge step forward but not what should be called perfect feature teams. But it was a step of creating broader-code component teams into a larger “Development Area” as described in the LeSS books.
+但即使这样，说总是比做容易！这里有非常强的依赖关系，大量的技术债和许多其他因素阻碍我们说服组织开始变化。我记得我们只有2个团队以他们的工作方式贡献给平台团队。如同许多开源项目中的贡献一样，应用团队（交付到最终用户的团队）成员可以贡献平台代码，平台团队成员会评审并提交代码。这是一项巨大的改进，即使还不是完美的特性团队。但这正如LeSS书中所描述的，是扩展组件团队代码到更大“开发领域”的重要一步。
 
 但是罗马不是一天建成的，这是朝着团队可以工作在更广范围代码的坚实一步。
 
-But Rome wasn’t build in a single day and this was a good step in the direction of teams working on broader code.
-
 ### C级别管理层变化与更多的教育
 
-当敏捷的思维方式和实践在组织中成长的时候，其它东西并不会停止。2010年我们不得不调整组织结构，这是由新的CEO和她的团队发起的。众所周知，新的管理层=新的规则！新的管理层并不会接手之前管理层发起的所有事情。这是我们最害怕发生的事，但是我们获得了新的机会！
+当敏捷的思维方式和实践在组织中成长的时候，其它东西并不会停止。2010年我们不得不调整组织结构，这是由新的CEO和她的团队发起的。众所周知，新的管理层 = 新的规则！新的管理层并不会接管之前管理层发起的所有事情。这是我们最害怕发生的事，但是我们获得了新的机会！
 
-While Agile mentality and practices were growing within the organisation, other things do not stop moving. In 2010 we had to deal with a reorganisation that was initiated with a new CEO and his direct reports. As many people know, new management = new rules of engagement! And taking over what previous management initiated is not very commonly done. We feared the worst but got new opportunities instead!
-
-重新调整组织架构后，与新的领导团队沟通多次敏捷的愿景，我们得到一个机会来教育整个领导团队，介绍我们做了什么，怎么做的以及为什么做。我们接受了挑战！整个敏捷教练团队一起工作这件事情上，在这个与高管团队2天的课程/工作坊中，每个人都参与了一部分。
-
-After the reorganisation took place and many conversations about our Agile quest with the new leadership team we received a new opportunity to have the entire leadership team educated or introduced in what we do, how we do it and why we do it. A challenge we did not refuse! The complete Agile coaching team worked together to do this work and all of us did some part of the 2-day courses/workshops with the executive team.
+重新调整组织架构后，与新的领导团队多次沟通敏捷的愿景，我们得到了一个机会来教育整个领导团队，介绍我们做了什么，怎么做的以及为什么做。我们接受了挑战！整个敏捷教练团队一起工作在这件事情上，在这个与高管团队2天的课程/工作坊中，每个人都贡献一己之力。
 
 与整个领导团队干了些什么呢？！想要在2天内带领一个多元的团队学习敏捷价值观，原则和流程，并让他们接受敏捷的思维方式几乎是不可能的……所以到底做了些什么？
 
-What do you do with a complete leadership team?! It is impossible to get a diverse team like this one through the complete jungle of Agile values, principles, and processes, and getting them to adapt to an Agile mindset in 2 days is also close to impossible… so what do you do?
-
-我们选择让高管团队自己变成为一个团队，并分享精益和敏捷在一个企业内意味着什么。第一天我们从自我介绍，每个人的经历和一些信任的练习开始，然后简短介绍了精益和敏捷的实践。
-
-We choose to work with the executive team on being a team themselves while providing some insights of what Lean and Agile mean within an enterprise organisation. On day one we started with introductions, journey lines of each participant and some exercises around trust, and then a very small part on an introduction to Lean and Agile practices.
+我们选择让高管团队自己变成为一个团队，并分享精益和敏捷在一个企业内意味着什么。第一天我们从自我介绍，每个人的经历和一些促进信任的练习开始，然后简短介绍了精益和敏捷的实践。
 
 第二天我们带着他们一起来玩瓶颈游戏，体会用约束理论来管理，并延伸到大家在组织中的角色如何更加融入到一个自组织的公司里（换句话说就是：更少的层级，更少的管理者，更少的经常性开支，更少的……）。这2天非常的艰难，但是十分值得，因为这2天让我们的工作更容易，可以继续解决障碍并持续交付客户价值。
-
-On day two we took them through the Bottleneck Game providing insight into Theory of Constraints as a way to manage and extended this with their and other people’s roles within the organisation and how that fits more to a self organizing company (in other words: less layers, less managers, less overhead, less…). It was a tough 2 days but worth it, as these 2 days made life easier for us and other people in the organisation to keep tackling impediments to growth and continuously delivering customer value.
 
 ### Half Way (and for this report the end)
 
