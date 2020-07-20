@@ -171,57 +171,35 @@
 
 ### 集成与完成的定义
 
-我们不得不处理大量的技术债和系统的复杂度，持续集成（CI）系统是必须品而非奢侈品！没有像样的CI系统，持续前进并保持较短的反馈周期是很困难的，CI系统对整个组织是十分有价值的，特别是大家使用同步的迭代（统一的起始时间），有的工作依赖于多个团队一起工作（因为还有组件团队）。
+我们不得不面对大量的技术债和解决方案的复杂度，持续集成（CI）系统是必须品而非奢侈品！没有像样的CI系统，持续改进并保持较短的反馈周期是很困难的，CI系统对整个组织是十分有价值的，特别是大家使用同步的迭代（统一的起始时间），有的工作依赖于多个团队一起工作（因为还有组件团队）。
 
-The fact that we had to handle a lot of technical debt and complexity within the solutions, a Continuous Integration (CI) system became a necessity and not a luxury! Without a decent CI system it would be difficult to keep things moving and keep feedback cycles short and valuable for the entire organisation that in that moment in time already had an agreement on synchronised iterations (same start day, same end day) in order to optimize the work on items with dependencies over multiple teams (which was consequence of still having component teams).
+在同样时间内拥有同样的目标：完成工作，团队更需要互相支持来解决依赖问题。这会产生另一个问题：需要合适的环境和工具以及必要的技能来快速验证交付物。
 
-在同样时间内拥有同样的目标：完成工作，团队更需要互相支持来解决依赖。这会产生另一个问题：需要合适的环境和工具以及必要的技能来快速验证交付物。
-
-Having the same goal: “get it done” at the same time period, teams were more eager to support each other in fixing dependencies and helping each other. This resulted in another problematic item: having the right environments and tools at hand to quickly validate deliverables and the necessary skills to get this done the right way.
-
-我们还雇佣了技术教练 （[Qwan.eu - Quality without a name](http://www.qwan.eu/)）使用团队的代码来提供培训和教练辅导。大家可以学会处理遗留代码，隔离新的开发，编写单元测试。由于不同团队进度不同，我们发现一些团队的持续集成比较成功，使用来Hudson，Maven，Fitness和其他简便易用的工具。有些团队甚至每个两周的迭代都能交付给他们的客户（医院）！考虑到软件不是部署在云上的，这点非常厉害，客户的数据量非常巨大，进入生产环境的审查非常严格，需要遵循ISO和FDA的监管要求。
-
-We hired extra “technical coaches” ([Qwan.eu - Quality without a name](http://www.qwan.eu/)) to provide training and coaching sessions at all different locations using the code base used by the teams. During those sessions people got more skilled handling a legacy code base, isolating new developments and properly unit testing their code. As different teams move at different paces we discovered some teams were quite successful with their own Continuous Integration setup using Hudson, Maven, Fitness and other easy and cheap tooling. Some were even delivering to their customers (hospitals) every 2 week iteration! This was amazing considering the software is not cloud based, the customer base is huge and very regulated to get things in a production environment within a hospital, still respecting ISO & FDA regulatory requirements.
+我们还雇佣了技术教练 （[Qwan.eu - Quality without a name](http://www.qwan.eu/)）通过使用团队的代码来提供培训和教练辅导。大家可以学会处理遗留代码，隔离新的开发代码，编写单元测试。由于不同团队进度不同，我们发现一些团队通过使用Hudson，Maven，Fitness和其他简便易用的工具来做持续集成比较成功。有些团队甚至可以每个两周的迭代都能交付给他们的客户（医院）！考虑到软件不是部署在云上的，能做到这点非常厉害，因为客户的数据量非常巨大，进入生产环境的审查非常严格，而且需要遵循ISO和FDA的监管要求。
 
 那么我们如何传播这样的知识呢？我们如何为整个组织的所有团队定义更一致的完成的定义（DoD）呢？
 
-So how do we get this kind of knowledge spread? How do we get to a more uniform Definition of Done (DoD) for all different teams within the organisation?
-
-我们并没有强制推行一个“完成”的标准，而是列了一个清单，上面有团队能够做到的和团队现在“完成”（在迭代内发布到生产环境）没有做到的。团队调查帮助我们了解工具，技能以及哪里需要投资和外部的帮助。此时我们帮助能力较弱的团队和较强的团队建立连接，促成跨团队辅导，提升组织整体的DoD。持续提升团队的DoD带来更好的质量，更快的交付到市场，降低来交付整体解决方案给客户的成本。
-
-Instead of pushing a certain level of “done” to the teams we made an inventory of what teams were able to do and what they are missing to get to “done” as being published into production within their iterations. The inquiry amongst the teams gave us information about tooling, about skills and where to invest and get external help. From that moment on we connected less skilled teams with more skilled teams to get cross team coaching arranged and increase the overall DoD. within the organisation. Having an increased DoD within the teams lead to better quality and faster time to market as well as a reduced cost to deliver the entire solution to the customers.
+我们并没有强制推行一个“完成”的标准，而是列了一个清单，上面有团队现在能够做到的和团队现在距离“完成”（在迭代内发布到生产环境）没有做到的。一个对团队进行的调查帮助我们了解关于工具，技能以及哪里需要投资和外部帮助的信息。从这时起我们帮助能力较弱的团队和较强的团队建立连接，促成跨团队辅导，提升组织整体的DoD。持续提升团队的DoD带来更好的质量，更快的交付到市场，降低交付整体解决方案给客户的成本。
 
 ### 实践社区
 
-除了建立CI系统的跨团队辅导外，架构的实践社区也开始了。这个社区的伙伴来自整个组织，他们讨论整体的技术问题，为大家建立指南来解决跨团队的技术问题。与社区类似，指南是一份持续完善的文档，不会有终止，大家常常会拿出来讨论，甚至在解决一些大的架构和技术问题的时候会删除文档。
+除了建立CI系统的跨团队辅导外，架构的实践社区也开始了。这个社区的伙伴们来自整个组织，他们讨论技术的整体问题，为大家建立指南来解决跨团队的技术问题。与社区类似，指南是一份持续完善的文档，大家常常会拿出来讨论，文档甚至在不同的团队一起解决一些大的架构和技术问题的时候会被删除。
 
-At the same time of setting up cross team coaching on a decent CI system an architecture Community of Practice (CoP) was started. This community of people from the entire organisation were discussing overall technical problems and produced guidelines for their fellow workers and themselves in order to solve some cross team technical issues. Similar as the community itself, the guidelines were a work document and a never ending story, every now and then agreements were reviewed, documents were removed while tackling some big and less big architectural and technical issues amongst all different teams.
+技术社区效果不错，类似地，我们发起了（甚至更好，我们指导其他人）分享和关注产品负责人问题的社区活动，关注Scrum Master问题的社区活动等等。有些社区坚持了下来，有些社区只活跃了几个月。所有社区都是源自于多团队的共性问题，没有继续的社区都是因为没有新问题冒出来，或者大家没有动力继续下去。
 
-技术社区效果不错，类似地，我们发起了（甚至更好，我们指导其他人）分享和关注产品负责人问题的社区活动，关注Scrum Master问题的社区活动等等。有些社区坚持了下来，有些社区只活跃了几个月。所有社区都是源自多团队的共性问题，没有继续的社区都是因为没有新问题冒出来，或者大家没有动力继续下去。
-
-As this seemed to work on a technical level we initiated (or better, we guided others) to have similar community activities sharing and caring about Product Owner issues, another one about Scrum Master issues, etc. Some of those communities of practice were there to stay, others had a life of a couple of months. All of them were born out of a common problem across multiple teams, the ones that discontinued were the ones where no new problems came to the surface that could justify its existence or where people were not motivated to put effort on it.
-
-另外，我们还发起了内部知识交接（IKT），最终也悄无声息了，但是我们在不同的实践社区从中借鉴了许多，分享大家学到以及感兴趣的内容。每两周的周五有一个预留的时间，所有地方的办公室都为实践社区预订了会议室，建立了WebEx视频会议。话题会事先发布，大家可以参加自己感兴趣的并对活动和内容提供反馈，从而进一步改善。
-
-An initiative called “IKT” or Internal Knowledge Transfer that died a silent death, got polished and re-used within the different CoPs to share their learnings amongst other interested people within the organisation. Every 2 weeks on friday there was a time slot reserved, meeting rooms booked on all locations and a WebEx video conference initiated for the CoPs to use. Topics were announced and people joined at own interest while providing feedback on the IKT itself as the content delivered in order to improve both.
+另外，我们还发起了内部知识交接（IKT），最终也悄无声息了，但是我们在不同的实践社区中借鉴了许多，分享大家学到以及感兴趣的内容。每两周的周五有一个预留的时间段，所有地方的办公室都为实践社区预订了会议室，建立了WebEx视频会议。话题会事先发布，大家可以参加自己感兴趣的并对活动和内容提供反馈，从而进一步改善。
 
 ### 开放空间
 
-我们需要处理的最大问题之一是在研发部门（教练辅导范围内）内整合业务部门（教练辅导范围外），这个问题在产品负责人实践社区活动中经常提出来讨论。这似乎解决的不是很好，开放空间被认为是可以推进的方式之一。我们曾经在小范围（一个办公室）使用过开放空间，但这次不一样（所有地方的办公室都参与了，参加人数50到80人可能更多）。
-
-One of the biggest issues we had to deal with was the integration of the business departments (outside scope of coaching) within the R&D departments (in scope of coaching) and this frequently came up during Product Owner CoP sessions as something to work on. Seemingly this didn’t work out very well and an Open Space was mentioned as one of the opportunities to get the ball rolling. We had used Open Space on a smaller scale before (at a single location) but not like this one (all locations involved, 50 to 80 people or maybe more).
+我们需要处理的最大问题之一是在研发部门（教练辅导范围内）内整合业务部门（教练辅导范围外），这个问题在产品负责人实践社区活动中经常被提出来讨论。这似乎解决的不是很好，开放空间被认为是可以推进的方式之一。我们曾经在小范围（一个办公室）使用过开放空间，但这次不一样（所有地方的办公室都参与了，50到80人甚至更多人参加了）。
 
 整个教练团队都参与进来了，发现让管理层接受开放空间并不容易！你不知道要讨论什么是什么意思？！你要各个办公室的人都飞过来？！你知道这要耗费多少成本？！你预期的结果是什么？！除了可以计算成本外，很多问题我们都回答不了，但我们还是成功说服了管理层。第一个问题解决了，接下来……
 
-The full coaching team took this up and discovered that selling an Open Space to management is not an easy job! What do you mean you do not know what will be discussed?! You want people flying in from all different locations?! Do you know how much this will cost?! What do you expect as result?! Except of calculating the actual cost we could not answer that many questions but still were convincing enough to get it going. Struggle one was done, up to the next…
-
-我们已经得到了管理层和产品负责人社区的支持，但是不意味着我们获得了整个组织的支持。我们需要令人十分信服的邀请大家，这样我们的目标受众才能十分有动力参加开放空间（和其他的会议一样），而不是强制参加的，这样不会有人抱怨谁没来。我们调研了一下大家多大程度可以自己做决定，因为知道自己可以做决定对大家是个很大的激励；还有促使他们来参加的问题都有哪些；需要发邀请给那些人……澄清了这些信息后，我们就有了下面的邀请函。
-
-Ok, we got management support and support from the Product Owner CoP but this does not mean that we got the support within the complete organisation. We would need a very convincing and clear invite that motivated our target audience to attend as this open space (much as any other meeting should be) was not mandatory at all and nobody would nag when somebody didn’t show up. We investigated to what extent people could make their own decisions as this would be motivating to know that they can decide; what were the issues that could trigger them to come; who would need to send the invite;… and many more items to clear out to get to a single page invite as shown below.
+我们已经得到了管理层和产品负责人社区的支持，但是不意味着我们获得了整个组织的支持。我们需要令人十分信服的邀请大家，这样我们的目标受众才能十分有动力参加开放空间（和其他的会议一样），而不是强制参加的，这样不会有人抱怨谁没来。我们调研了一下大家在多大程度上可以自己做决定，因为知道自己可以做决定对大家是个很大的激励；还有促使他们来参加的问题都有哪些；需要发邀请给哪些人……澄清了这些信息后，我们就有了下面的邀请函。
 
 ![open-space-invite.png](https://less.works/img/case-studies/agfa/xopen-space-invite.png.pagespeed.ic.AQ4Of4DhOy.webp)
 
-最后有63名参与者来到了波恩（德国），有些是波恩本地的，还有些来自特里尔（德国），维也纳（奥地利），波尔多（法国）和根特（比利时）。他们建立自己的日程（下面第二张图），这一天大家很开心，也很纠结，讨论了一些非常复杂的问题，结束时（如下图示）大家分享了一天的收获。
+最后有63名参与者来到了波恩（德国），有些是波恩本地的，还有些来自特里尔（德国），维也纳（奥地利），波尔多（法国）和根特（比利时）。他们建立了自己的日程（下面第二张图），这一天大家很开心，也很纠结，讨论了一些非常复杂的问题，结束时（如下图示）大家分享了一天的收获。
 
 At the end we got 63 participants coming to Bonn (DE), some from Bonn itself and others from Trier (DE), Vienna (AT), Bordeaux (FR) and Ghent (BE). They build their agenda for the day (second image below), they had fun, they struggled through some very complex issues and closed the open space (last image below) sharing learnings amongst each other.
 
