@@ -233,15 +233,11 @@
 
 第二天我们带着他们一起来玩瓶颈游戏，体会用约束理论来管理，并延伸到大家在组织中的角色如何更加融入到一个自组织的公司里（换句话说就是：更少的层级，更少的管理者，更少的经常性开支，更少的……）。这2天非常的艰难，但是十分值得，因为这2天让我们的工作更容易，可以继续解决障碍并持续交付客户价值。
 
-### Half Way (and for this report the end)
+### 半途（对于这份报告来说是尾声）
 
 我（Jurgen）在2011年离职去寻找更多的辅导经验。那时，这个400多人的组织还处在导入大规模Scrum的早期阶段，但绝对是朝着正确的方向。
 
-I (Jurgen) left the group in 2011 to pursue more coaching experiences. At that time, this large group of 400+ people was still in the early stages of Large-Scale Scrum adoption, but definitely headed in the right direction.
-
 2011年底，又举办了一次价值流图的工作坊，因为经过几年，很多东西发生了变化。下面是新的改进行动。
-
-At the end of 2011, another value-stream mapping workshop was held, as of course the context had changed during the years. New improvement actions were noted that lead to an overall process posted as presented below.
 
 ![value-stream-mapping-2.png](https://less.works/img/case-studies/agfa/xvalue-stream-mapping-2.png.pagespeed.ic.mhvat5ZBrc.webp)
 
@@ -250,9 +246,6 @@ At the end of 2011, another value-stream mapping workshop was held, as of course
 这算成功了吗？是……也不是……取决于你如何理解成功。
 
 但是……
-
-Has it been a success? Yes… No… It depends on what you understand as success.
-But…
 
 > “我们收获了很多！”
 >
