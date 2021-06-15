@@ -1,21 +1,21 @@
-## Port of Rotterdam HaMIS Development: a LeSS Perspective
+## 鹿特丹港口信息管理系统开发：从LeSS的角度看
 
-*This is a comparison of a Port of Rotterdam case with LeSS principles and organizational design. It is a story about four cross-functional feature teams (that also did operations; i.e., DevOps) delivering and managing a business-critical 24/7 harbour management  product used by vessel-traffic services operators and several other types  of users.*
+*这是一篇将鹿特丹港案例与LeSS原则以及组织设计进行比较的文章。它讲的是四个跨职能特性团队交付并运营一个至关重要的，7x24小时运转的港口管理产品的故事，该产品由船舶交通服务运营人员和其他几种类型用户使用。*
 
-## Context & Customer
+## 上下文与客户
 
-The Port of Rotterdam Authority has a turnover of approximately €600 million and a staff of 1,100 employees with widely varying commercial, nautical, and infrastructure-related responsibilities. The foremost customer for the [feature teams](/less/structure/feature-teams) is the Harbour Master division. This business unit ensures the smooth, clean, and secure handling of shipping traffic (annually, approximately 33,000 ocean-going and 110,000 inland vessels).
-鹿特丹港口管理局
+鹿特丹港口管理局营业额约为 6 亿欧元，拥有 1,100 名员工，负责商业、航海和基础设施相关等各不相同的职责。 [特性团队](/less/structure/feature-teams)的首要客户是港务部门（Harbour Master）。该部门确保了航运交通（每年大约 33,000 艘远洋船舶和 110,000 艘内河船舶）能平稳、流畅并安全地运作。
 
-The users are diverse. Some work for the Harbour Master division, some for other divisions, and some for the many partners of the Port of Rotterdam.
+用户多种多样。一些为港务部门工作，一些为其他部门工作，还有一些为鹿特丹港的众多合作伙伴工作。
 
 <figure>
   <img src="/img/case-studies/port-of-rotterdam-hamis/port-of-rotterdam.png" alt="port-of-rotterdam.png">
-  <figcaption>Figure 1: Actual HaMIS user interface displayed in the most used physical setup</figcaption>
+  <figcaption>图 1：在常用物理设备上显示的实际 HaMIS 用户界面</figcaption>
 </figure>
-At the center of the primary business processes sits a product called HaMIS (Harbour Management Information System). The idea for HaMIS was born many years ago with a need to replace an existing one. The previous system had served well the Port of Rotterdam for 20 years but the old technology and architecture had become a major obstacle to any significant improvement in business processes. The Port of Rotterdam was growing and changing and the old system could no longer meet requirements.
 
-The first goal was simple: minimize the negative impact of an outdated system. The secondary goal, on other hand, was a bit less clear. The Port of Rotterdam is growing, especially with the [Maasvlakte 2](http://en.wikipedia.org/wiki/Maasvlakte_2) expansion. The product must support ever-growing traffic in the harbour with the same amount of people. This implies intensified information exchange, better coordination between involved parties, and better support of main Harbour Master processes.
+主要业务流程的核心是一个名为 HaMIS（Harbour Management Information System，港口管理信息系统）的产品。 HaMIS 的想法诞生于很多年前，当时的需要是替换掉既有的。 既有系统已经在鹿特丹港很好地运行了 20 年，但旧的技术和架构已经成为对业务流程做出任何重大改进的主要障碍。 鹿特丹港正在发展和变化，既有的老系统已无法满足要求。
+
+产品的首要目标很简单：最小化过时的老系统带来的负面影响。 但另一方面，次要目标并不是太明确。 鹿特丹港正在增长，尤其是随着 [Maasvlakte 2](http://en.wikipedia.org/wiki/Maasvlakte_2) 的扩建。 该产品必须能在工作人员数量不变的情况下支持港口不断增长的交通情况。 这意味着需要加强信息交换、对相关利益方更好的协调，以及更好地支持港务部门的主要流程。
 
 ## How it all Began
 
