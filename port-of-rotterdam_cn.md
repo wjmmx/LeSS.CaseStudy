@@ -17,17 +17,17 @@
 
 产品的首要目标很简单：最小化过时的老系统带来的负面影响。 但另一方面，次要目标并不是太明确。 鹿特丹港正在增长，尤其是随着 [Maasvlakte 2](http://en.wikipedia.org/wiki/Maasvlakte_2) 的扩建。 该产品必须能在工作人员数量不变的情况下支持港口不断增长的交通情况。 这意味着需要加强信息交换、对相关利益方更好的协调，以及更好地支持港务部门的主要流程。
 
-## How it all Began
+## 一起是如何开始的
 
-The start of a complex process of making plans, budgeting, involving vendors and software integrators, and a dreadful procurement process followed the decision to replace the old system with HaMIS. This was suppose to be an outsourced development project. This process produced a lot of documents but no real code except for a proof of concept.
+在决定用 HaMIS 替换旧系统之后，就开始了制定计划、制定预算、涉及供应商和软件集成商的可怕的采购流程一系列复杂的过程。预期中这是一个外包开发项目。在这个过程中产生了很多文档，但除了概念性验证（POC）之外没有真正的代码产生。
 
-Eventually, the port made a courageous decision to bring the process to a full stop. The developing programme was too complex to ever be successful. The requirements were complex and the risk high. Too much remained unknown, and it would be big news in the Netherlands if the project failed. The consequences could be even worse if a faulty system would go into production.
+最终，港口管理局做出了一个勇敢的决定，全面停止这个过程。开发计划太复杂了，不可能成功。需求复杂且高风险。太多的不确定，而且如果项目失败，这将会是荷兰的大新闻。如果有缺陷的系统投入到生产，后果可能会更糟糕。
 
-But the existing system was approaching end of its life, so the Port of Rotterdam did not have any choice but to restart the project with one main goal for now: replace the current system with a new one providing at least the same capabilities. This time, Port chose to do internal product development over outsourcing to one or multiple system integrators.
+但现有系统已接近其使用寿命，因此港口管理局别无选择，只能以一个主要目标重启该项目：用至少提供相同功能的新系统替换当前系统。但这一次，港口管理局选择了作为一个内部产品开发，而非外包给一个或多个系统集成商。
 
-The new product development’s chosen approach was a combination of RUP and fake Scrum (though of course, it wasn’t officially labelled “fake”). While 3 “Scrum” teams of just programmers were having stand-up meetings and starting to try other practices, there were also 8 different kinds of architects and analysts in a separate team called AQUA (architecture and quality assurance).
+新产品的开发选择的方法是 RUP 和伪 Scrum 的组合（当然，它没有正式标记为“伪”）。虽然有 3 个完全由开发人员组成的“Scrum”团队开始举行站立会议并尝试其他实践，但是也存在在另一个独立的由 8 名不同类型的架构师和分析师组成的名为 AQUA（architecture and quality assurance）的架构和质保团队。
 
-It seemed that the original intention was **point kaizen**. Within the assumed restrictions of existing organisation, the group would do “Scrum on development level”. The work was prepared by a group of analysts and architects.
+这么看来，最初的意向是**改善**。在现有组织的各种假定限制内，准备实施“开发级别的 Scrum”。而这项工作是由分析师和架构师组成的一群人设定的。
 
 ### From Scrum-But-But to Scrum-But
 
