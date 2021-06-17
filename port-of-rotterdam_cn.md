@@ -9,7 +9,7 @@
 用户多种多样。一些为港务部门工作，一些为其他部门工作，还有一些为鹿特丹港的众多合作伙伴工作。
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/port-of-rotterdam.png" alt="port-of-rotterdam.png">
+  <img src="img/case-studies/port-of-rotterdam-hamis/port-of-rotterdam.png" alt="port-of-rotterdam.png">
   <figcaption>图 1：在常用物理设备上显示的实际 HaMIS 用户界面</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ This reorganisation was followed by strong push for self-management. What this p
 > LeSS rule: In LeSS, managers are optional, but if managers do exist their role is likely to change. Their focus is the value-delivering capability of the product development system rather than the specific scope of a product.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/hamis-timeline.png" alt="hamis-timeline.png">
+  <img src="img/case-studies/port-of-rotterdam-hamis/hamis-timeline.png" alt="hamis-timeline.png">
   <figcaption>Figure 2: HaMIS timeline</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Nevertheless, before any of these technical discussions, teams demanded not only
 The teams were *solving a problem*, and therefore not merely delivering a solution. This was most visible during a whole day Product Vision Box workshop, where teams intensively engaged with Harbour Master and other business people to define a product vision.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/product-vision-box.jpg" alt="product-vision-box.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/product-vision-box.jpg" alt="product-vision-box.jpg">
   <figcaption>Figure 3: Product Vision Box workshop, part of Initial Product Backlog workshop</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ All significant decisions, decisions with larger impact, were taken during two k
 * Chosen from a wall with subjects, where everyone at any time could place any to be discussed subject.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/technical-debt-wall.jpg" alt="technical-debt-wall.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/technical-debt-wall.jpg" alt="technical-debt-wall.jpg">
   <figcaption>Figure 4: Wall with technical debt or architecture related subjects</figcaption>
 </figure>
 
@@ -163,7 +163,7 @@ Every single aspect of architecture emerged gradually or changed. Everything was
 *In my experience, a complex architecture like this can definitely emerge as long as teams constantly spend a considerable amount of time on design and architecture through discussion and workshops.*
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/code-quality-audit.jpg" alt="code-quality-audit.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/code-quality-audit.jpg" alt="code-quality-audit.jpg">
   <figcaption>Figure 5: Result of an external code quality audit</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ During Sprint Reviews (one in which every team demonstrated their features), whe
 > LeSS rule : There is one product Sprint Review; it is common for all teams.  Ensure that enough stakeholders join to contribute the information needed for effective inspection and adaptation.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/sprint-review.jpg" alt="sprint-review.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/sprint-review.jpg" alt="sprint-review.jpg">
   <figcaption>Figure 6: Sprint Review</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ This shuffling was a **self-designing teams** session and was done in about 1-2 
 7. After this first team composition, each team discussed if they are well-balanced compared to other teams and potentially discuss this with other teams directly, and make adjustments accordingly.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/self-designing_teams.jpg" alt="self-designing_teams.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/self-designing_teams.jpg" alt="self-designing_teams.jpg">
   <figcaption>Figure 7: Self-designing teams session</figcaption>
 </figure>
 
@@ -324,7 +324,7 @@ The chosen items were then further discussed and planned by each team in their o
 In the first year, we held a Product Backlog refinement (PBR) workshop with all teams all together. Everyone knew quite well all items, but it didn’t feel efficient. There was also not much collaboration. Team members felt guilty to speak up in an already inefficient meeting.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/product-backlog.jpg" alt="product-backlog.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/product-backlog.jpg" alt="product-backlog.jpg">
   <figcaption>Figure 8: Product backlog, top priority items. Each lane are items chosen by a team. Columns are potential items for each Sprint</figcaption>
 </figure>
 
@@ -363,7 +363,7 @@ If action was given to a specific team, this team would usually place a post-it 
 > LeSS rule: An Overall Retrospective is held after the Team Retrospectives to discuss cross-team and system-wide issues, and create improvement experiments. This is attended by Product Owner, Scrum Masters, Team Representatives, and managers (if there are any).
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/overall-retrospective.jpg" alt="overall-retrospective.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/overall-retrospective.jpg" alt="overall-retrospective.jpg">
   <figcaption>Figure 9: Overall retrospective on a sunny day outside</figcaption>
 </figure>
 
@@ -372,7 +372,7 @@ If action was given to a specific team, this team would usually place a post-it 
 Every team used visual management for their Sprint Backlog and held their Daily Scrum in front of it. They were not held at the same time, to enable other teams to observe. There were often a few members from other teams.
 
 <figure>
-  <img src="/img/case-studies/port-of-rotterdam-hamis/sprint-backlog.jpg" alt="sprint-backlog.jpg">
+  <img src="img/case-studies/port-of-rotterdam-hamis/sprint-backlog.jpg" alt="sprint-backlog.jpg">
   <figcaption>Figure 10: Sprint Backlog of one team (this was not Daily Scrum :-))</figcaption>
 </figure>
 
