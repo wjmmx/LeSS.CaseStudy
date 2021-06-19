@@ -29,7 +29,7 @@
 
 这么看来，最初的意向是**改善**。在现有组织的各种假定限制内，准备实施“开发级别的 Scrum”。而这项工作是由分析师和架构师组成的一群人设定的。
 
-### From Scrum-But-But to Scrum-But
+### 从 Scrum-But-But 到 Scrum-But
 
 The RUP/Scrum-But-But combination was not really working. A coaching company was hired to help them learn how to change to Scrum. They provided Scrum trainings and hands-on coaching. But it wasn’t fully changed to Scrum yet. For example, the group decided to educate and appoint two people as the “Product Owner,” and in any event there was actually still a project and programme manager making the decisions.
 
