@@ -43,64 +43,64 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 改善在进行并逐步靠近Scrum，成果也不断地展现出来。迭代是3周，所有的Scrum会议也都被践行。最为重要的是，每个迭代后，一个**单一的潜在可交付产品增量**被发布到一个预生产环境，然后一些关键客户会试用新功能。
 
-### Improving from Scrum-But to Scrum
+### 从 Scrum-But 到 Scrum
 
-This is the moment I was hired to be architect and agile coach, and when the coaching company left.
+这个时候我作为架构师兼敏捷教练入场，同时那家教练服务公司离开了。
 
-Although they called me agile coach and architect, I was in reality intending to work as a Scrum Master to help introduce real Scrum into the organizational design. Each team had officially a Scrum Master, but in reality they were just team members that spent more time on facilitation than other team members.
+尽管他们叫我敏捷教练和架构师，但我那时的意图是作为Scrum Master来引入真正的Scrum推动组织设计。每个团队都有一个任命的Scrum Master，但实际上他们只是比其他成员多承担了一些引导工作的普通团队成员。
 
-> LeSS rule: Scrum Masters are responsible for a well-working LeSS adoption. Their focus is towards the Teams, Product Owner, organization, and development practices. A Scrum Master does not focus on just one team but on the overall organizational system.
+> LeSS规则：Scrum Master负责一个运转良好的LeSS导入。他们关注于团队、产品所有人、组织和开发实践。一个Scrum Master不只关注一个团队，而是整个组织系统。
 
-The first thing we did was dismantling of the AQUA team with the goal to have *system kaizen*. Dismantling happened by gradually moving decision making to feature teams. Also, the remaining AQUA team members were not clinging to this old groups. Nevertheless, some of them did want to keep their authority over analytical, architectural, and quality assurance areas despite elimination of the AQUA team.
+我们做的第一件事是以“系统改善”为目标，逐步废除AQUA团队。废除工作通过逐步把决策权转移到特型团队来进行。此外，剩余的AQUA团队成员并没有坚持待在老的团队中。尽管如此，他们中有些人在AQUA团队被废除后仍然想保留他们在分析、架构及质量保证领域的权威性。
 
-By the end, there was nothing left to do in that team. In other words, real Scrum feature teams that do everything end-to-end had been successfully established. And there was not anyone in between the feature teams and users. The AQUA team members either left, became part of feature teams, or were assigned to other tasks outside product development organisation.
+最后，没有什么活儿留给那个团队做了。换句话说，真正的可以端到端交付的Scrum特性团队成功地建立起来了。在特性团队与用户之间也没有任何人了。AQUA团队成员要么加入特性团队，要么就是做一些产品开发组织之外的任务。
 
-The knowledge about requirements and architectural concerns, experience, new insights, and constant changes in business requirements all started to happen within the teams.
+与需求和架构关注点相关的知识，经验，新的洞察以及业务的持续改变都始于团队。
 
-The challenging part of this transition was the AQUA team members’ specific titles and roles. These were removed completely after quite a lot of effort. The titles and roles, such as different analysts and architects, were twofold. Their official organisational title, given by their employer and HR has never explicitly changed. At the same time, these titles and roles became, after organisational change, meaningless in the perspective of HaMIS product development.
+这一转变真正有挑战的地方是AQUA团队成员的特定头衔和角色。在经过很大的努力后，它们才被完全移除。这些头衔和角色，如不同的分析师和架构师，是双重的。他们真正的在组织中被公司和HR授予的岗位从来没有被正式地改变过。与此同时，在组织变革后，这些岗位和角色从HaMIS产品开发的角度看已经变得没有意义了。
 
-Occasionally, this created a minor problem when line organisation was trying to influence product development through the roles people had. An example is discussion about “transfer to operations once project is finished”. In reality, there was no real project anymore, but continuous product development and management. A slightly bigger challenge was when line management was trying (without succeeding) to assign tasks to people, despite the fact they were fully assigned to HaMIS product development. Also, there were several KPI's which were linked through annual appraisals. A few team members did not get the full raise because they did not achieve their KPI's.
+有时，当直线部门试图通过人们的角色来影响产品开发时，这会产生一个小问题。一个例子是对“项目完成后移交到运营”的讨论。但实际上，项目已经不在存在，只有持续的产品开发和管理。另一个稍大一点的挑战是直线经理试图（并没有成功）将任务分配给他的下属，尽管他们已经完全分配给 HaMIS 产品开发。此外，还有一些KPI需要通过相关年度评估。一些团队成员因为没有达成他们的KPI而获得全部加薪。
 
-The root cause of these problems was an ongoing matrix management structure, where people are officially reporting to their functional line manager AND the project manager. The organisational change has removed reporting to project manager, but reporting to functional line management still remained a bit in the background. The problem was limited to just a few people, and because of typical Dutch corporate culture and great overall results, they were able to simply ignore line management influence.
+这些问题的根本原因是持续存在的矩阵管理结构，从官方定义来说人们汇报给他们的直线职能经理及项目经理。组织变革移除了对项目经理的汇报，但是对直线职能经理的汇报仍然保留在后台。这个问题只是影响着少数的人，并且由于典型的荷兰企业文化以及优秀的总体成果，他们能够简单地忽略直线经理的影响。
 
-At this point in time, we still had an active project manager who was gradually learning to let go. He was still expressing what he wanted, rather than full control being in the hands of a true Product Owner.
+在这个时间点上，我们仍然有一个活跃的项目经理正在学习着如何放手。他仍然可以表达他想要什么，而非所有的控制都在一个真正的产品负责人手中。
 
-One of the pseudo Product Owners started to behave as and was treated as a real Product Owner. Both of them came from The Harbour Master division (business). [The real Product Owner](/less/framework/product-owner) was also the one who did prioritization and Product Backlog updates. He had enough authority to make product-related decisions. The second one was officially still called a “Product Owner”, but in reality wasn’t seen as one. Unfortunately, he continued to act as intermediary (a business analyst) between teams and users, increasing handoff, talking to people, and collecting feedback. This problem was never completely resolved, only reduced in time. The lesson I learned afterwards is the significant disadvantages of having pseudo Product Owners that are just analysts in between teams and users. This is something I (incorrectly) thought at first was an acceptable compromise, not foreseeing the complications it would cause
+两个伪产品负责人中的一个开始表现得像一个真正的产品负责人，他也被看作是真正的产品负责人。两个产品负责人都是从港口管理（业务）部门来的。[真正的产品负责人](/less/framework/product-owner)也是那个做优先级排序以及产品代办列表更新的人。他拥有足够的权力来做产品相关的决策。第二个人官方也被叫做产品负责人，但是实际上并不被视为“产品负责人”。不幸的是，他持续地充当团队和用户之间的中间人（业务分析师），增加了交接，与人们谈话并且收集反馈。这个问题从来没有被完全解决过，只是及时减少其影响。我后来学到的教训是拥有一个待在团队和用户之间做分析师的伪产品负责人存在非常重要的缺点。这是我曾经在一开始时（错误地）以为这是一个可接受的妥协，并没有预见到它会带来的复杂度。
 
-> LeSS rule: There is one Product Owner and one Product Backlog for the complete shippable product.
+> LeSS规则：对整个可以交付的产品有一个产品所有人和一个产品待办列表。
 
-During this phase, the real Product Owner was taking care of ordering the Product Backlog, and collaborating with teams by explaining items and providing answers to any questions. Unfortunately, he also continued to act as an intermediary between the teams and stakeholders sometimes, rather than connecting the teams and stakeholders directly. Another major weakness from the Product Owner was a lack of a clearly expressed vision and direction. The problem is eventually solved with a two-day Initial Product Backlog workshop, which is more extensively explained later-on.
+在这个阶段真正的产品负责人负责对产品待办列表的排序，并且通过澄清条目及提供对任何问题的答案与团队合作。不幸的是他仍然持续地充当一个团队与其他利益相关者的中间人，而不是去直接连接团队和利益相关者。
 
-> LeSS rule: The Product Owner shouldn’t work alone on Product Backlog refinement; he is supported by the multiple Teams working directly with customers/users and other stakeholders.
+> LeSS规则：产品所有人不应该独自工作于产品待办列表的梳理；他通过让多个团队直接和客户／用户以及干系人工作来获得支持。
 
-In the first five months after this more meaningful organizational design change, the top items on the Product Backlog were not replacements of old features, but completely new features. The consequence of this was that the technical implications were fairly simple and the team could deliver quickly. Also, users were eager to start playing with something new of real value in HaMIS, something they didn’t have in the old system.
+在这次更具意义的组织设计变革之后的最初五个月里，在产品待办列表上高优先级条目已经不再是老功能的替代，而是全新的功能。这一结果带来的技术含义就是相当简单，团队可以快速交付。此外，用户也更期待着去使用这些HaMIS中的具有真正价值的，在老系统中没有的新功能。
 
-Before all this, while sinking in an overloaded RUP and SAFe boat, attention focused on delivering all kinds of documents and making too many speculative architectural decisions. In those first Sprints after the removal of RUP and the initiation of Scrum training, the focus had moved towards embedding the agile mindset. Everyone was talking about this thing called Scrum and how it works. Some were skeptical (e.g., about continuous experimentation), but most were eager to try and learn. Also, every aspect of the development life cycle had started to improve. Continuous integration, TDD, ATDD, pair programming, and other XP practices became gradually embedded. Some might say that despite the effort spent on learning, the teams were already delivering new features into production according to a **unified Definition of Done**, after every Sprint. But I would rather say that because of the effort spent on learning, the teams were delivering new features every Sprint!
+在这一切之前，当陷在超载的RUP和SAFe船里时，注意力集中在交付各种文档和做出太多推测性的架构决策上。在移除RUP并开始Scrum后的第一个迭代中，焦点已经转向嵌入敏捷思维。每个人都在谈论这个叫做Scrum的东西以及它是如何工作的。有些人持怀疑态度（例如，关于持续的实验），但大多数人都在渴望尝试和学习。此外，开发生命周期的每个方面都已开始改善。持续集成、TDD、ATDD、结对编程和其他XP实践逐渐被嵌入。有人可能会说，尽管在学习上花费了精力，但团队已经在每个Sprint之后，根据**统一的完成的定义**将新功能交付到生产环境中。但我更愿意说，由于努力学习了，团队在每个Sprint都提供了新功能！
 
-And the check-out and check-in cycle time started to improve from once a day per (pair of) developer to about once every hour. In short, the group was starting to move towards real continuous integration (CI). Developers were continuously extending quality checks during the local build. Eventually, even a slightly-too-complex function would fail the build. The product was always ready for a release. It became a practice to bring a tasty cake for everyone, whenever someone was rushing things out without running these checks. This didn’t include breaking the build because of frequent integration. After some time, the build system became a multi-stage CI system with 3 stages driven mostly by automatic promotion and some parallel processing. Eventually, there was definitely a culture of behavior change by developers to integrating continuously (that is, real continuous integration) , and not just using a build server and incorrectly calling  that “CI”.
+每个（对）开发人员代码的签出和签入周期时间开始从每天一次改进为大约每小时一次。简而言之，团队开始走向真正的持续集成（CI）。开发人员在本地构建期间不断扩展质量检查。最终，即使是稍微复杂的函数也会使构建失败。产品始终处于准备好发布的状态。每当有人在没有运行这些检查而匆忙做事时，为大家带来美味的蛋糕成为一种惯例。这不包括由于频繁集成而中断构建的时候。过了一段时间，构建系统变成了一个多阶段CI系统，3个构建阶段主要由自动发布到下一环境和一些并行处理所驱动。最终，开发人员形成了一种行为改变的文化，即持续地集成（这才是真正的“CI”），而不仅仅是使用了构建服务器就错误地认为这就是“CI”。
 
 ### LeSS
 
-*Because LeSS (Large-Scale Scrum) is a straightforward, simple, consistent extension of Scrum when working with multiple teams, it is probably common that various groups have re-created most or all of LeSS, even if unfamiliar with the existing LeSS books (by Larman and Vodde) published in 2008 and 2010. And that was our case when we first started this journey in 2010 (Scrum introduction at Port). So it is interesting to me to reflect on what we did, now that I have a full understanding of LeSS, to compare and contrast our case with standard LeSS.*
+*因为LeSS（大规模Scrum）是与多个团队合作时对Scrum的直接、简单、一致的扩展，所以即便不熟悉2008年和2010年出版的LeSS书籍（由Larman和Vodde出版），各个小组重新创建大部分或全部LeSS可能很常见。这也是我们在2010年第一次开始这个旅程时的情况（Scrum在港口的引入）。因此，现在我对LeSS有了充分的了解，反思我们所做的工作，将我们的案例与标准LeSS进行比较和对比，这对我来说很有趣。*
 
-So “[basic LeSS](/less/framework/index)” was starting to take a form, although we never mentioned the LeSS framework. The ways of working and practices were introduced based on previous experience, but even more as **experiments**. These were the most important principles in the beginning:
+因此，“[LeSS]（/less/framework/index）”开始形成，尽管我们从未提到过LeSS框架。工作方式和实践是根据以前的经验引入的，但更多的是作为**实验**。这些是开始时最重要的原则：
 
-* Whole product focus with potentially shippable increment after every Sprint
-* As close to the customer as possible
-* Everyone should be involved in the whole product focus, remove any unnecessary roles and individual responsibilities
-* Bring challenges to the teams, don’t try to solve them outside
+* 整个产品聚焦在每个迭代产出潜在可交付的增量
+* 尽可能地离客户近
+* 每个人都聚焦在整体产品上，移除任何不必要的角色和职责
+* 让团队直面挑战，不要试图在团队外解决它们
 
-There was definitely no need for the [LeSS Huge framework](/less/less-huge/index). Before reorganisation, there were 3 component teams, 1 architecture / QA (AQUA) team, and 1 operations team. After reorganisation, we had 3 feature teams. Much later, this was extended to 4 feature teams, as explained further in this account.
+[LeSS巨型框架](/less/less-huge/index)在这里绝对不需要。在重组之前，有3个组件团队，1个架构/QA（AQUA）团队和1个运营团队。重组后，我们有3个特性团队。很久以后，扩展到了4个特性团队，如后文解释的那样。
 
-> LeSS Rule: The majority of the teams are customer-focused feature teams.
+> LeSS规则：多数团队都是以客户为中心的特性团队。
 
-This reorganisation was followed by strong push for self-management. What this push meant is explained in further sections. The project managers gradually stopped their interference, they stopped making any decisions or giving any work and instead were just arranging budgets and communicating with the rest of organisation, which didn’t understand well enough how this Agile development was working. Idealy, this work should have been done by the Product Owner, but he lacked the influence that the project managers had. Although the change in attitude of project managers was slow, it was painless. The main reason was that one of the project managers was the first and main advocate for Scrum. He is now not a project manager anymore.
+在这次重组之后，大力推动自管理。这个推动的含义将在后文解释。项目经理逐渐停止了他们的干预，他们停止了做出任何决策或分配任何工作，而只是安排预算并与组织的其他不太了解敏捷开发是如何工作的成员进行沟通。理想情况下，这项工作应该由产品负责人完成，但他缺乏项目经理的影响力。虽然项目经理态度的转变很慢，但却是无痛的。主要原因是其中一位项目经理是Scrum的第一个也是主要的倡导者。现在，他不再是项目经理了。
 
-> LeSS rule: In LeSS, managers are optional, but if managers do exist their role is likely to change. Their focus is the value-delivering capability of the product development system rather than the specific scope of a product.
+> LeSS规则：在LeSS里，管理者是可选的，但是如果管理者还存在的话他们的角色可能会改变。他们的焦点从管理日常产品工作转向改进产品开发系统的价值交付能力。
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/hamis-timeline.png" alt="hamis-timeline.png">
-  <figcaption>Figure 2: HaMIS timeline</figcaption>
+  <figcaption>图标 2: HaMIS 时间表</figcaption>
 </figure>
 
 ## The Product
