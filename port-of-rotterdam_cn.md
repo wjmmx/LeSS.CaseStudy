@@ -31,13 +31,17 @@
 
 ### 从 Scrum-But-But 到 Scrum-But
 
-The RUP/Scrum-But-But combination was not really working. A coaching company was hired to help them learn how to change to Scrum. They provided Scrum trainings and hands-on coaching. But it wasn’t fully changed to Scrum yet. For example, the group decided to educate and appoint two people as the “Product Owner,” and in any event there was actually still a project and programme manager making the decisions.
+ RUP和Scrum-but-but的组合体并不真正地发挥作用。一家教练服务公司被引入来帮助他们学习如何转向Scrum。这家公司提供了Scrum培训和具体的工作辅导。但还是没有转为全面使用Scrum。比方说，团队决定培养并任命两个人为“Product Owner”，同时，任何事件中实际上都是一个项目及程序经理做决策。
 
-Because Scrum had been incorrectly introduced as a practice for the teams rather than a *change in the organizational design* that impacted existing groups and manager roles, there was still an AQUA team, and the “Scrum” teams were not cross-functional, self-managing, nor were the people demonstrating multi-learning and multiple skills. And there was still a project manager responsible for “meeting the targets” rather than a real Product Owner. Also a number of SAFe practices, such as “architectural runway”, were discussed or introduced.
+ 译者注：
+ 1. RUP：https://zh.wikipedia.org/wiki/统一软件开发过程
+ 2. Scrum-But-But：Scrum-But是指团队无法全面使用Scrum进行产品开发的原因。这些原因有特殊的句法结构来描述，“我们使用Scrum，But......”，Scrum-But也由此得名。作者这里的Scrum-But-But是指比Scrum-But还要更低一个层次的状态。
 
-The coaching company introduced many team and technical level practices. For example, after a check-in (trunk-based integration using SVN), everything was built by a build server (Jenkins) in which Sonar was used for quality checks. The tests included unit tests, a handful of Fitnesse tests and record and playback tool for testing GUI. The last one was completely removed in a later stage. Also, the automated tests were not yet part of automated build at this stage.
+Scrum作为实践而非会影响既有团队和经理角色的*组织设计变革*不正确地导入。AQUA团队仍然存在，并且“Scrum”团队既非跨职能、自管理，也不能展现多面学习和多技能。没有一位真正的产品负责人，项目经理仍然存在，为“达成目标”负责。一些SAFe实践，比如“架构跑道”，仍然被讨论或引入了。
 
-Things were improving and something closer to Scrum and its results was emerging. Sprints were 3 weeks, and all Scrum meetings were practiced. More importantly, after each Sprint, a **single potentially shippable product increment** was delivered to a production-beta environment where some key users tried new features.
+教练辅导公司引入了许多团队及技术层面的实践。比如，一次代码提交后（使用SVN，基于主干的集成），构建服务（Jenkins）就开始了包含使用Sonar进行质量检查的构建。测试包含单元测试，少量的Fitnesse测试以及通过录制播放工具进行界面测试。后来后者被完全弃用。此外，在这个阶段自动化测试还没有作为自动化构建的一部分。
+
+改善在进行并逐步靠近Scrum，成果也不断地展现出来。迭代是3周，所有的Scrum会议也都被践行。最为重要的是，每个迭代后，一个**单一的潜在可交付产品增量**被发布到一个预生产环境，然后一些关键客户会试用新功能。
 
 ### Improving from Scrum-But to Scrum
 
