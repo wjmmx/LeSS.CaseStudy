@@ -103,77 +103,79 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
   <figcaption>图 2: HaMIS 时间表</figcaption>
 </figure>
 
-## The Product
+## 产品
 
-The first version of product was already partially implemented before the Scrum introduction. The fundamental technical elements were use of Java, a standalone Java client written in Swing in combination with JIDE, an IBM WebSphere platform on the server side, and SOAP over HTTP as the protocol between client and server. There was even a SOA with an enterprise service bus. Design and layering of the backend was based on standard JEE patterns (service, business, data). A separate server-based solution with Erdas Apollo software delivered geospatial data to clients. Altogether, this was definitely not the simplest possible solution, it was over-designed. In fact, the front-end part was based on a proof of concept, which unfortunately was not thrown away. Nevertheless, with a few adjustments it was workable in the first Sprints.
+在Scrum引入之前，产品的第一个版本已经部分实现。基本的技术元素包括使用 Java，一个用 Swing 编写的独立 Java 客户端与 JIDE 结合使用，服务器端使用 IBM WebSphere 平台，以及基于 HTTP 的 SOAP 作为客户端和服务端之间的协议。甚至还包括一个带有企业服务总线的 SOA（Service Oriented Architecture，面向服务的架构）。后端的设计和分层基于标准的 JEE 模式（服务、业务、数据）。通过使用Erdas Apollo软件的基于服务的独立解决方案向客户提供地理空间数据。总的来看，这绝对不是最简单的解决方案，它被过度设计了。事实上，前端部分是基于概念验证（POC）时的实现，不幸的是，这个实现并没有被扔掉。不管怎样，经过一些调整，它在第一个迭代中是可行的。
 
-Almost all of these original choices were changed significantly or removed in the following years, replaced with simpler solutions as the number of features and intrinsic complexity grew. The statement “We need to choose complex technology in order to anticipate complex requirements later on!” proved to have the opposite outcome. The chosen technologies were not needed, so other technologies replaced them along the way.
+几乎所有的原始选择在后续的几年中都经历了重大改变或者被废除，随着不断增加的功能数量和内部复杂性，取而代之的是更简单的方案。“我们需要选择复杂技术以应对后续更为复杂的需求”这样的观点被证明产生了相反的结果。所选择的技术不再被需要，其它技术就逐步取代了它们。
 
-Similarly, the original overall design was put aside after the reorganisation into cross-functional feature teams. Focus has moved towards *actual code* and therefore an already-implemented design.
+与此类似，原有的总体设计在重组为跨职能特性团队后放到了一边。焦点转移到了*实际代码*，设计已经体现其中。
+  
+团队仍然聚焦在架构和设计上。推动着架构不断演进的是被请求的特性而非推测。对团队来说，这形成了以下几个重要的设计规则：
 
-Architecture and design still had the teams’ full attention. The main driving forces in evolving the architecture were requested features, rather than speculation. This translated into following key design rules for the group:
+* 如果这不是当前迭代或下一迭代的业务需求，那么我们不用去做决策，设计或构建。可以对此进行讨论，但是简短点就好。
+* 我们必须尽快替换掉老系统。
 
-* If it is not needed by business in this or the next Sprint, than it is not decided upon, designed, or built. It might be discussed, but only briefly.
-* We must replace the old system as soon as possible.
+这里最大的挑战并不是设计技术和知识，而是如何从业务专家和用户那里得到清晰的信息。复杂的主题意味着没有多少人能够解释清楚外面的事物是如何运作的。
 
-The biggest challenge here was not the technology and knowledge of design techniques but getting clear information from domain experts and users. The complex subject matter meant that not many people could explain how things really worked outside in the real world.
+寻求简单解决方案的思路逐渐嵌入到每个参与者的心中。这种想法体现在不断地质疑和替换已经实现的选择，以及在澄清和估算大大小小的条目时始终选择最简单的选项。其中一个例子是使用 Hessian 二进制协议替换客户端和服务端之间的基于 HTTP 的 SOAP 接口。这也就意味着删除大量代码，这感觉真的很好。
 
-Thinking in simple solutions was gradually embedded in the minds of everyone involved. This thinking manifested in continuously questioning and replacing already implemented choices and always choosing the simplest possible option while clarifying and estimating big and small items. An example was replacing the SOAP over HTTP interface between the client and server with Hessian binary protocol. This primarily meant removing a lot of code, which felt really good.
+然而，在进行任何这些技术讨论之前，团队不仅要知道后续迭代中要实现的需求条目，而且还要了解它们在上下文中的合理解释，它们背后的业务流程，以及可能影响做出选择的其它任何需求。
 
-Nevertheless, before any of these technical discussions, teams demanded not only requirements behind items for the following Sprint but also a proper explanation of context, the business process behind items, and any requirement that might impact the choices at hand.
-
-The teams were *solving a problem*, and therefore not merely delivering a solution. This was most visible during a whole day Product Vision Box workshop, where teams intensively engaged with Harbour Master and other business people to define a product vision.
+团队是在解决问题，而非仅仅是交付解决方案。这在一整天的产品愿景工作坊上最为明显，团队与港务长及其他业务人员密切配合，以定义产品愿景。
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/product-vision-box.jpg" alt="product-vision-box.jpg">
-  <figcaption>Figure 3: Product Vision Box workshop, part of Initial Product Backlog workshop</figcaption>
+  <figcaption>图 3: 产品愿景工作坊，初始产品待办列表工作坊的一部分</figcaption>
 </figure>
 
-The results of this workshop were a shared vision and high-level items for the Product Backlog for the coming 2 years. There were many more, different kinds of workshops after this one.
+这次工作坊的成果是未来两年产品待办列表的共同愿景和高级别条目。在这次之后还有更多不同类型的工作坊。
 
-Instead of spending a lot of time on choosing a grand new technology to serve for the next 20 years, teams refocused on understanding which requirements would fulfil design or technology choices in the present. When requirements were currently lacking or much further in the future, teams would take these into consideration:
+团队没有花大量的时间来选择能为未来二十年服务的宏伟新技术，而是重新专注于理解哪些需求将满足当前的设计和技术选择。当目前缺乏相关需求或者需要在未来进一步澄清时，团队将考虑：
 
-* Is the current choice going to prevent us from meeting those requirements in future,
-* and will it be costly to replace this choice?
+* 目前的选择是否会阻止我们在未来满足这些要求，
+* 取代这个选择会很昂贵吗？
 
-If no, it becomes a waste of time to further analyse the choice.
+如果不会的话，进一步的分析就成了浪费。
 
-In other words, we spent huge amounts of time on understanding short-term and long-term business requirements but very little or no time on the design and architecture of things not used after following Sprint.
+换句话说，我们花费了大量的时间在理解短期和长期业务需求上，但在下个迭代后就不使用的东西的设计和架构上花费了很少或根本没有花费时间。
 
-All significant decisions, decisions with larger impact, were taken during two kinds of **cross-team design workshops**:
+所有重要的决策，有很大影响的决策，都在两类**跨团队设计工作坊**中做出：
 
-* Triggered by a just-in-time need from any team, for the current or the next sprint
-* Chosen from a wall with subjects, where everyone at any time could place any to be discussed subject.
+* 由任何团队的即时需要出发，用于当前或下一个迭代
+* 从主题墙上选择，任何人任何时间都可以贴上任何的讨论主题到墙上
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/technical-debt-wall.jpg" alt="technical-debt-wall.jpg">
-  <figcaption>Figure 4: Wall with technical debt or architecture related subjects</figcaption>
+  <figcaption>图 4: 技术债或架构相关主题墙</figcaption>
 </figure>
 
-Such sessions were timeboxed at one hour and usually followed diverge / converge setup. After one hour, teams either made a decision or concluded to do more research.
+这类会议的时间盒通常是一个小时，一般遵循分散/收敛的会议讨论结构。一小时后团队或者做出决策，或者决定要进行更多的研究。
 
-All design decisions were made by teams. In the beginning, the most experienced team members made these decisions. This caused problems in team dynamics. Design discussions resulted in decisions and whiteboard sketches. Since these drawings largely defined the tasks belonging to a story, the other team members felt disconnected from what was happening.
+所有的设计决策都是由团队做出。一开始，是由最有经验的团队成员来做这些决策。这在团队动态上带来了一些问题。设计相关的讨论通常产出决策和白板上的草图。由于这些图很大程度上定义了属于一个故事的任务，其他的团队成员就会感觉到脱节。
 
-> LeSS rule : Cross-team coordination is decided by the teams.
+> LeSS规则：跨团队协调由团队决定。
 
-Eventually, design and architecture discussions became a team and cross-team effort. They usually started during the [Sprint planning One](/less/framework/sprint-planning-one), but the real work was done just before a team started to work on a specific item. When item required coordination with other teams, the dependency was resolved in a natural way by simply talking to each other directly. There was no cross-team coordination in any way outside the teams.
+最终，设计和架构相关讨论成为了团队和跨团队的工作。他们通常在[迭代计划会议第一部分](/less/framework/sprint-planning-one)开始，但真正的工作是在某个团队工作在一个特定条目之前完成的。当某个条目需要与其他团队进行协调的时候，只需直接交谈，即可自然的解决依赖问题。不需要任何在团队之外的跨团队协调。
 
-> LeSS Guidance: Coordination via Open Space, joining other teams’ Daily Scrum, Scrum of Scrums, multi-team workshops, or “simply” working in the same space, talking to each other, and using visual management.
+> LeSS指南：通过开放空间进行协调，加入其他团队的Daily Scrum、Scrum of Scrums、多团队工作坊，或“简单”地在同一空间工作，相互交谈，并使用视觉化管理。
 
-On a more detailed level, a Sprint may had one discussion for each item if needed. The rule of thumb was that a discussion ended when all team members understood the design and could participate in its implementation. The more experienced developers were still the most active during these sessions. Other team members usually asked questions, which the experienced developers answered. All teams were invited to participate in any decisions with big impact.
+在更详细的层面上，如果需要的话一个迭代可能会举办一次针对每一个条目的讨论。经验法则是当所有的团队成员都理解了设计，并可以参与具体的代码实现时，这个讨论就结束了。在这些会话中，更有经验的开发成员仍然是最活跃的。其他团队成员通常是提问题，然后经验丰富的开发成员来回答问题。所有团队都被邀请参加具有重大影响的决策和讨论会议。
 
-Every single aspect of architecture emerged gradually or changed. Everything was introduced only when needed, except for the planned, gradual replacement of many obsolete technologies. In the beginning, only one server instance provided services to clients, and the database and the domain model contained only those classes needed for the stories built at that moment. We had a [walking skeleton](http://alistair.cockburn.us/Walking+skeleton) with only one leg. It could jump and that was good enough at that moment. Once we realised it would probably fall because of additional weight, we introduced another leg, and a cluster was born.
+架构的每个方面都在逐步地演进或变化。除了有计划地逐步替换过期的技术外，一切都是仅在需要时才引入。一开始， 只有一个服务器实例为用户提供服务，数据库和领域模型都只包括当时所构建的故事所需要的类，我们有只有一条腿的[行走骨架](http://alistair.cockburn.us/Walking+skeleton)。它可以跳跃，在那时这已经足够好了。一旦我们意识到由于额外重量导致失败的时候，我们引入了另外一条腿，一个集群由此诞生。
 
 *In my experience, a complex architecture like this can definitely emerge as long as teams constantly spend a considerable amount of time on design and architecture through discussion and workshops.*
 
+*根据我的经验，只要团队持续地通过讨论和工作坊投入相当大的时间在设计和架构上，一个这样的复杂架构就一定可以涌现出来。*
+
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/code-quality-audit.jpg" alt="code-quality-audit.jpg">
-  <figcaption>Figure 5: Result of an external code quality audit</figcaption>
+  <figcaption>图 5: 一次外部代码质量审计结果</figcaption>
 </figure>
 
-A remarkable achievement was that teams were improving the overall quality, while intrinsic complexity of the product was growing. The quality was continuously monitored with Sonar and many related tools. At some point, an external company also performed an audit and graded this system as top 5% of all systems they have measured worldwide. The major driving force for high quality is a strong sense of craftsmanship in most team members.
+一个了不起的成就是当产品的内在复杂性也在不断增长的时候，团队正在提高整体质量。使用Sonar和许多相关工具持续地监控质量。那时，一家外部机构还做行了一场审计并将该系统评为全球前5%。对高质量的驱动力主要来源于大多数团队成员的匠艺精神。
 
-Since teams, together with the Product Owner, were able to decide how to spend their time, they would often choose to experiment and build new innovations. We often held hackathons and ShipIt Days, during which we would try to deliver in one day something that was not yet on the Product Backlog, more or less free from any constraints.
+由于团队和产品负责人能够决定如何使用时间，他们通常会选择进行实验和新创新。我们经常举办黑客马拉松和ShipIt Days活动，在活动中，我们尝试在一天内交付尚未在产品待办列表中的东西，或多或少不受任何限制。
 
 ## Process
 
