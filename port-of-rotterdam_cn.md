@@ -100,7 +100,7 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/hamis-timeline.png" alt="hamis-timeline.png">
-  <figcaption>图标 2: HaMIS 时间表</figcaption>
+  <figcaption>图 2: HaMIS 时间表</figcaption>
 </figure>
 
 ## The Product
