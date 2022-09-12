@@ -69,7 +69,7 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 > LeSS规则：对整个可以交付的产品有一个产品所有人和一个产品待办列表。
 
-在这个阶段真正的产品负责人负责对产品待办列表的排序，并且通过澄清条目及提供对任何问题的答案与团队合作。不幸的是他仍然持续地充当一个团队与其他利益相关者的中间人，而不是去直接连接团队和利益相关者。
+在这个阶段真正的产品负责人负责对产品待办列表的排序，并且通过澄清条目及提供对任何问题的答案与团队合作。不幸的是他仍然持续地充当一个团队与其他干系人的中间人，而不是去直接连接团队和干系人。
 
 > LeSS规则：产品所有人不应该独自工作于产品待办列表的梳理；他通过让多个团队直接和客户／用户以及干系人工作来获得支持。
 
@@ -177,23 +177,23 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 由于团队和产品负责人能够决定如何使用时间，他们通常会选择进行实验和新创新。我们经常举办黑客马拉松和ShipIt Days活动，在活动中，我们尝试在一天内交付尚未在产品待办列表中的东西，或多或少不受任何限制。
 
-## Process
+## 流程
 
-### Focus on Users
+### 聚焦用户
 
-We used many of the well-known practices for understanding business needs: user stories, epics, themes, and releases. Although they’d been useful, teams spent most effort on simply inviting users to visit or visiting users on the job, talking to them, and, most importantly, observing their work (“[Me and My Shadow](http://www.innovationgames.com/me-and-my-shadow/)” - an innovation game). HaMIS team members would take the initiative, without Product Owner involvement, to arrange visits. As a result of this effort, epics and user stories were often rewritten or replaced. Teams would usually involve the Product Owner afterwards. While the Product Owner was generally absent during these sessions, he or she still decided whether or not items should be placed on the Product Backlog, and where in the Product Backlog.
+我们使用了许多众所周知的实践来了解业务需求：用户故事、史诗、主题以及版本规划。尽管它们很有用，但团队主要的精力花在简单地邀请用户来或者团队自己去用户工作现场，与他们交谈，而且最重要的是观察他们的工作（“[我和我的影子](http://www.innovationgames.com/me-and-my-shadow/)” - 一个创新游戏）。即便产品负责人没有参与，HaMIS 团队成员也主动地安排这些访问。作为这一努力的结果，史诗和用户故事经常被重写或者替换。这些与用户的互动之后，团队会把产品负责人拉进来。虽然产品负责人经常缺席这些互动，他或她仍然决策相关需求条目是否应该放入到产品待办列表中，放的话放到什么位置。
 
-> LeSS rule: All prioritization goes through the Product Owner, but clarification is as much as possible directly between the Teams and customer/users and other stakeholders.
+> LeSS规则：所有的优先级排序都通过产品所有人，但是澄清尽量由团队和客户／用户以及干系人直接进行。
 
-Users had become involved in the process, and were visiting teams on weekly basis. Sometimes, a whole team would take their laptops and work at place where users are for a few days. Certain features required a lot more feedback, and proximity makes collaboration more efficient.
+用户参与了这个过程，并且每周访问团队。有些时候整个团队会带着笔记本电脑去用户所在的地方工作几天。有些功能需要更多的反馈，而近距离会让这种协作更加有效。
 
-During Sprint Reviews (one in which every team demonstrated their features), where product increment was shown and feedback received, a meeting room would be completely filled with users and business people. Unfortunately, it gradually became more difficult to keep them coming after every Sprint. Continuously delivering new features for years became business as usual. In the beginning, everyone was excited by such fast delivery.
+在迭代评审（每个团队展示他们的功能）时， 产品增量被展示并收到反馈。会议室会挤满了用户和业务人员。不幸的是，能够让他们在每个迭代持续地来变得越来越困难。多年以来，不断地提供新功能已经成为惯例。一开始的时候，每个人都对这么快速的交付感到兴奋。
 
-> LeSS rule : There is one product Sprint Review; it is common for all teams.  Ensure that enough stakeholders join to contribute the information needed for effective inspection and adaptation.
+> LeSS 规则：有一个产品的Sprint评审；对所有团队都是共同的。确保足够的干系人能够参加并贡献有效检验和适应所需要的信息。
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/sprint-review.jpg" alt="sprint-review.jpg">
-  <figcaption>Figure 6: Sprint Review</figcaption>
+  <figcaption>图 6: 迭代评审</figcaption>
 </figure>
 
 A big lesson learned was that comments from the Product Owner or someone similar could never replace talking to users. In complex challenges, collaboration with users became even more important. Occasionally, teams misunderstood the need, which resulted in rewritten functionality in the following Sprints. An interesting observation was that talking to users seemed occasionally difficult. Users really liked to talk when asked specific questions. They would expound on all kinds of detail at that moment, while we came for specific answers to specific questions. This was due to different perspectives between their world and our software world. Nevertheless, team members found that talking to real users was definitely the most effective and accurate way to discover requirements. Despite difficulties, it was always worth the effort and beneficial for all involved.
