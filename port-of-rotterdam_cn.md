@@ -218,25 +218,25 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 另外一件团队成员做的事就是在每日站会上，在准备开始一个新条目之前，先不断地互相提问“如何帮助完成已经开始的条目”。这样的做法能够将 WIP 减少为每个团队两到三个。接受这么一个事实，当有团队成员没有太多工作时，先试图帮助其他人完成一个条目。结对非常适合这个实践。
 
-### More work, so more teams?
+### 更多的工作，更多的团队？
 
-Our teams constantly improved, with great results. The rest of the organisation noticed. This had two effects:
-* Other IT departments and teams started introducing Kanban or Scrum
-* Business people with budgets made more and more requests, even from outside of Port of Rotterdam.
+我们的团队在持续的改进，并且取得了很大的成果。组织里的其他人也注意到了。这带来了两个影响：
+* 其他的IT部门和团队开始引入看板或者Scrum
+* 有预算的业务人员开始提出越来越多的请求，甚至来自于鹿特丹港以外的地方
 
-About 2 years ago, also the *Port of Amsterdam* wanted to replace their system with HaMIS. This did not mean they would receive a download with our software; our teams and the PO suddenly had a whole new group of stakeholders and users for the same product. The principles of incremental delivery and close contact with users and customers are still applied. The difference was that teams needed to spend some time in Amsterdam, too.
+大概两年前阿姆斯特丹港也想要用HaMIS来替代他们的系统。这并不意味着他们直接下载我们的软件使用；这意味着我们的团队和产品负责人突然有了一群全新的干系人和用户群体。增量交付和与用户和客户密切协作的原则仍然适用。但团队还需要去阿姆斯特丹待一阵子。
 
-> LeSS rule: The definition of product should be as broad and end-user/customer centric as is practical. Over time, the definition of product might increase. Broader definitions are preferred.
+> LeSS 原则：产品的定义应该是在实际的前提下尽量广并且以终端用户／客户为导向。随着时间的推移，产品的定义可能会扩大。我们倾向于更广的定义。
 
-The Product Backlog contains work for multiple years. All these stakeholders wanted to have their value preferably yesterday. This automatically triggered the question about scaling towards more teams. More people means more work can be delivered, right? Every time the question would arise, the teams’ answer was “No!”
+产品待办列表包含了好几年的工作。所有的干系人都希望获得自己的价值，而且最好是在昨天。这会自动的触发扩展到更多团队的问题。更多的人也就意味着更可以交付更多，对吗？每当这个问题响起的时候，团队的答案都是“不！”
 
-We realised that the request for more teams was by itself an incorrect request. The correlation between more teams and more production was, at best, weak. At worst, it could have exactly the opposite effect. The requests were followed by a number of questions from the teams:
-* What is the exact need? Is it clear enough?
-* Should this be part of HaMIS as a product?
+我们意识到请求更多的团队这本身就是一个不正确的请求。更多的团队和更多的交付之间的相关性充其量是微弱的。在最坏的情况下，它可能会产生完全相反的效果。在这些请求被提出之后，团队也提出了一些问题：
+* 需求到底是什么？足够清晰了吗？
+* 这应该属于HaMIS产品的范畴之内吗？
 
-The most important conclusion was that teams would rather keep improving effectiveness through better ways of working together, improving the organizational system, and especially with users and stakeholders, instead of introducing new teams or team members. Eventually, both teams and management agreed on this way of thinking. We all had a strong feeling that a lot can be improved in the system, even after four years.  We came back to the observation that one of the most important areas of improvement was the Product Backlog. This was also the reason for the question above.
+最重要的结论是团队宁愿通过更好的协作方式来提高效率、改善组织，特别是与用户和干系人合作，而非引入新的团队或团队成员。最终团队和管理层就这份思考达成了一致意见。我们都强烈的感觉到，即使在四年后，系统中也有很多东西可以被改进。我们再次观察到，最重要的改进领域之一就是产品代办列表。这也是产生上述问题的原因。
 
-In the first three years, only three teams built HaMIS. Eventually, the teams themselves decided they could hire additional experienced craftsmen and craftswomen, create another team, and still be effective. A good thing about new team members is the experience they bring from other projects.
+在最初的三年，只有三个团队在开发HaMIS。最终，团队自己决定可以雇佣更多经验丰富的男女工匠，创建另一个团队，并且仍然保持战斗力。有新团队成员加入的一个好处就是他们在其他项目中获得的经验。
 
 ## Organisation
 
