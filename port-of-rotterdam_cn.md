@@ -265,9 +265,9 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
   <figcaption>图 7: 团队自设计会议</figcaption>
 </figure>
 
-### Internal and external focus
+### 内部和外部关注
 
-One of the biggest challenges was getting rid of statements such as: “We shouldn’t be responsible for these things, they (business, management, somebody else) should deal with it. If we deal with it, then we have less time to code”. For a long time there was a *lack of external focus* driven by combination of factors. The focus shifted very gradually with realisation that all those “external” things, such as understanding how users do their work in real life is crucial for delivering real value, and that working code itself is not necessarily same as value. Self-managing teams became significantly more efficient than anyone outside in dealing with these issues. There were no translations, *no broken feedback loops* because of e.g. technical limitations.
+最大的挑战之一是摈弃这样一些说法，比如“我们不应为此负责，他们（业务、管理或其他一些人）才是应该去做的人。如果我们去做，那么我们编代码的时间就会变少了”。很长一段时间，由于多种因素的共同影响，团队*缺乏外部关注*。当人们逐步认识到这些“外部”事务，比如理解用户在现实世界中如何工作的对于交付真正的价值至关重要，以及工作的代码不一定就等同于价值的时候，焦点才慢慢地转移。在处理这些问题时，自管理团队比外部的任何一个人都更有效率。因为没有翻译，也没有由于技术限制等原因*中断的反馈环*。
 
 ### Growing multilearning team members
 
