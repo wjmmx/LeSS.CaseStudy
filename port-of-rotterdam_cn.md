@@ -271,14 +271,13 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 ### 不断增长的多面学习团队成员
 
-The teams were **cross-functional** and capable of taking care of *all aspects for a full delivery*. This was achieved quite early. What also happened is gradual cross-pollination of skills within each of the teams. Pair-work and overall collaboration enabled team members to learn new skills. At some point, almost all team members were capable of doing any of the disciplines and therefore became **generalising specialists**. E.g. in the beginning, testers were mainly building automated tests, but gradually started to deliver production code too. Operations guys from former operations team, spent most of their time coding since there was not much to do in operations.
 团队是跨职能，而且能力是可以覆盖*完整交付所需的所有方面*的。 这在很早就实现了。而且逐渐地在团队内部还能做到技能的“异花传粉”。结对工作以及整体协作激活了团队成员对新技能的学习。在某些时候几乎每个团队成员都能够完成。在某些时候，几乎所有团队成员能做任何工作，从而成为了**通才专家**。例如，在一开始，测试人员主要是写自动化测试，但慢慢地他们也开始写生产代码。前运营团队的运营人员大部分时间都是在做编码工作，因为并没有那么多的运营工作。
 
-### Cross-component teams
+### 跨组件团队
 
-When Scrum was introduced, teams were cross-functional, but still specialised in certain components. One team took care of messaging, other team dealt with “port map”, and yet another “ship inspections”. The PO would select a **qualified feature team** for a feature. In time, they started to become more **cross-component**, and therefore take care of any component required to deliver any feature. In time, any team was capable of doing anything. In other words, teams invested in deep learning in less familiar territory. Eventually, there was *no significant difference* between teams concerning knowledge areas.
+当引入 Scrum 时，团队是跨职能的，但仍然是特定团队专注于某些特定组件。一个团队负责消息传递，另一个团队负责“港口地图”，还有一个团队负责“船舶检查”。PO 要为某个特性的开发选择某个**最合适的特性团队**。随着时间的推移，他们开始变得**跨组件**，因此为了交付任何一个特性工作在相关的的任何组件上。慢慢的，任何一个团队都有能力做任何事情。换句话说，团队在不太熟悉的领域知识学习上做了很大投资。最终，团队之间在知识领域方面没有*显著差异*。
 
-A very interesting advantage is reduced architectural complexity. There was a less tendency to choose overly complex solutions. In contrary, more redesigns and refactorings are done in order to reduce cross-component complexity.
+一个非常有趣的好处就是架构复杂性因此而降低。选择过于复杂的解决方案的倾向变得很小。相反，为了降低跨组件的复杂性，团队进行了更多的重新设计和重构。
 
 ### Coordination between teams
 
