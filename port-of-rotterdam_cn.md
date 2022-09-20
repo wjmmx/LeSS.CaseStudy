@@ -238,31 +238,31 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 在最初的三年，只有三个团队在开发HaMIS。最终，团队自己决定可以雇佣更多经验丰富的男女工匠，创建另一个团队，并且仍然保持战斗力。有新团队成员加入的一个好处就是他们在其他项目中获得的经验。
 
-## Organisation
+## 组织
 
-### Self-managed, cross-functional feature teams
+### 自管理的、跨职能的特性团队
 
-It took a lot effort to give teams the authority to make decisions on their own. The challenge was not the teams, but the rest of organisation. Management and other involved people were accustomed to certain ways of working (“It is part of my responsibility as a manager to make these decisions”), which needed to be moved to teams. The main mantra, whenever someone from outside suggested to change something or make a decision, became: “Bring this subject to the teams!”.
+需要花费很多的努力才能让团队做到自主决策。这其中的挑战并非来自于团队，而是来自于组织的其他部分。管理和其他相关人员习惯了某些工作方式(“做决策是我作为一名管理人员的职责”），而这些方式是要被转移到团队的。 每当有外部人员建议去做一些改变或做决策的时候，我们应该像喊口号一样来回应：把这个问题带给团队吧！
 
-This trust given by management to a whole team created sense of *responsibility*. It is the trust that teams were very much capable of making decisions with large impact. Management and PO also gradually stopped approaching individual team members for specific tasks or any kind of performance review or feedback.
+这种管理层对整个团队的信任创造了责任感。这是一种对于团队有能力做出具有重大影响的决策的信任。管理层和产品负责人也逐步停止了针对团队成员个人的具体任务指派或者任何形式的绩效评估或反馈。
 
-> LeSS rule: Each team is (1) self-managing, (2) cross-functional, (3) co-located, and (4) long-lived.
+> LeSS 规则：每个团队是：（1）自管理的、（2）跨职能的、（3）同在一地的、（4）长期的
 
-Team members *identified* mainly with a whole product and therefore all teams together, and secondly to their own team. Teams were fairly stable, although they decided to shuffle 3 times in 4 years for more fun, better knowledge sharing and getting to work more closely with other people too.
+团队成员主要对整个产品即整个产品团队有*认同感*，其次才是他们各自自己的团队。整个产品团队相当稳定，尽管他们在4年内曾决定3次团队重组，以获得更多的快乐、更好的知识分享以及对其他人也更熟悉。
 
-This shuffling was a **self-designing teams** session and was done in about 1-2 hours:
+重组通过一个大约 1-2 小时的**自设计团队**的会议完成。
 
-1. Define all skills / disciplines a team should have with post-its.
-2. Remove doubles or similar skills.
-3. Have consensus about remaining skills
-4. Make 4 copies of each remaining post-it and place one set on each table of the 4 tables.
-5. Everyone uses 3 different colours post-its with own name on each: one colour is skill she masters, other was skill with average knowledge, and last one is skill she would like to learn.
-6. Everyone walks around and places all of his/hers post-it on one table on specific skills.
-7. After this first team composition, each team discussed if they are well-balanced compared to other teams and potentially discuss this with other teams directly, and make adjustments accordingly.
+1. 使用便利贴写出应具备的所有技能/原则。
+2. 移除掉写了重复或者类似技能的便利贴。
+3.  对于保留下来的技能达成一致性意见。
+4.  保留下来的技能形成一组技能，将其复制 4 份然后放到 4 张桌子上。
+5.  每个人在三张不同颜色的便利贴上写下自己的名字：一种颜色代表自己精通的技能，第二种颜色代表自己平均水平的技能，第三种颜色代表自己想要学习的技能。
+6.  每个人四处走动，将他/她的所有便利贴贴到桌子上对应的具体技能。
+7.  组成第一个团队后，每个团队都讨论一下看看团队与团队之间是否平衡，并直接与相关的团队进行讨论，然后做出相应的调整。
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/self-designing_teams.jpg" alt="self-designing_teams.jpg">
-  <figcaption>Figure 7: Self-designing teams session</figcaption>
+  <figcaption>图 7: 团队自设计会议</figcaption>
 </figure>
 
 ### Internal and external focus
