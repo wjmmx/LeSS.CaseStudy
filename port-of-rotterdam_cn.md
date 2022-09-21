@@ -296,9 +296,9 @@ After some time, representatives from each team would come, and not necessarily 
 
 这个情形下最值得一提的是团队成员都认为他们是 HaMIS 的一部分，而非他们的官方组织。
 
-### Cross-cutting activities
+### 跨领域活动
 
-Decisions from workshops often led to some work (often, some supporting infrastructure work such as replacement of the application server or Java version upgrade) that is not related to a single feature. This work item was added to the bottom of the Product Backlog, and after the Product Owner’s consent during Sprint Planning, one of the teams would take the responsibility for delivery. This team becomes essentially a **temporary infrastructure team** for one or few Sprints, although we never named the team as such.
+工作坊的决策通常会带来一些与单个功能无关的工作(通常是一些支持基础架构的工作，例如更换应用程序服务器或 Java版本升级）。这样一个工作项通常被添加到产品待办列表的底部，在迭代计划会议期间得到产品负责人的同意之后，其中一个团队将负责该工作。这个团队本质上其实就是在一个或者几个Sprint期间的**临时基础设施团队**，尽管我们并没有正式为该团队如此命名。
 
 ### UI Design knowledge
 
