@@ -308,13 +308,13 @@ After some time, representatives from each team would come, and not necessarily 
 
 解决方案是聘请一位专家，她在自己的团队中是一位通才专家，但同时担任其他团队的老师和教练。早期，她的时间大多花在向其他团队*展示*一个好的设计上；后来，她花更多的时间在结对工作和评审其他团队的 UI 设计上。
 
-### Cross-team working agreements
+### 跨团队工作约定
 
-All teams share one **Definition of Done**. This was inevitable since any team could deliver any of the features.
+所有团队共享一份 **完成的定义**。这是不可避免的因为每个团队都可能交付任何一个特性。
 
-Any significant architectural decisions, which would immediately affect production code were first shared with other teams. Everyone was invited to discuss the solution, and attending team members were permitted to take decisions on behalf of everyone. Decisions making were almost always based on consensus, not compromise.
+任何重要的会直接影响到生产代码的架构决策都在第一时间与其他团队共享。每个人都被邀请参与讨论相关解决方案，参与的团队成员能代表其他人做出决定。决策几乎都是基于共识而非妥协。
 
-Anyone could suggest anything, and therefore could organise a session where significant decisions could be made. The person who made a suggestion had to have valid argumentation, which was challenged by others. Therefore, nobody except the Product Owner had special authority to force any decision, whether it was subtly based on too aggressive influencing or directly imposed.
+任何人都可以提任何建议，随之组织一个会议并且在其中可能会做出一个重要的决定。提出建议的人必须有有效的论证，这会收到其他人的挑战。因而，除了产品负责人外，没有人有权利强制做出任何决定，无论是微妙地通过大力影响还是直接强加。
 
 ## Events
 
