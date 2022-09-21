@@ -316,15 +316,15 @@ After some time, representatives from each team would come, and not necessarily 
 
 任何人都可以提任何建议，随之组织一个会议并且在其中可能会做出一个重要的决定。提出建议的人必须有有效的论证，这会收到其他人的挑战。因而，除了产品负责人外，没有人有权利强制做出任何决定，无论是微妙地通过大力影响还是直接强加。
 
-## Events
+## 事件
 
-### Sprint planning
+### 迭代计划
 
-At the start of the Sprint, all teams would first gather in front of a physical (cards on wall) Product Backlog where items for the upcoming 3 Sprints were always visible, together with the Product Owner. Each team would choose, negotiate with other teams and possibly clarify any cross-team coordination issues. In short, a common  **Sprint Planning part 1**. The whole meeting took between 10 and 15 minutes.
+在一个迭代开始时，首先所有的团队与产品负责人一起聚集在一个物理（卡片贴在墙上）产品待办列表的前面，即将到来的三个迭代的所有条目在其上始终可见。每个团队都会选择待办条目，与其他的团队一起协商，并澄清任何可能的跨团队协作问题。简而言之，这是一个常见的 **迭代计划第一部分**。整个会议持续10到15分钟。
 
-The chosen items were then further discussed and planned by each team in their own Sprint Planning part 2. The PO was not always present during part 2 meetings, but could always be contacted by phone if needed.
+在团队各自的迭代计划第二部分中他们对所选的待办条目做进一步讨论和计划。产品负责人并不总是在场，但如果需要，可以随时通过电话联系。
 
-> LeSS rule: Sprint Planning consists of two parts: Sprint Planning Part One is common for all teams while Sprint Planning Part Two is usually done separately for each team.
+> LeSS 规则：迭代计划由两部分组成：迭代计划第一部分是所有团队共同做，而迭代计划第二部分通常由各团队分别做。
 
 ### Product Backlog Refinement
 
