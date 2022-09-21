@@ -279,15 +279,16 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 一个非常有趣的好处就是架构复杂性因此而降低。选择过于复杂的解决方案的倾向变得很小。相反，为了降低跨组件的复杂性，团队进行了更多的重新设计和重构。
 
-### Coordination between teams
+### 团队间协调
 
-During the early days of “Scrum-But-But” (very fake Scrum) , there was a Scrum of Scrums meeting where the so-called Scrum Master of each team would come together with project managers to discuss topics. Ouch!
+在早期“Scrum-But-But”（虚假Scrum）的时候，有一个 Scrum of Scrums 会议，每个团队被称为 Scrum Master 的人会在这个会上跟项目经理们一起讨论。哎哟！
 
 After some time, representatives from each team would come, and not necessarily the “Scrum Master”. In time, not much relevant was discussed in these meetings.
+一段时间后，每个团队都会有代表来，即便他不一定是 “Scrum Master” 。随着时间的推移，这些会议并没有讨论太多相关问题。
 
-Eventually, as all project management related activities disappeared or replaced by Scrum activities, real coordination happened directly between team members as needed, and in many different ways. There was no special dedicated meeting for this. When needed, anyone could organise **multi-team design workshops** for any significant decision. Everyone is invited, but they were not compelled to participate.
+最终，随着所有与项目管理相关的活动消失或者被Scrum活动所代替，真正的协调以多种不同的方式直接发生在团队成员之间。没有为此召开专门的会议。当有需要时，任何人都可以为了重要决策组织**多团队设计工作坊**。每个人都被邀请参加，但非强邀。
 
-Besides design workshops, we organised regularly coding dojos for knowledge sharing purposes, TDD katas, discussing some tricky approaches, etc. Because of strong generalising specialist culture and already strong collaboration between everyone, and being just a few teams together at the same site, there was no need for  formal **communities of practice**. Rather, emergent multi-team coordination mechanisms were good enough.
+除了设计工作坊，我们定期组织代码道场来做知识共享，TDD kata，讨论一些棘手的方法等。由于强大的通才专家文化和人与人之间良好的协作，并且只是在同一地点工作的几个团队，因此不需要正式的**实践社区**。相反，新兴的多团队协调机制已经足够好了。
 
 ### Reporting
 
