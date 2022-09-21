@@ -300,13 +300,13 @@ After some time, representatives from each team would come, and not necessarily 
 
 工作坊的决策通常会带来一些与单个功能无关的工作(通常是一些支持基础架构的工作，例如更换应用程序服务器或 Java版本升级）。这样一个工作项通常被添加到产品待办列表的底部，在迭代计划会议期间得到产品负责人的同意之后，其中一个团队将负责该工作。这个团队本质上其实就是在一个或者几个Sprint期间的**临时基础设施团队**，尽管我们并没有正式为该团队如此命名。
 
-### UI Design knowledge
+### UI设计知识
 
-In the beginning Scrum-But-But days, UI design was done by a dedicated technical “architect” who designed and developed the front-end of the system up-front in a proof of concept. He was not a UI design specialist. After Scrum introduction, this responsibility is fully given to teams. Therefore, anyone was allowed to make suggestions for user interface design and together as a team make a decision.
+在最初的 Scrum-But-But 时期，UI 设计是由一位专门的技术“架构师”完成的，他在概念验证中事先设计和开发了系统的前端。但他不是 UI 设计专家。在引入 Scrum 之后，这个责任就完全交给了团队。因此，任何人都可以对用户界面设计提出建议，并作为共同做出团队决定。
 
-Unfortunately, this was not enough because none of members had proper knowledge and experience to do this really good. Everyone, PO, users, and teams were not happy with the design or resulting user experience, but nobody knew how to properly deal with the problem.
+不幸的是，这并不足够因为没有人有适合的知识和经验来真正做好这项工作。每个人，包括产品负责人、用户还有团队都对 UI 设计和由此带来的用户体验不满意，但是没人知道该解决这个问题。
 
-The solution was to hire a specialist to be a **generalizing-specialist in her home team**, but who in addition also acted as a teacher and coach to other teams. In the early days, she spent more time *showing* other teams a good design; later, she could spend more in pair-work or reviewing other teams’ UI designs.
+解决方案是聘请一位专家，她在自己的团队中是一位通才专家，但同时担任其他团队的老师和教练。早期，她的时间大多花在向其他团队*展示*一个好的设计上；后来，她花更多的时间在结对工作和评审其他团队的 UI 设计上。
 
 ### Cross-team working agreements
 
