@@ -65,7 +65,7 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 
 在这个时间点上，我们仍然有一个活跃的项目经理正在学习着如何放手。他仍然可以表达他想要什么，而非所有的控制都在一个真正的产品负责人手中。
 
-两个伪产品负责人中的一个开始表现得像一个真正的产品负责人，他也被看作是真正的产品负责人。两个产品负责人都是从港口管理（业务）部门来的。[真正的产品负责人](/less/framework/product-owner)也是那个做优先级排序以及产品代办列表更新的人。他拥有足够的权力来做产品相关的决策。第二个人官方也被叫做产品负责人，但是实际上并不被视为“产品负责人”。不幸的是，他持续地充当团队和用户之间的中间人（业务分析师），增加了交接，与人们谈话并且收集反馈。这个问题从来没有被完全解决过，只是及时减少其影响。我后来学到的教训是拥有一个待在团队和用户之间做分析师的伪产品负责人存在非常重要的缺点。这是我曾经在一开始时（错误地）以为这是一个可接受的妥协，并没有预见到它会带来的复杂度。
+两个伪产品负责人中的一个开始表现得像一个真正的产品负责人，他也被看作是真正的产品负责人。两个产品负责人都是从港口管理（业务）部门来的。[真正的产品负责人](/less/framework/product-owner)也是那个做优先级排序以及产品待办列表更新的人。他拥有足够的权力来做产品相关的决策。第二个人官方也被叫做产品负责人，但是实际上并不被视为“产品负责人”。不幸的是，他持续地充当团队和用户之间的中间人（业务分析师），增加了交接，与人们谈话并且收集反馈。这个问题从来没有被完全解决过，只是及时减少其影响。我后来学到的教训是拥有一个待在团队和用户之间做分析师的伪产品负责人存在非常重要的缺点。这是我曾经在一开始时（错误地）以为这是一个可接受的妥协，并没有预见到它会带来的复杂度。
 
 > LeSS规则：对整个可以交付的产品有一个产品所有人和一个产品待办列表。
 
@@ -234,7 +234,7 @@ Scrum作为实践而非会影响既有团队和经理角色的*组织设计变�
 * 需求到底是什么？足够清晰了吗？
 * 这应该属于HaMIS产品的范畴之内吗？
 
-最重要的结论是团队宁愿通过更好的协作方式来提高效率、改善组织，特别是与用户和干系人合作，而非引入新的团队或团队成员。最终团队和管理层就这份思考达成了一致意见。我们都强烈的感觉到，即使在四年后，系统中也有很多东西可以被改进。我们再次观察到，最重要的改进领域之一就是产品代办列表。这也是产生上述问题的原因。
+最重要的结论是团队宁愿通过更好的协作方式来提高效率、改善组织，特别是与用户和干系人合作，而非引入新的团队或团队成员。最终团队和管理层就这份思考达成了一致意见。我们都强烈的感觉到，即使在四年后，系统中也有很多东西可以被改进。我们再次观察到，最重要的改进领域之一就是产品待办列表。这也是产生上述问题的原因。
 
 在最初的三年，只有三个团队在开发HaMIS。最终，团队自己决定可以雇佣更多经验丰富的男女工匠，创建另一个团队，并且仍然保持战斗力。有新团队成员加入的一个好处就是他们在其他项目中获得的经验。
 
@@ -326,28 +326,29 @@ After some time, representatives from each team would come, and not necessarily 
 
 > LeSS 规则：迭代计划由两部分组成：迭代计划第一部分是所有团队共同做，而迭代计划第二部分通常由各团队分别做。
 
-### Product Backlog Refinement
+### 产品待办列表梳理
 
-In the first year, we held a Product Backlog refinement (PBR) workshop with all teams all together. Everyone knew quite well all items, but it didn’t feel efficient. There was also not much collaboration. Team members felt guilty to speak up in an already inefficient meeting.
+第一年，我们举行整体产品待办列表梳理工作坊。每个人都非常了解所有的条目。但是感觉效率并不高。也没有太多的合作。团队成员会觉得在这样一个已经很不高效的会议上发言有罪恶感。
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/product-backlog.jpg" alt="product-backlog.jpg">
-  <figcaption>Figure 8: Product backlog, top priority items. Each lane are items chosen by a team. Columns are potential items for each Sprint</figcaption>
+  <figcaption>图 8: 产品待办列表，最高优先级的条目。每个横向车道贴的是一个团队选择的条目。列代表条目在每个迭代的分布</figcaption>
 </figure>
 
-This was changed into a “gut feeling estimation” workshop, where everyone participated. In LeSS  terms, **multi-team PBR** focusing on estimation. Teams would ask questions and discuss crucial points, where everyone continuously learned to stay out of details.
+这后来变成了一个每个人都参与的“粗略估算”工作坊。在 LeSS 中，**多团队 PBR**关注在估算上。期间团队提出问题并讨论关键问题，而且每个人都一直在学习避免太过细节。
 
-We had considered only *representatives* in the workshop, but the knowledge gained during this workshop proved to be very useful to everyone, and there were only a few teams.
+我们曾经考虑过团队派代表参加工作坊，但是这种工作坊中获得的知识被证明对每个人都很用，而且团队的数量也不多。
 
-After multi-team PBR focusing on estimation, each team did their own **team-level PBR** after choosing set of items most likely to be done by their own team.
+在多团队PBR主要聚焦在估算之后，每个团队选取一些条目后的**团队级别 PBR**几乎都是每个团队自己召开。
 
-A problem with this approach was that during Sprint planning, items could be switched between teams because of changing priorities or to remove constraints between teams. That’s good agility, but this would often require doing refinement all over again for this item by the new team.
+这种方式的一个问题是，在迭代计划会议期间，由于优先级的调整或者团队间限制的消除，条目可能会在团队之间切换。这代表了很好的敏捷性，但是这对于新接手条目的团队来说也通常需要对这个条目重新进行梳理。
 
 In retrospect, the LeSS guide to hold an **overall PBR** meeting with representatives from each team, to due some lightweight clarification all together, would have reduced that problem. At least a few people from all teams would have had some exposure to all items, to increase flexibility across teams. But we didn’t try that.
+回想起来，LeSS 指南建议召开一个由每个团队的代表参加的**整体 PBR**，一起做一些轻量级的澄清，这将减少这个问题。从所有团队来看，至少有一些人会接触到所有条目，这将提高团队间的灵活性。但是我们没有做那样的尝试。
 
-> LeSS Rule: Product Backlog Refinement (PBR) is done per team for the items they are likely going to do in the future.
+> LeSS 规则：产品待办列表梳理（PBR）由每个团队对自己可能接下来要做的条目进行。
 
-> LeSS Guidance: (1) Hold an overall PBR with representatives before each team PBR to explore which teams might work on which items, and to increase learning and alignment. (2) Hold a multi-team PBR to increase shared understanding and exploit coordination opportunities.
+> LeSS 指南：（1）在团队的PBR之前举行整体的PBR来探索哪个团队工作在哪个条目上以增加学习和对齐程度。（2）举行多团队PBR以增加共享理解并发现协调机会加以利用。
 
 ### Retrospective
 
