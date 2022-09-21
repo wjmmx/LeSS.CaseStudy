@@ -290,11 +290,11 @@ After some time, representatives from each team would come, and not necessarily 
 
 除了设计工作坊，我们定期组织代码道场来做知识共享，TDD kata，讨论一些棘手的方法等。由于强大的通才专家文化和人与人之间良好的协作，并且只是在同一地点工作的几个团队，因此不需要正式的**实践社区**。相反，新兴的多团队协调机制已经足够好了。
 
-### Reporting
+### 汇报
 
-Scrum practices are the only means of reporting at HaMIS. Teams didn’t really report to anyone in any way. Line management existed, but was even further away. More than half of team members are contractors, and others were employees. Any direct line manager of team members didn’t really know what they were doing or had any influence on their work.
+在 HaMIS 唯一的汇报途径就是 Scrum 的各个实践。其实团队不用任何方式向任何人汇报。虽然存在直线经理，但是他们甚至离得更远。半数以上的团队成员是合同工，其他的是员工。团队成员的任何直线经理其实并不知道他们在做什么也不会对他们的工作有任何影响。
 
-The most remarkable about this situation is that team members really felt part of HaMIS, and not their official organisation.
+这个情形下最值得一提的是团队成员都认为他们是 HaMIS 的一部分，而非他们的官方组织。
 
 ### Cross-cutting activities
 
