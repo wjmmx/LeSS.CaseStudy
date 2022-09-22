@@ -343,36 +343,37 @@ After some time, representatives from each team would come, and not necessarily 
 
 这种方式的一个问题是，在迭代计划会议期间，由于优先级的调整或者团队间限制的消除，条目可能会在团队之间切换。这代表了很好的敏捷性，但是这对于新接手条目的团队来说也通常需要对这个条目重新进行梳理。
 
-In retrospect, the LeSS guide to hold an **overall PBR** meeting with representatives from each team, to due some lightweight clarification all together, would have reduced that problem. At least a few people from all teams would have had some exposure to all items, to increase flexibility across teams. But we didn’t try that.
 回想起来，LeSS 指南建议召开一个由每个团队的代表参加的**整体 PBR**，一起做一些轻量级的澄清，这将减少这个问题。从所有团队来看，至少有一些人会接触到所有条目，这将提高团队间的灵活性。但是我们没有做那样的尝试。
 
 > LeSS 规则：产品待办列表梳理（PBR）由每个团队对自己可能接下来要做的条目进行。
 
 > LeSS 指南：（1）在团队的PBR之前举行整体的PBR来探索哪个团队工作在哪个条目上以增加学习和对齐程度。（2）举行多团队PBR以增加共享理解并发现协调机会加以利用。
 
-### Retrospective
+### 回顾
 
 Right after the Sprint Review, each team held own team retrospective, which took 1 hour usually.
+紧接着迭代评审会议，每个团队都会举行自己团队的回顾会议，通常 1 小时。
 
-> LeSS rule: Each Team has their own Sprint Retrospective.
+> LeSS 规则：每个团队有自己的迭代回顾。
 
-After this retrospective, all teams got together for an **overall retrospective**. Each team presented own conclusions / actions they wished to communicate, and things they wished to discuss with other teams.
+在团队回顾之后，所有团队一起进行**整体回顾**。每个团队提出他们想交流的结论/行动，以及希望与其他团队交流的事情。
 
-An example of a difficult to solve system-level issue was a big bang effect (not a minimal viable product) caused by prioritization in the product backlog. One or multiple teams had noticed that although the goal is to turn off the old product as soon as possible, they were working on items which didn’t seem to align with the stated goal. In other words, most important PBL items didn’t seem that important.
+一个难以解决的系统问题的例子是产品待办列表优先级所导致的大爆炸效应（而非最小可行产品）。尽管目标是尽快关停老产品，一至多个团队都注意到了他们正在工作的条目与这一目标并不一致。换而言之，大多数优先级靠前的待办条目看上去并不那么重要。
 
-During the group retrospective, the issue is explained and action defined if other teams also agreed that issue should be resolved. The action is assigned to a specific person. This could be a team member, the PO, a Scrum Master, or a manager. In the above case, it was a PO who would tackle the problem together with teams during a next Overall PBR meeting. During this Overall PBR meeting, the teams would go into details of the problem, propose prioritization suggestions to PO, with reprioritization as a result.
+在整体回顾中，如果其他团队也同意这个问题需要被解决的话，那么这个问题将被解释清楚并且定义相关行动项。行动项被分配给一个具体的人。他可以是一个团队成员、一个产品负责人、一个Scrum Master、或者一个管理人员。就上述的例子来说，相关行动项分配给了一个产品负责人，他将在下一个整体迭代待办列表梳理会议期间与团队一起解决问题。在这个整体迭代待办列表梳理会议中，团队将深入问题的细节，向产品负责人提出排序的建议，从而重新决定优先级。
 
-In this process, the question was raised “Can we (teams) resolve this problem ourselves?” Only if not, the problem was given to someone else. Once an action is assigned, there was no specific process. It was suppose to be taken care of as soon as possible. Teams didn’t have a list of system-level issues or improvements, since they focussed on resolving them as fast as possible instead of keeping a list.
+在这样的流程里，只有当“我们（团队）能自己解决这个问题吗”的回答是否定的时候，这个问题才会交给其他人。一旦行动项被分配了，就不再有特定的后续流程。这个行动项假定就是越快做完越好。团队们并没有一个记录了系统级问题或改进项的列表，因为他们聚焦于尽快解决问题而非通过一个列表来记录问题。
 
-In a next group retrospective, everyone was reminded of actions from a previous retrospective and whether they were already done. It was usually only one system-level action and maximum three.
+在下一个整体回顾会议时，每个人都会被提醒上一个回顾时的行动项及其完成状态。通常系统级别问题只有一个，最多不超过三个。
 
-If action was given to a specific team, this team would usually place a post-it note on their Scrum backlog, next to other actions related to their team only.
+如果行动项是分配到一个具体的团队的，那么这个团队会在他们的迭代待办列表里放一个便利贴，贴在那些只是与他们团队相关的行动项旁边。
 
-> LeSS rule: An Overall Retrospective is held after the Team Retrospectives to discuss cross-team and system-wide issues, and create improvement experiments. This is attended by Product Owner, Scrum Masters, Team Representatives, and managers (if there are any).
+> LeSS 规则：在团队各自的回顾之后举行一个整体的回顾来讨论跨团队和系统性的问题，并创建改进试验。这个会议由产品负责人、Scrum Master们、团队代表和管理者（如果有的话）参加。
+>  rule: An Overall Retrospective is held after the Team Retrospectives to discuss cross-team and system-wide issues, and create improvement experiments. This is attended by Product Owner, Scrum Masters, Team Representatives, and managers (if there are any).
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/overall-retrospective.jpg" alt="overall-retrospective.jpg">
-  <figcaption>Figure 9: Overall retrospective on a sunny day outside</figcaption>
+  <figcaption>图 9: 一个阳光下的户外整体回顾</figcaption>
 </figure>
 
 ### Sprint backlog & Daily Scrum
