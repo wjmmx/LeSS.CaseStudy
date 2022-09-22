@@ -390,20 +390,19 @@ Right after the Sprint Review, each team held own team retrospective, which took
 
 ### 验收测试驱动开发（ATDD）
 
-Teams started to use Fitnesse and several other tools already during Scrum introduction. It took some time before they learned to properly define tests, also without making a mess. At some point, they started to use Fitnesse to document specifications by using ATDD / Specification by Example practices. This happened at the beginning of the Sprint, together with PO, subject matter experts, or users.
 在引入 Scrum 期间，团队已经开始使用 Fitnesse 和一些其他工具。他们花了一些时间才学会正确地定义测试，同时不会弄得一团糟。在某些时候，他们开始使用 Fitnesse 通过 验收测试驱动开发（Acceptance Test Driven Development，ATDD） / 实例化需求（Specification by Example） 实践来记录具体需求。这发生在迭代开始时，由团队与产品负责人、业务专家或用户一起开发的。
 
-### Definition of Done
+### 完成的定义
 
-> LeSS rule: The perfection goal is to improve the Definition of Done so that it results in a shippable product each Sprint (or even more frequently).
+> LeSS 规则：完美的目标是通过改进完成的定义达到每个迭代都产出可交付的产品（或者更为频繁）。
 
-A **Potentially Shippable Product Increment** was brought into production after every Sprint (with few exceptions, which they felt as a big failure). Production deployment happened a few days after the Sprint was finished. This short process of about 1 hour didn’t involve HaMIS teams. Only **travelling infrastructure expert**, PO and external infrastructure provider were involved.
+在每个迭代后都有一个**潜在可交付的产品增量**投入生产（除了少数他们认为是很大失败的例外）。生产部署发生在迭代完成后的几天内。HaMIS 团队并没有参与这个大约 1 小时的短暂过程。只有**流动基础设施专家**，产品负责人和外部基础设施提供商参与了该过程。
 
-Everything else was part of the **Definition of Done** and done within the Sprint. It took us a lot of effort to achieve this. In time, this was more and more challenging because of growing complexity, and dependencies with other systems that were less agile than our group. This involved all testing (fully automated), customer documentation, deployment scripting, scripted production database changes, etc.
+其它所有一切都属于**完成的定义**的一部分，并在迭代内都完成了。为了达成这一点，我们付出了很多努力。随着时间的推移，复杂度不断增加，与没有我们敏捷的其他系统的依赖不断增加，这变得越来越有挑战。这涉及到所有的测试（全部自动化），客户文档，部署脚本，生产数据库更改脚本化，等等。
 
-> LeSS rule: One shared Definition of Done for the whole product.
+> LeSS 规则：对整个产品有一个所有团队一致的完成的定义。
 
-Also, all supporting work was done by the feature teams. E.g. configuration, upgrades of all tooling.
+而且，所有的支持工作也是由特性团队完成的。比如，配置、所有工具的升级。
 
 ### Real DevOps: Elimination of the Separate Operations Group
 
