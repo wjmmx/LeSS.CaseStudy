@@ -369,29 +369,29 @@ Right after the Sprint Review, each team held own team retrospective, which took
 如果行动项是分配到一个具体的团队的，那么这个团队会在他们的迭代待办列表里放一个便利贴，贴在那些只是与他们团队相关的行动项旁边。
 
 > LeSS 规则：在团队各自的回顾之后举行一个整体的回顾来讨论跨团队和系统性的问题，并创建改进试验。这个会议由产品负责人、Scrum Master们、团队代表和管理者（如果有的话）参加。
->  rule: An Overall Retrospective is held after the Team Retrospectives to discuss cross-team and system-wide issues, and create improvement experiments. This is attended by Product Owner, Scrum Masters, Team Representatives, and managers (if there are any).
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/overall-retrospective.jpg" alt="overall-retrospective.jpg">
   <figcaption>图 9: 一个阳光下的户外整体回顾</figcaption>
 </figure>
 
-### Sprint backlog & Daily Scrum
+### 迭代待办列表和每日站会
 
-Every team used visual management for their Sprint Backlog and held their Daily Scrum in front of it. They were not held at the same time, to enable other teams to observe. There were often a few members from other teams.
+每个团队的迭代待办列表都被视觉化的呈现，团队每天站在迭代待办列表前开站会。为了便于其他团队来观察，团队的站会并非同时召开。通常会有一些其他团队的成员来参加。
 
 <figure>
   <img src="img/case-studies/port-of-rotterdam-hamis/sprint-backlog.jpg" alt="sprint-backlog.jpg">
-  <figcaption>Figure 10: Sprint Backlog of one team (this was not Daily Scrum :-))</figcaption>
+  <figcaption>图 10: 一个团队的迭代待办列表（这并非是一个每日站会:-)）</figcaption>
 </figure>
 
-> LeSS rule: Each Team has their own Sprint Backlog.
+> LeSS 规则：每个团队有自己的迭代待办列表。
 
-## Practices
+## 实践
 
-### ATDD
+### 验收测试驱动开发（ATDD）
 
 Teams started to use Fitnesse and several other tools already during Scrum introduction. It took some time before they learned to properly define tests, also without making a mess. At some point, they started to use Fitnesse to document specifications by using ATDD / Specification by Example practices. This happened at the beginning of the Sprint, together with PO, subject matter experts, or users.
+在引入 Scrum 期间，团队已经开始使用 Fitnesse 和一些其他工具。他们花了一些时间才学会正确地定义测试，同时不会弄得一团糟。在某些时候，他们开始使用 Fitnesse 通过 验收测试驱动开发（Acceptance Test Driven Development，ATDD） / 实例化需求（Specification by Example） 实践来记录具体需求。这发生在迭代开始时，由团队与产品负责人、业务专家或用户一起开发的。
 
 ### Definition of Done
 
