@@ -404,13 +404,14 @@ Right after the Sprint Review, each team held own team retrospective, which took
 
 而且，所有的支持工作也是由特性团队完成的。比如，配置、所有工具的升级。
 
-### Real DevOps: Elimination of the Separate Operations Group
+### 真正的 DevOps：: 消除单独的运维组
 
-When Scrum was introduced, three teams were building the new product, while a separate operations team of six people dealt with the existing system 24/7. When the first parts of the new system were released, this operations team took on responsibility for operations of the new one also. In the beginning, this was not much of a problem because the required availability of delivered features was not high. The development teams could usually take care of any problem the next day.
+当引入 Scrum 时，有 3 个团队在做新产品的开发，另外还有一个由 6 人组成的独立的运维团队 24/7 的全天候运维现有系统。当新系统的第一部分发布时，该运营团队也接管了新系统的运维。起初，这并不是什么大问题，因为对所交付功能可用性的要求并不高。开发团队通常可以在第二天处理相关问题。
 
-In time, HaMIS grew and larger changes were put in place. Although the operations team had limited or no Java experience, we all decided to introduce **DevOps**: to dissolve the separate operations team and spread operations people over HaMIS development teams and increase the responsibility of the feature teams to include operations. To start, the ex-operations people (now in feature teams) were still scheduled for 24/7 standby, just in case something happened in production. Gradually, the operations people would contribute more and more to HaMIS development. All of them were given an opportunity to learn from their teammates about Java and many applied practices and technologies.
+随着时间的推移，HaMIS 发展壮大了，也引入了更大的变化。尽管运维团队的 Java 经验有限或没有经验，但我们都决定引入 DevOps：解散独立的运维团队，将运维人员分散到 HaMIS 开发团队，并将运维增加到特性团队的职责中。首先，前运维人员（现在在特性团队中）仍被安排为 24/7 待命，以防生产中发生某些事情。渐渐地，运维人员对 HaMIS 的发展贡献越来越大。他们都有机会向队友学习 Java 以及许多应用实践和技术。
 
 On the other hand, as mentioned before, the new product definitely had issues entering production. Someone had to take care of those. The solution was to appoint one feature team as the **operations team** during one Sprint. Therefore, we didn’t have permanent operations team anymore, but a *rotating team*. A normal development team would temporarily become an operations team, in addition to doing normal feature development. They would take care of any issue and provide second-line support. In the beginning, this team would spend the whole Sprint on incidents, monitoring, issues, and so on. Since any developer would rather build something instead of solve self-created defects, all teams would spend time analysing and preventing these issues; this is popularly called “eating your own dog food”. Eventually, the number of issues dropped, even with growing system complexity. An “operations team” would start delivering more and more regular feature items. Ever more powerful **Continuous Integration** (behavior and system) helped a lot too.
+另一方面，如前所述，新产品在投入生产时肯定会存在问题。也必须有人解决这些问题。解决方案是由一个特性团队在一个迭代里担当**运维团队**。这样，我们就不再有固定的运维团队，而是团队间轮换做。一个正常的开发团队除了做正常的特性开发外，会临时变成一个运维团队。他们会处理任何线上问题并提供二线支持。一开始，这个团队将整个迭代都花在异常、监控、问题等方面。由于任何开发人员都宁肯写代码构建一些东西也不愿解决自己创建的缺陷，所以所有的团队都会花时间分析和预防这些问题；这就是俗称的“吃自己的狗粮”。最终，即使系统复杂性不断增加，问题的数量也减少了。 “运维团队”将开始开发越来越多的特性。更强大的**持续集成**（包括行为和系统两方面）对此也帮助很大。
 
 By the way, the teams usually treated any work on infrastructure configuration as one or multiple tasks belonging to a Product Backlog feature-item. Even large infrastructure work was preferably split into smaller parts and done incrementally in the context of customer features.
 
