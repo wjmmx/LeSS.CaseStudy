@@ -410,18 +410,17 @@ Right after the Sprint Review, each team held own team retrospective, which took
 
 随着时间的推移，HaMIS 发展壮大了，也引入了更大的变化。尽管运维团队的 Java 经验有限或没有经验，但我们都决定引入 DevOps：解散独立的运维团队，将运维人员分散到 HaMIS 开发团队，并将运维增加到特性团队的职责中。首先，前运维人员（现在在特性团队中）仍被安排为 24/7 待命，以防生产中发生某些事情。渐渐地，运维人员对 HaMIS 的发展贡献越来越大。他们都有机会向队友学习 Java 以及许多应用实践和技术。
 
-On the other hand, as mentioned before, the new product definitely had issues entering production. Someone had to take care of those. The solution was to appoint one feature team as the **operations team** during one Sprint. Therefore, we didn’t have permanent operations team anymore, but a *rotating team*. A normal development team would temporarily become an operations team, in addition to doing normal feature development. They would take care of any issue and provide second-line support. In the beginning, this team would spend the whole Sprint on incidents, monitoring, issues, and so on. Since any developer would rather build something instead of solve self-created defects, all teams would spend time analysing and preventing these issues; this is popularly called “eating your own dog food”. Eventually, the number of issues dropped, even with growing system complexity. An “operations team” would start delivering more and more regular feature items. Ever more powerful **Continuous Integration** (behavior and system) helped a lot too.
-另一方面，如前所述，新产品在投入生产时肯定会存在问题。也必须有人解决这些问题。解决方案是由一个特性团队在一个迭代里担当**运维团队**。这样，我们就不再有固定的运维团队，而是团队间轮换做。一个正常的开发团队除了做正常的特性开发外，会临时变成一个运维团队。他们会处理任何线上问题并提供二线支持。一开始，这个团队将整个迭代都花在异常、监控、问题等方面。由于任何开发人员都宁肯写代码构建一些东西也不愿解决自己创建的缺陷，所以所有的团队都会花时间分析和预防这些问题；这就是俗称的“吃自己的狗粮”。最终，即使系统复杂性不断增加，问题的数量也减少了。 “运维团队”将开始开发越来越多的特性。更强大的**持续集成**（包括行为和系统两方面）对此也帮助很大。
+另一方面，如前所述，新产品在投入生产时肯定会存在问题。也必须有人解决这些问题。解决方案是由一个特性团队在一个迭代里担当**运维团队**。这样，我们就不再有固定的运维团队，而是团队间轮换做。一个正常的开发团队除了做正常的特性开发外，会临时变成一个运维团队。他们会处理任何线上问题并提供二线支持。一开始，这个团队将整个迭代都花在异常、监控、问题等方面。由于任何开发人员都宁肯写代码构建一些东西也不愿解决自己创建的缺陷，所以所有的团队都会花时间分析和预防这些问题；这就是俗称的“吃自己的狗粮”。最终，即使系统复杂性不断增加，问题的数量也减少了。 “运维团队”将开始开发越来越多的特性。更强大的**持续集成**（包括行为和系统两方面）在这方面帮助也很大。
 
-By the way, the teams usually treated any work on infrastructure configuration as one or multiple tasks belonging to a Product Backlog feature-item. Even large infrastructure work was preferably split into smaller parts and done incrementally in the context of customer features.
+顺便提一下，团队们通常将基础设施配置工作作为一个或多个产品待办列表特性条目的任务。再大的基础设施工作也最好是拆分为小的任务，然后逐步与特性一起完成。
 
-Officially, the infrastructure was managed externally. In reality, the development teams were monitoring the whole infrastructure, introducing and scripting changes. The external company was more or less only executing tasks teams defined. We have spent a lot of effort in involving them in the process, thereby increasingly resembling a single team, and in the process removing this last **functional unit** dependency. Communication between the teams and the company was direct, through Skype, and one day per week a visit to our office.
+正式来说，基础设施是有外部管理的。实际上，开发团队监控整个基础架构，引入和脚本化更改。外部的公司或多或少只是执行团队定义的任务。我们花了很多精力让他们参与到这个过程中，从而越来越像一个团队，消除了这最后一个职能单元的依赖。团队和外部公司之间通过 Skype 进行直接的沟通，并且来自外部公司的人每周会有一天到访我们的办公室。
 
-Probably the most crucial cog in this was to have an infrastructure expert **as a traveller** between teams. He made sure that the delivery process was going smoothly and did most of the communication with the external service provider. Ideally, this work was not needed, but thanks to him we managed to deliver after almost every Sprint.
+可能其中最关键的一点是让基础设施专家作为旅行者穿梭于团队之间。他确保交付过程顺利进行，并承担了大部分的与外部的服务提供商沟通的工作。理想情况下，并不需要这项工作，但幸亏有他，我们才几乎在每个迭代后能够交付。
 
-With this measure, this infrastructure and all other **shared resource queues** are removed. Teams were capable of fully delivering business or user requests into production. In the beginning there was one week between delivering the PSPI and the actual deployment on production. By having someone of the external company once a week at our location, the waiting time was decreased to about 2 days. Besides this, team did not have to wait for anyone to make a delivery.
+通过此措施，此基础设施和所有其它**共享资源队列**都将被移除。团队能够将来自业务或用户的请求完全交付到生产中。一开始，在交付 PSPI 和实际部署到生产环境之间有一周的时间。 通过外部公司的人员每周一次的到访，这一等待时间减少到大约 2 天。除此之外，为了交付团队不必等待任何人。
 
-IT management started also to realise that this was *not a project anymore*, but **continuous product development**. Especially in the last year, a massive influx of new requests resulted in new budgets being reserved. Mainly thanks to great results, the project-paradigm organisation rather silently transformed into a product-paradigm group.
+IT 管理层也开始意识到这*不再是一个项目*，而是**持续的产品开发**。 尤其是在去年，为大量涌入的新请求保留了新的预算。也由于取得的效果出色，项目范式组织悄然转变为产品范式组织。
 
 ### Project management
 
