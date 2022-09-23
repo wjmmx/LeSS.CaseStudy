@@ -422,15 +422,14 @@ Right after the Sprint Review, each team held own team retrospective, which took
 
 IT 管理层也开始意识到这*不再是一个项目*，而是**持续的产品开发**。 尤其是在去年，为大量涌入的新请求保留了新的预算。也由于取得的效果出色，项目范式组织悄然转变为产品范式组织。
 
-### Project management
+### 项目管理
 
-Speaking of “projects”, In the early Scrum-But-But days, HaMIS had two project managers and one program manager, due to traditional assumptions within the larger organization still based on a project- rather than product-paradigm One of the project managers was an official HaMIS project manager while the other was mainly concerned with external communication and coordination with partially dependent projects in other companies or departments.
+说到“项目”，在早期的 Scrum-But-But 时代，由于在更大的组织内，传统的对开发范式的假设仍然基于项目而非产品，HaMIS 有两名项目经理和一名大项目经理。其中一名项目经理是正式的 HaMIS 项目经理，另一位主要负责与其他公司或部门就相关依赖项目进行外部沟通和协调。
 
-Unfortunately, these roles were imposed to remained after the reorganisation to a better Scrum adoption. This created some systemic conflict with the Product Owner, because the PO should have been fully responsible for communicating with external stakeholders, and coordination with other major parties. But the project managers and program manager also tried to do that.
+不幸的是，这些角色在重组后被要求保留，原因是为了更好地导入Scrum。但是这导致了一些与产品负责人之间的系统性冲突，因为产品负责人应该完全负责与外部干系人的沟通，以及与其他部分的协调。但项目经理和大项目经理也都试图这么做。
 
-However, they did help with administrative tasks such as producing traditional reports for traditional managers, and most important, ensuring everyone got paid ;)
+但是，他们也确实帮助完成了一些行政事务，比如为传统管理者制作传统的项目报告，更重要的是确保每个人都发到工资。
 
-Any organisational aspect concerning teams were done by teams, not managers, including: teams (re)design, hiring (except financial part) and firing people, significant architectural decisions, changing working processes. By the way, hiring was done via one full day hands-on evaluation by one of the teams. This included pair-programming, participation in Scrum meetings, and design workshops.
+任何与组织方面相关的事情都是由团队而非管理者来做的，包括：团队设计（重新设计），招聘（除了财务那部分）以及解雇人，重大架构决策，工作流程修改。另外，招聘是由一个团队通过一整天的实操评估来做的。活动包含与候选人结对编程、邀请他参加Scrum会议和设计工作坊。
 
-Effectively, although still there, the project and program managers were not part of the organization in any meaningful way, but would occasionally help by doing teams’ requests.
-
+实际上，尽管项目和大项目经理还存在，但是他们并没有以任何有意义的方式成为团队的一部分，只是偶尔通过满足团队的请求来提供帮助。
